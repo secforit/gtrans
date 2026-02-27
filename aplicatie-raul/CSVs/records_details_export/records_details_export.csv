@@ -1,0 +1,3926 @@
+file_id,field_id,field_name,value
+518508,1,Anamnesis,"URINARE CU SANGE,"
+518508,2,Body Condition,SLAB
+518508,3,obese / thin / underweight,SLAB
+518508,4,Weight,2.6
+518508,5,kg,2.6
+518508,6,Temperature,38.6
+518508,7,°C,38.6
+518508,758,Presumptive Diagnosis,CALCUL VEZICAL URINAL
+518508,759,,CALCUL VEZICAL URINAL
+546344,1,Anamnesis,"colaps cardio respirator,stare proasta de intretinere,cahexie"
+546344,2,Body Condition,slab
+546344,3,obese / thin / underweight,slab
+546344,4,Weight,"2,000"
+546344,5,kg,"2,000"
+546344,6,Temperature,38.3
+546344,7,°C,38.3
+546344,10,Respiratory Frequency,80/min
+546344,11,10-30/min,80/min
+546344,671,,cianotice
+546344,703,Behaviour,letargic
+546344,704,normal,letargic
+546344,674,Observations,"letargic, frecventa respiratorie accelerata,cord pocnitor,abdomen destins,plin de lichid,efectuarea radiografiei toracice"
+546344,758,Presumptive Diagnosis,"edem pulmonar,ascita,"
+546344,759,,"edem pulmonar,ascita,"
+852368,4,Weight,3
+852368,5,kg,3
+1926370,1,Anamnesis,"Scaun cu mucoasa si sange o data la cateva zile, de o luna. Nu a mai intrat in calduri de un an. Are abdomenul tare si umflat."
+1926370,4,Weight,6
+1926370,5,kg,6
+1926370,6,Temperature,38.5
+1926370,7,°C,38.5
+1926370,10,Respiratory Frequency,75
+1926370,11,10-30/min,75
+1926370,8,Heart Rate,90
+1926370,9,bpm,90
+1926370,2,Body Condition,buna
+1926370,3,obese / thin / underweight,buna
+1926370,1043,Body Condition Score,3
+1926370,1044,1,3
+1926370,1045,2,3
+1926370,1046,3,3
+1926370,1047,4,3
+1926370,1048,5,3
+1926370,1049,6,3
+1926370,1050,7,3
+1926370,1051,8,3
+1926370,1052,9,3
+1926370,1206,Color,Pink
+1926370,1207,Pink,Pink
+1926370,1208,Pigmented,Pink
+1926370,1209,Pale,Pink
+1926370,1210,Injected,Pink
+1926370,1211,Cyanotic,Pink
+1926370,1212,Icteric,Pink
+1926370,1213,Not Assessed,Pink
+1926370,1214,Hydration,Moist
+1926370,1215,Moist,Moist
+1926370,1216,Tacky,Moist
+1926370,1217,Not Assessed,Moist
+1926370,1059,Hydration,
+1926370,1060,Normal,
+1926370,1061,5% dehydrated,
+1926370,1062,10% dehydrated,
+1926370,1063,Not Assessed,
+1926370,1200,CRT capillary refill time,2 seconds
+1926370,1201,< 2 seconds,2 seconds
+1926370,1202,2 seconds,2 seconds
+1926370,1203,> 2 seconds,2 seconds
+1926370,1204,Not Assessed,2 seconds
+1926370,1053,Attitude,BAR
+1926370,1054,BAR,BAR
+1926370,1055,QAR,BAR
+1926370,1056,Depressed,BAR
+1926370,1057,Non-responsive,BAR
+1926370,1058,Not Assessed,BAR
+1926370,674,Observations,"Abdomen contractat si dur la palpatie, secretii vaginale de culoare maro."
+1926370,1118,Spay,
+1926370,1119,Spay,
+1926370,1120,Spay not performed - already spayed,
+1926370,1121,Spay not performed - other reason,
+1926370,1156,Unihorn,
+1926370,1157,Normal,
+1926370,1158,Left Horn Absent,
+1926370,1159,Left Kidney Absent,
+1926370,1160,Right Horn Absent,
+1926370,1161,Right Kidney Absent,
+1926370,1185,Suture,
+1926370,1186,Monocryl,
+1926370,1187,Other,
+1926370,1536,PDS II (PDX),
+1926370,1537,Biosyn,
+1926370,1538,Maxon (PGA),
+1926370,1539,Vicryl (PGA),
+1926370,1540,Silk,
+1926370,1541,Catgut,
+1926370,1191,Phenylephrine,
+1926370,1192,Not Applied,
+1926370,1193,Applied,
+1926370,1194,Ear Tip,
+1926370,1195,No,
+1926370,1196,Yes,
+1926370,1197,Already eartipped,
+1926370,1188,Tissue Glue,
+1926370,1189,Yes,
+1926370,1190,No,
+1926370,1496,,Negativ
+1926370,606,Indication:,Abdomen LL
+1926370,607,,Abdomen LL
+1926370,608,Technique:,Decubit lateral dreapta
+1926370,609,,Decubit lateral dreapta
+1926370,610,X-Ray Interpretation:,Formatiune circulara abdominala
+1926370,611,,Formatiune circulara abdominala
+1926455,1078,Diet,"[""""]"
+1926455,1226,Dry,"[""""]"
+1926455,1227,Wet Food,"[""""]"
+1926455,1228,Dry & Wet Food,"[""""]"
+1926455,1229,Home Diet/Table Food,"[""""]"
+1926455,1230,Prescription Diet,"[""""]"
+1926455,1231,Raw diet,"[""""]"
+1926455,1,Anamnesis,Nu mai vede bine
+1926455,674,Observations,Cataracta bilaterala
+1926455,1003,Lens,Cataracta bilaterala
+1926455,354,GOT,
+1926455,355,,
+1926455,356,GPT,40
+1926455,357,,40
+1926455,358,ALB,3.2
+1926455,359,,3.2
+1926455,360,ALP,41
+1926455,361,,41
+1926455,362,AMYL,1345
+1926455,363,,1345
+1926455,364,P,1.5
+1926455,365,,1.5
+1926455,366,Ca,9.5
+1926455,367,,9.5
+1926455,372,GGT,10
+1926455,373,,10
+1926455,374,GLU,114
+1926455,375,,114
+1926455,376,CRE,084
+1926455,377,,084
+1926455,384,TBIL,0.4
+1926455,385,,0.4
+1926455,388,TPRO,5.5
+1926455,389,,5.5
+1926455,392,Urea,12.4
+1926455,393,,12.4
+1926455,776,Lipase,>300
+1926455,777,,>300
+1926455,778,Cholesterol (CHOL),105
+1926455,779,,105
+1926455,780,A/G Ratio,1.4
+1926455,781,,1.4
+1926455,402,WBC,16.4
+1926455,403,,16.4
+1926455,406,HGB,14.8
+1926455,407,,14.8
+1926455,408,HCT,45.1
+1926455,409,,45.1
+1926455,410,PLT,521
+1926455,411,,521
+1926455,416,CHEM/MCHC,32.8
+1926455,417,,32.8
+1926455,428,LYM,4.2
+1926455,429,,4.2
+1926455,434,EOS,1.39
+1926455,435,,1.39
+1926455,675,Reticulocyte,1.2
+1926455,676,,1.2
+1926455,677,Neutrophils,10.81
+1926455,678,,10.81
+1926455,784,(%) Lymphocyte,26
+1926455,785,,26
+1960477,1122,Neuter,
+1960477,1123,Neuter,
+1960477,1124,Neuter not performed - already neutered,
+1960477,1125,Neuter not performed - other reason,
+1960477,1162,Neuter Routine,Scrotal Approach
+1960477,1163,Pre-Scrotal Approach,Scrotal Approach
+1960477,1164,Scrotal Approach,Scrotal Approach
+1960477,1185,Suture,Monocryl
+1960477,1186,Monocryl,Monocryl
+1960477,1187,Other,Monocryl
+1960477,1536,PDS II (PDX),Monocryl
+1960477,1537,Biosyn,Monocryl
+1960477,1538,Maxon (PGA),Monocryl
+1960477,1539,Vicryl (PGA),Monocryl
+1960477,1540,Silk,Monocryl
+1960477,1541,Catgut,Monocryl
+2024677,356,GPT,80
+2024677,357,,80
+2024677,358,ALB,3.3
+2024677,359,,3.3
+2024677,360,ALP,111
+2024677,361,,111
+2024677,366,Ca,10.8
+2024677,367,,10.8
+2024677,368,CK,231
+2024677,369,,231
+2024677,374,GLU,116
+2024677,375,,116
+2024677,376,CRE,0.74
+2024677,377,,0.74
+2024677,388,TPRO,7.8
+2024677,389,,7.8
+2024677,392,Urea,13.4
+2024677,393,,13.4
+2024677,687,Globulins,4.5
+2024677,688,,4.5
+2024677,710,LDH,4.58
+2024677,711,,4.58
+2024677,780,A/G Ratio,0.7
+2024677,781,,0.7
+2024677,402,WBC,10.7
+2024677,403,,10.7
+2024677,406,HGB,16.8
+2024677,407,,16.8
+2024677,408,HCT,47.3
+2024677,409,,47.3
+2024677,410,PLT,454
+2024677,411,,454
+2024677,416,CHEM/MCHC,35.5
+2024677,417,,35.5
+2024677,428,LYM,3.7
+2024677,429,,3.7
+2024677,1118,Spay,Spay
+2024677,1119,Spay,Spay
+2024677,1120,Spay not performed - already spayed,Spay
+2024677,1121,Spay not performed - other reason,Spay
+2024677,1150,Pyometra,Yes
+2024677,1151,No,Yes
+2024677,1152,Yes,Yes
+2024677,1185,Suture,Other
+2024677,1186,Monocryl,Other
+2024677,1187,Other,Other
+2024677,1536,PDS II (PDX),Other
+2024677,1537,Biosyn,Other
+2024677,1538,Maxon (PGA),Other
+2024677,1539,Vicryl (PGA),Other
+2024677,1540,Silk,Other
+2024677,1541,Catgut,Other
+2024677,1194,Ear Tip,
+2024677,1195,No,
+2024677,1196,Yes,
+2024677,1197,Already eartipped,
+2024677,1126,Ovarian pedicle,
+2024677,1127,Suture Ligation,
+2024677,1128,Pedicle Ties,
+2025556,1122,Neuter,Neuter
+2025556,1123,Neuter,Neuter
+2025556,1124,Neuter not performed - already neutered,Neuter
+2025556,1125,Neuter not performed - other reason,Neuter
+2025556,1162,Neuter Routine,Scrotal Approach
+2025556,1163,Pre-Scrotal Approach,Scrotal Approach
+2025556,1164,Scrotal Approach,Scrotal Approach
+2025556,1185,Suture,
+2025556,1186,Monocryl,
+2025556,1187,Other,
+2025556,1536,PDS II (PDX),
+2025556,1537,Biosyn,
+2025556,1538,Maxon (PGA),
+2025556,1539,Vicryl (PGA),
+2025556,1540,Silk,
+2025556,1541,Catgut,
+2034855,1118,Spay,Spay
+2034855,1119,Spay,Spay
+2034855,1120,Spay not performed - already spayed,Spay
+2034855,1121,Spay not performed - other reason,Spay
+2034855,1134,In heat,Yes
+2034855,1135,No,Yes
+2034855,1136,Yes,Yes
+2034855,1185,Suture,Other
+2034855,1186,Monocryl,Other
+2034855,1187,Other,Other
+2034855,1536,PDS II (PDX),Other
+2034855,1537,Biosyn,Other
+2034855,1538,Maxon (PGA),Other
+2034855,1539,Vicryl (PGA),Other
+2034855,1540,Silk,Other
+2034855,1541,Catgut,Other
+2266825,1,Anamnesis,Se scarpina excesiv.
+2266825,4,Weight,30
+2266825,5,kg,30
+2266825,6,Temperature,38.6
+2266825,7,°C,38.6
+2266825,10,Respiratory Frequency,25
+2266825,11,10-30/min,25
+2266825,8,Heart Rate,45
+2266825,9,bpm,45
+2266825,2,Body Condition,Buna
+2266825,3,obese / thin / underweight,Buna
+2266825,1043,Body Condition Score,5
+2266825,1044,1,5
+2266825,1045,2,5
+2266825,1046,3,5
+2266825,1047,4,5
+2266825,1048,5,5
+2266825,1049,6,5
+2266825,1050,7,5
+2266825,1051,8,5
+2266825,1052,9,5
+2266825,1206,Color,Pink
+2266825,1207,Pink,Pink
+2266825,1208,Pigmented,Pink
+2266825,1209,Pale,Pink
+2266825,1210,Injected,Pink
+2266825,1211,Cyanotic,Pink
+2266825,1212,Icteric,Pink
+2266825,1213,Not Assessed,Pink
+2266825,1214,Hydration,Moist
+2266825,1215,Moist,Moist
+2266825,1216,Tacky,Moist
+2266825,1217,Not Assessed,Moist
+2266825,1200,CRT capillary refill time,2 seconds
+2266825,1201,< 2 seconds,2 seconds
+2266825,1202,2 seconds,2 seconds
+2266825,1203,> 2 seconds,2 seconds
+2266825,1204,Not Assessed,2 seconds
+2266825,1059,Hydration,Normal
+2266825,1060,Normal,Normal
+2266825,1061,5% dehydrated,Normal
+2266825,1062,10% dehydrated,Normal
+2266825,1063,Not Assessed,Normal
+2266825,1053,Attitude,BAR
+2266825,1054,BAR,BAR
+2266825,1055,QAR,BAR
+2266825,1056,Depressed,BAR
+2266825,1057,Non-responsive,BAR
+2266825,1058,Not Assessed,BAR
+2266825,674,Observations,Plagi cutanate prin grataj la nivelul botului si perianal.
+2266825,944,Inspection,Zone depilate de culoare rosie
+2266825,946,Elasticity,Scazuta
+2266825,948,Pruritus,"Prezent, excesiv"
+2296668,1,Anamnesis,"Este trist, nu mananca, a vomitat 2 zile."
+2296668,4,Weight,4
+2296668,5,kg,4
+2296668,6,Temperature,38.5
+2296668,7,°C,38.5
+2296668,10,Respiratory Frequency,28
+2296668,11,10-30/min,28
+2296668,8,Heart Rate,80
+2296668,9,bpm,80
+2296668,2,Body Condition,slab
+2296668,3,obese / thin / underweight,slab
+2296668,1043,Body Condition Score,4
+2296668,1044,1,4
+2296668,1045,2,4
+2296668,1046,3,4
+2296668,1047,4,4
+2296668,1048,5,4
+2296668,1049,6,4
+2296668,1050,7,4
+2296668,1051,8,4
+2296668,1052,9,4
+2296668,1206,Color,Pink
+2296668,1207,Pink,Pink
+2296668,1208,Pigmented,Pink
+2296668,1209,Pale,Pink
+2296668,1210,Injected,Pink
+2296668,1211,Cyanotic,Pink
+2296668,1212,Icteric,Pink
+2296668,1213,Not Assessed,Pink
+2296668,1214,Hydration,Tacky
+2296668,1215,Moist,Tacky
+2296668,1216,Tacky,Tacky
+2296668,1217,Not Assessed,Tacky
+2296668,1200,CRT capillary refill time,2 seconds
+2296668,1201,< 2 seconds,2 seconds
+2296668,1202,2 seconds,2 seconds
+2296668,1203,> 2 seconds,2 seconds
+2296668,1204,Not Assessed,2 seconds
+2296668,1059,Hydration,5% dehydrated
+2296668,1060,Normal,5% dehydrated
+2296668,1061,5% dehydrated,5% dehydrated
+2296668,1062,10% dehydrated,5% dehydrated
+2296668,1063,Not Assessed,5% dehydrated
+2296668,1053,Attitude,Depressed
+2296668,1054,BAR,Depressed
+2296668,1055,QAR,Depressed
+2296668,1056,Depressed,Depressed
+2296668,1057,Non-responsive,Depressed
+2296668,1058,Not Assessed,Depressed
+2296668,912,Appetite,Lipsa
+2296668,916,Vomit,Prezenta
+2296668,918,Feces,Absente
+2296668,245,,Durere prezenta
+2296668,920,Palpation,Durere prezenta
+2296668,1025,Submandibular details,Marime si forma nemodificate
+2296668,1221,Submandibular details,Marime si forma nemodificate
+2296668,402,WBC,11.10
+2296668,403,,11.10
+2296668,406,HGB,18.1
+2296668,407,,18.1
+2296668,408,HCT,52
+2296668,409,,52
+2296668,410,PLT,677
+2296668,411,,677
+2296668,416,CHEM/MCHC,34.8
+2296668,417,,34.8
+2296668,784,(%) Lymphocyte,
+2296668,785,,
+2296668,608,Technique:,Abdominal LL si VD
+2296668,609,,Abdominal LL si VD
+2296668,1480,,Negativ
+2296668,1484,,Negativ
+2296668,1492,,Negativ
+2296668,1504,,Negativ
+2296668,1508,,Negativ
+2296668,1512,,Negativ
+3039985,1351,Reason for the visit,"ABATERE,INAPETENTA,PREZENTA DE CAPUSE PE CORPUL ANIMALULUI"
+3039985,4,Weight,18
+3039985,5,kg,18
+3039985,6,Temperature,38.7
+3039985,7,°C,38.7
+3039985,1241,Muscle Condition Score,
+3039985,1242,None,
+3039985,1243,Mild,
+3039985,1244,Moderate,
+3039985,1245,Severe,
+3039985,1043,Body Condition Score,3
+3039985,1044,1,3
+3039985,1045,2,3
+3039985,1046,3,3
+3039985,1047,4,3
+3039985,1048,5,3
+3039985,1049,6,3
+3039985,1050,7,3
+3039985,1051,8,3
+3039985,1052,9,3
+3039985,1246,Pain Score (CSU),1
+3039985,1247,0,1
+3039985,1248,1,1
+3039985,1249,2,1
+3039985,1250,3,1
+3039985,1251,4,1
+3039985,1206,Color,Pale
+3039985,1207,Pink,Pale
+3039985,1208,Pigmented,Pale
+3039985,1209,Pale,Pale
+3039985,1210,Injected,Pale
+3039985,1211,Cyanotic,Pale
+3039985,1212,Icteric,Pale
+3039985,1213,Not Assessed,Pale
+3039985,1214,Hydration,Moist
+3039985,1215,Moist,Moist
+3039985,1216,Tacky,Moist
+3039985,1217,Not Assessed,Moist
+3039985,1200,CRT capillary refill time,
+3039985,1201,< 2 seconds,
+3039985,1202,2 seconds,
+3039985,1203,> 2 seconds,
+3039985,1204,Not Assessed,
+3039985,703,Behaviour,ABATUT
+3039985,704,normal,ABATUT
+3039985,1059,Hydration,5% dehydrated
+3039985,1060,Normal,5% dehydrated
+3039985,1061,5% dehydrated,5% dehydrated
+3039985,1062,10% dehydrated,5% dehydrated
+3039985,1063,Not Assessed,5% dehydrated
+3039985,402,WBC,1.8
+3039985,403,,1.8
+3039985,404,RBC,11.7
+3039985,405,,11.7
+3039985,408,HCT,31.8
+3039985,409,,31.8
+3039985,1457,Packed cell volume (PCV),36.8
+3039985,1458,,36.8
+3039985,406,HGB,11.7
+3039985,407,,11.7
+3039985,675,Reticulocyte,194
+3039985,676,,194
+3039985,1459,(%) Reticulocytes,1.5
+3039985,1460,,1.5
+3039985,1461,(%) Granulocytes,77.5
+3039985,1462,,77.5
+3039985,410,PLT,194
+3039985,411,,194
+3039985,1493,Dirofilaria,Positive
+3039985,1494,Negative,Positive
+3039985,1495,Positive,Positive
+3039985,1501,Borrelia,Negative
+3039985,1502,Negative,Negative
+3039985,1503,Positive,Negative
+3039985,1505,Anaplasma,Negative
+3039985,1506,Negative,Negative
+3039985,1507,Positive,Negative
+3039985,1509,Ehrlichia,Negative
+3039985,1510,Negative,Negative
+3039985,1511,Positive,Negative
+3039985,887,Babesia Gibsoni,POZITIV
+3039985,888,,POZITIV
+3039985,10,Respiratory Frequency,32
+3039985,11,10-30/min,32
+3039985,1304,Examination Notes,"MUCOASE PALIDE,ABATERE,DINTI TOCITI,VARSTA APROXIMATIVA 8 ANI,PREZENTA CAPUSELOR PE CORPUL ANIMALULUI"
+6893799,1351,Reason for the visit,Are o umflatura sub coada. Pacientul este abatut.
+6893799,4,Weight,29
+6893799,5,kg,29
+6893799,6,Temperature,38.6
+6893799,7,°C,38.6
+6893799,1043,Body Condition Score,5
+6893799,1044,1,5
+6893799,1045,2,5
+6893799,1046,3,5
+6893799,1047,4,5
+6893799,1048,5,5
+6893799,1049,6,5
+6893799,1050,7,5
+6893799,1051,8,5
+6893799,1052,9,5
+6893799,2,Body Condition,proasta
+6893799,3,obese / thin / underweight,proasta
+6893799,1246,Pain Score (CSU),3
+6893799,1247,0,3
+6893799,1248,1,3
+6893799,1249,2,3
+6893799,1250,3,3
+6893799,1251,4,3
+6893799,1059,Hydration,5% dehydrated
+6893799,1060,Normal,5% dehydrated
+6893799,1061,5% dehydrated,5% dehydrated
+6893799,1062,10% dehydrated,5% dehydrated
+6893799,1063,Not Assessed,5% dehydrated
+6893799,1053,Attitude,QAR
+6893799,1054,BAR,QAR
+6893799,1055,QAR,QAR
+6893799,1056,Depressed,QAR
+6893799,1057,Non-responsive,QAR
+6893799,1058,Not Assessed,QAR
+6893799,1206,Color,Pink
+6893799,1207,Pink,Pink
+6893799,1208,Pigmented,Pink
+6893799,1209,Pale,Pink
+6893799,1210,Injected,Pink
+6893799,1211,Cyanotic,Pink
+6893799,1212,Icteric,Pink
+6893799,1213,Not Assessed,Pink
+6893799,1214,Hydration,Moist
+6893799,1215,Moist,Moist
+6893799,1216,Tacky,Moist
+6893799,1217,Not Assessed,Moist
+6893799,1200,CRT capillary refill time,2 seconds
+6893799,1201,< 2 seconds,2 seconds
+6893799,1202,2 seconds,2 seconds
+6893799,1203,> 2 seconds,2 seconds
+6893799,1204,Not Assessed,2 seconds
+6893799,1347,Notes,"Prolapsul rectal s-a produs consecutiv hranirii pacientului cu oase de porc. S-a repus manual prolapsul. A fost tinut sub observatie timp de 2 zile, cu tratament si dieta adecvata."
+6893799,1348,Procedure name,Repunere manuala a prolapsului rectal.
+6893799,1350,Client Communications,"Se recomanda dieta stricta: hrana umeda timp de cateva zile, cu specificatia ca, inca, exista riscul de recidiva."
+6893799,669,Conclusions,
+6893799,606,Indication:,Toraco-abdominala
+6893799,607,,Toraco-abdominala
+6893799,608,Technique:,LL
+6893799,609,,LL
+6893799,610,X-Ray Interpretation:,"Stomac in distensie, plin cu hrana, colon plin de gaze."
+6893799,611,,"Stomac in distensie, plin cu hrana, colon plin de gaze."
+6893799,1352,Notes,"S-a efectuat clisma pentru evacuarea materiilor fecale ce blocheaza rectul. S-au administrat : antibiotice, antiinfectioase locale si cicatrizante. antiparazitare. A fost externat in data de 22.11.2022 cu urmatoarele recomandari: dieta umeda, recontrol."
+6893799,1241,Muscle Condition Score,Mild
+6893799,1242,None,Mild
+6893799,1243,Mild,Mild
+6893799,1244,Moderate,Mild
+6893799,1245,Severe,Mild
+6893914,1351,Reason for the visit,Prolapsul rectal a recidivat. Pacientul a primit o cantitate mare de hrana.
+6893914,1330,Induction,Xylazin Bio 2 % + Ketamidor
+6893914,1331,Surgical Notes,S-a efectuat repunerea prolapsului rectal prin sutura in bursa cu fir neresorbabil.
+6893914,1332,Recommendations,Hrana umeda administrata in cantitati mici si dese.
+6893914,1348,Procedure name,"Clisma pentru evacuarea materiilor fecale, care blocheaza rectul. Solutie Klistier."
+6893914,1328,Preanesthetic Exam,test heart worm negativ
+6893914,1522,Mucous membranes color,Pink
+6893914,1523,Pink,Pink
+6893914,1524,Pigmented,Pink
+6893914,1525,Pale,Pink
+6893914,1526,Injected,Pink
+6893914,1527,Cyanotic,Pink
+6893914,1528,Icteric,Pink
+6893914,1529,Not Assessed,Pink
+6893914,1533,Incision,Normal
+6893914,1534,Normal,Normal
+6893914,1535,Abnormal,Normal
+6893914,1352,Notes,Pacientul a fost internat si pregatit pentru interventia chirurgicala.
+6939122,1351,Reason for the visit,"Are crize si tremura, mananca putin. A fost gasita in urma cu o zi."
+6939122,4,Weight,1.2
+6939122,5,kg,1.2
+6939122,6,Temperature,38.5
+6939122,7,°C,38.5
+6939122,10,Respiratory Frequency,50
+6939122,11,10-30/min,50
+6939122,8,Heart Rate,120
+6939122,9,bpm,120
+6939122,1053,Attitude,QAR
+6939122,1054,BAR,QAR
+6939122,1055,QAR,QAR
+6939122,1056,Depressed,QAR
+6939122,1057,Non-responsive,QAR
+6939122,1058,Not Assessed,QAR
+6939122,703,Behaviour,"Agresivitate, midriaza, fotofobie, hipersalivatie."
+6939122,704,normal,"Agresivitate, midriaza, fotofobie, hipersalivatie."
+6939122,674,Observations,Suspiciune Rabie.
+7418471,358,ALB,3.8 g/dL
+7418471,359,,3.8 g/dL
+7418471,360,ALP,63 U/L
+7418471,361,,63 U/L
+7418471,362,AMYL,631 U/L
+7418471,363,,631 U/L
+7418471,356,GPT,56 U/L
+7418471,357,,56 U/L
+7418471,1447,Blood Urea Nitrogen (BUN),10.4 mg/dL
+7418471,1448,,10.4 mg/dL
+7418471,1449,BUN/Creatinine Ratio (BUN/CREA),22.3
+7418471,1450,,22.3
+7418471,366,Ca,10.2 mg/dL
+7418471,367,,10.2 mg/dL
+7418471,376,CRE,0.96 mg/dL
+7418471,377,,0.96 mg/dL
+7418471,374,GLU,138 mg/dL
+7418471,375,,138 mg/dL
+7418471,364,P,3.3 mg/dL
+7418471,365,,3.3 mg/dL
+7418471,388,TPRO,7.4 g/dL
+7418471,389,,7.4 g/dL
+7418471,402,WBC,16.2 K/uL
+7418471,403,,16.2 K/uL
+7418471,408,HCT,50.8 %
+7418471,409,,50.8 %
+7418471,406,HGB,18.4 g/dL
+7418471,407,,18.4 g/dL
+7418471,416,CHEM/MCHC,36.2 g/dL
+7418471,417,,36.2 g/dL
+7418471,784,(%) Lymphocyte,1.6
+7418471,785,,1.6
+7418471,1461,(%) Granulocytes,90.1
+7418471,1462,,90.1
+7418471,1459,(%) Reticulocytes,0.2
+7418471,1460,,0.2
+7418471,432,GRA,14.6 k/uL
+7418471,433,,14.6 k/uL
+7418471,410,PLT,435 K/uL
+7418471,411,,435 K/uL
+7418471,1493,Dirofilaria,Negative
+7418471,1494,Negative,Negative
+7418471,1495,Positive,Negative
+7418506,606,Indication:,Abdomen
+7418506,607,,Abdomen
+7418506,608,Technique:,LL
+7418506,609,,LL
+7418506,612,Observation,"Externarea pacientului si punerea lui sub observatia proprietarului. 
+Prezentare la consult in termen de 48 h. 
+Dieta severa: hrana umede in cantitati mici si dese."
+7418506,613,,"Externarea pacientului si punerea lui sub observatia proprietarului. 
+Prezentare la consult in termen de 48 h. 
+Dieta severa: hrana umede in cantitati mici si dese."
+7701970,1351,Reason for the visit,Motanul nu se mai ridica pe picioarele din spate si are o umflatura la unul din ele.
+7701970,4,Weight,4
+7701970,5,kg,4
+7701970,6,Temperature,38.5
+7701970,7,°C,38.5
+7701970,8,Heart Rate,160
+7701970,9,bpm,160
+7701970,1043,Body Condition Score,3
+7701970,1044,1,3
+7701970,1045,2,3
+7701970,1046,3,3
+7701970,1047,4,3
+7701970,1048,5,3
+7701970,1049,6,3
+7701970,1050,7,3
+7701970,1051,8,3
+7701970,1052,9,3
+7701970,1246,Pain Score (CSU),4
+7701970,1247,0,4
+7701970,1248,1,4
+7701970,1249,2,4
+7701970,1250,3,4
+7701970,1251,4,4
+7701970,1059,Hydration,Normal
+7701970,1060,Normal,Normal
+7701970,1061,5% dehydrated,Normal
+7701970,1062,10% dehydrated,Normal
+7701970,1063,Not Assessed,Normal
+7701970,1053,Attitude,BAR
+7701970,1054,BAR,BAR
+7701970,1055,QAR,BAR
+7701970,1056,Depressed,BAR
+7701970,1057,Non-responsive,BAR
+7701970,1058,Not Assessed,BAR
+7701970,1206,Color,Pink
+7701970,1207,Pink,Pink
+7701970,1208,Pigmented,Pink
+7701970,1209,Pale,Pink
+7701970,1210,Injected,Pink
+7701970,1211,Cyanotic,Pink
+7701970,1212,Icteric,Pink
+7701970,1213,Not Assessed,Pink
+7701970,1214,Hydration,Moist
+7701970,1215,Moist,Moist
+7701970,1216,Tacky,Moist
+7701970,1217,Not Assessed,Moist
+7701970,1200,CRT capillary refill time,2 seconds
+7701970,1201,< 2 seconds,2 seconds
+7701970,1202,2 seconds,2 seconds
+7701970,1203,> 2 seconds,2 seconds
+7701970,1204,Not Assessed,2 seconds
+7701970,606,Indication:,Membre posterioare si bazin
+7701970,607,,Membre posterioare si bazin
+7701970,608,Technique:,LL + VD
+7701970,609,,LL + VD
+7701970,610,X-Ray Interpretation:,"Fractura de femur drept, diafizara, cu deplasare, spiralata."
+7701970,611,,"Fractura de femur drept, diafizara, cu deplasare, spiralata."
+7701970,1122,Neuter,
+7701970,1123,Neuter,
+7701970,1124,Neuter not performed - already neutered,
+7701970,1125,Neuter not performed - other reason,
+7701970,1162,Neuter Routine,Scrotal Approach
+7701970,1163,Pre-Scrotal Approach,Scrotal Approach
+7701970,1164,Scrotal Approach,Scrotal Approach
+7701970,1329,Pre-meds,Xylazina 2% + Ketamidor + Metacam
+7701970,1330,Induction,Ketamidor
+7701970,1331,Surgical Notes,Osteosinteza cu brosa intramedulara de 2 mm si cerclaje.
+7702189,1351,Reason for the visit,Motanul a fost adus pentru internare si interventie chirurgicala.
+7702189,1347,Notes,Tratament: Metacam.
+7702215,8,Heart Rate,190
+7702215,9,bpm,190
+7702215,1162,Neuter Routine,Scrotal Approach
+7702215,1163,Pre-Scrotal Approach,Scrotal Approach
+7702215,1164,Scrotal Approach,Scrotal Approach
+7702215,1329,Pre-meds,Xylazin + Ketamidor + Metacam
+7702215,1330,Induction,Ketamidor
+7702215,1331,Surgical Notes,"Osteosinteza cu brosa intramedulara, cu filet negativ, de 2 mm, si cerclaje."
+7702215,1522,Mucous membranes color,Pink
+7702215,1523,Pink,Pink
+7702215,1524,Pigmented,Pink
+7702215,1525,Pale,Pink
+7702215,1526,Injected,Pink
+7702215,1527,Cyanotic,Pink
+7702215,1528,Icteric,Pink
+7702215,1529,Not Assessed,Pink
+7702215,1530,Recovery from anaesthesia,Normal
+7702215,1531,Normal,Normal
+7702215,1532,Abnormal,Normal
+7702215,1533,Incision,Normal
+7702215,1534,Normal,Normal
+7702215,1535,Abnormal,Normal
+7702215,1332,Recommendations,"Repaus in cusca timp de 6-8 saptamani post-operator, miscare limitata sub supraveghere, fara sarituri. Tratament cu Synulox si Metacam."
+7702267,6,Temperature,39
+7702267,7,°C,39
+7702267,8,Heart Rate,160
+7702267,9,bpm,160
+7702267,1059,Hydration,Normal
+7702267,1060,Normal,Normal
+7702267,1061,5% dehydrated,Normal
+7702267,1062,10% dehydrated,Normal
+7702267,1063,Not Assessed,Normal
+7702267,1053,Attitude,BAR
+7702267,1054,BAR,BAR
+7702267,1055,QAR,BAR
+7702267,1056,Depressed,BAR
+7702267,1057,Non-responsive,BAR
+7702267,1058,Not Assessed,BAR
+7702267,1206,Color,Pink
+7702267,1207,Pink,Pink
+7702267,1208,Pigmented,Pink
+7702267,1209,Pale,Pink
+7702267,1210,Injected,Pink
+7702267,1211,Cyanotic,Pink
+7702267,1212,Icteric,Pink
+7702267,1213,Not Assessed,Pink
+7702267,1214,Hydration,Moist
+7702267,1215,Moist,Moist
+7702267,1216,Tacky,Moist
+7702267,1217,Not Assessed,Moist
+7702267,1200,CRT capillary refill time,< 2 seconds
+7702267,1201,< 2 seconds,< 2 seconds
+7702267,1202,2 seconds,< 2 seconds
+7702267,1203,> 2 seconds,< 2 seconds
+7702267,1204,Not Assessed,< 2 seconds
+7702279,6,Temperature,38.8
+7702279,7,°C,38.8
+7702279,8,Heart Rate,162
+7702279,9,bpm,162
+7702279,1246,Pain Score (CSU),3
+7702279,1247,0,3
+7702279,1248,1,3
+7702279,1249,2,3
+7702279,1250,3,3
+7702279,1251,4,3
+7702279,1053,Attitude,BAR
+7702279,1054,BAR,BAR
+7702279,1055,QAR,BAR
+7702279,1056,Depressed,BAR
+7702279,1057,Non-responsive,BAR
+7702279,1058,Not Assessed,BAR
+7702279,1059,Hydration,Normal
+7702279,1060,Normal,Normal
+7702279,1061,5% dehydrated,Normal
+7702279,1062,10% dehydrated,Normal
+7702279,1063,Not Assessed,Normal
+7702279,1206,Color,Pink
+7702279,1207,Pink,Pink
+7702279,1208,Pigmented,Pink
+7702279,1209,Pale,Pink
+7702279,1210,Injected,Pink
+7702279,1211,Cyanotic,Pink
+7702279,1212,Icteric,Pink
+7702279,1213,Not Assessed,Pink
+7702279,1214,Hydration,Moist
+7702279,1215,Moist,Moist
+7702279,1216,Tacky,Moist
+7702279,1217,Not Assessed,Moist
+7702279,1200,CRT capillary refill time,< 2 seconds
+7702279,1201,< 2 seconds,< 2 seconds
+7702279,1202,2 seconds,< 2 seconds
+7702279,1203,> 2 seconds,< 2 seconds
+7702279,1204,Not Assessed,< 2 seconds
+7702450,1351,Reason for the visit,Proprietarul are suspiciunea de intoxicatie cu antigel. A mai avut doi caini intoxicati in urma cu un an.
+7702450,4,Weight,18
+7702450,5,kg,18
+7702450,6,Temperature,38.6
+7702450,7,°C,38.6
+7702450,8,Heart Rate,150
+7702450,9,bpm,150
+7702450,10,Respiratory Frequency,60
+7702450,11,10-30/min,60
+7702450,1043,Body Condition Score,3
+7702450,1044,1,3
+7702450,1045,2,3
+7702450,1046,3,3
+7702450,1047,4,3
+7702450,1048,5,3
+7702450,1049,6,3
+7702450,1050,7,3
+7702450,1051,8,3
+7702450,1052,9,3
+7702450,1059,Hydration,10% dehydrated
+7702450,1060,Normal,10% dehydrated
+7702450,1061,5% dehydrated,10% dehydrated
+7702450,1062,10% dehydrated,10% dehydrated
+7702450,1063,Not Assessed,10% dehydrated
+7702450,1053,Attitude,BAR
+7702450,1054,BAR,BAR
+7702450,1055,QAR,BAR
+7702450,1056,Depressed,BAR
+7702450,1057,Non-responsive,BAR
+7702450,1058,Not Assessed,BAR
+7702450,703,Behaviour,"Anormal, spasme musculare generalizate, hipersalivatie."
+7702450,704,normal,"Anormal, spasme musculare generalizate, hipersalivatie."
+7702450,1206,Color,Pink
+7702450,1207,Pink,Pink
+7702450,1208,Pigmented,Pink
+7702450,1209,Pale,Pink
+7702450,1210,Injected,Pink
+7702450,1211,Cyanotic,Pink
+7702450,1212,Icteric,Pink
+7702450,1213,Not Assessed,Pink
+7702450,1214,Hydration,Tacky
+7702450,1215,Moist,Tacky
+7702450,1216,Tacky,Tacky
+7702450,1217,Not Assessed,Tacky
+7702450,1200,CRT capillary refill time,< 2 seconds
+7702450,1201,< 2 seconds,< 2 seconds
+7702450,1202,2 seconds,< 2 seconds
+7702450,1203,> 2 seconds,< 2 seconds
+7702450,1204,Not Assessed,< 2 seconds
+7702450,959,Awareness,Alert
+7702450,358,ALB,3.6 g/dL
+7702450,359,,3.6 g/dL
+7702450,360,ALP,56 U/L
+7702450,361,,56 U/L
+7702450,356,GPT,32 U/L
+7702450,357,,32 U/L
+7702450,1447,Blood Urea Nitrogen (BUN),19.6 mg/ dL
+7702450,1448,,19.6 mg/ dL
+7702450,366,Ca,9.9 mg/dL
+7702450,367,,9.9 mg/dL
+7702450,368,CK,142 U/L
+7702450,369,,142 U/L
+7702450,376,CRE,0.84 mg/dL
+7702450,377,,0.84 mg/dL
+7702450,687,Globulins,2.9 g/dL
+7702450,688,,2.9 g/dL
+7702450,374,GLU,123 mg/dL
+7702450,375,,123 mg/dL
+7702450,710,LDH,3.65 mmol/L
+7702450,711,,3.65 mmol/L
+7702450,388,TPRO,6.5 g/dL
+7702450,389,,6.5 g/dL
+7702450,402,WBC,22.5 K/uL
+7702450,403,,22.5 K/uL
+7702450,408,HCT,46.6%
+7702450,409,,46.6%
+7702450,406,HGB,15.8 g/dL
+7702450,407,,15.8 g/dL
+7702450,416,CHEM/MCHC,33.9 g/dL
+7702450,417,,33.9 g/dL
+7702450,675,Reticulocyte,0.9%
+7702450,676,,0.9%
+7702450,432,GRA,17.3 K/uL
+7702450,433,,17.3 K/uL
+7702450,410,PLT,454 k/uL
+7702450,411,,454 k/uL
+7702450,674,Observations,"Tratament cu Synulox, Novasul, Catosal, solutie Ringer."
+7702599,6,Temperature,38.8
+7702599,7,°C,38.8
+7702599,8,Heart Rate,120
+7702599,9,bpm,120
+7702599,1053,Attitude,BAR
+7702599,1054,BAR,BAR
+7702599,1055,QAR,BAR
+7702599,1056,Depressed,BAR
+7702599,1057,Non-responsive,BAR
+7702599,1058,Not Assessed,BAR
+7702599,1059,Hydration,5% dehydrated
+7702599,1060,Normal,5% dehydrated
+7702599,1061,5% dehydrated,5% dehydrated
+7702599,1062,10% dehydrated,5% dehydrated
+7702599,1063,Not Assessed,5% dehydrated
+7702599,1206,Color,Pink
+7702599,1207,Pink,Pink
+7702599,1208,Pigmented,Pink
+7702599,1209,Pale,Pink
+7702599,1210,Injected,Pink
+7702599,1211,Cyanotic,Pink
+7702599,1212,Icteric,Pink
+7702599,1213,Not Assessed,Pink
+7702599,1214,Hydration,Tacky
+7702599,1215,Moist,Tacky
+7702599,1216,Tacky,Tacky
+7702599,1217,Not Assessed,Tacky
+7702599,1200,CRT capillary refill time,2 seconds
+7702599,1201,< 2 seconds,2 seconds
+7702599,1202,2 seconds,2 seconds
+7702599,1203,> 2 seconds,2 seconds
+7702599,1204,Not Assessed,2 seconds
+7702599,1347,Notes,"Tratament cu Synulox, Catosal, solutie Ringer."
+7702599,1493,Dirofilaria,Negative
+7702599,1494,Negative,Negative
+7702599,1495,Positive,Negative
+7702599,1404,Sample collection,Blood sample
+7702599,1405,Fine needle aspiration,Blood sample
+7702599,1406,Exfoliative cytology,Blood sample
+7702599,1407,Blood sample,Blood sample
+7702599,1408,Biopsy,Blood sample
+7702599,1409,Other,Blood sample
+7702599,873,Interpretation,Examen efectuat la Bioclinica pentru depistarea babesiilor= Negativ.
+7702599,874,,Examen efectuat la Bioclinica pentru depistarea babesiilor= Negativ.
+7702655,6,Temperature,38.9
+7702655,7,°C,38.9
+7702655,8,Heart Rate,110
+7702655,9,bpm,110
+7702655,1059,Hydration,Normal
+7702655,1060,Normal,Normal
+7702655,1061,5% dehydrated,Normal
+7702655,1062,10% dehydrated,Normal
+7702655,1063,Not Assessed,Normal
+7702655,1206,Color,Pink
+7702655,1207,Pink,Pink
+7702655,1208,Pigmented,Pink
+7702655,1209,Pale,Pink
+7702655,1210,Injected,Pink
+7702655,1211,Cyanotic,Pink
+7702655,1212,Icteric,Pink
+7702655,1213,Not Assessed,Pink
+7702655,1214,Hydration,Moist
+7702655,1215,Moist,Moist
+7702655,1216,Tacky,Moist
+7702655,1217,Not Assessed,Moist
+7702655,1200,CRT capillary refill time,< 2 seconds
+7702655,1201,< 2 seconds,< 2 seconds
+7702655,1202,2 seconds,< 2 seconds
+7702655,1203,> 2 seconds,< 2 seconds
+7702655,1204,Not Assessed,< 2 seconds
+7702655,674,Observations,"Tratament cu Synulox, Catosal si solutie Ringer."
+7702826,1351,Reason for the visit,"Motanul este suparat, nu mananca."
+7702826,4,Weight,4
+7702826,5,kg,4
+7702826,6,Temperature,36.9
+7702826,7,°C,36.9
+7702826,8,Heart Rate,150
+7702826,9,bpm,150
+7702826,1043,Body Condition Score,3
+7702826,1044,1,3
+7702826,1045,2,3
+7702826,1046,3,3
+7702826,1047,4,3
+7702826,1048,5,3
+7702826,1049,6,3
+7702826,1050,7,3
+7702826,1051,8,3
+7702826,1052,9,3
+7702826,1059,Hydration,5% dehydrated
+7702826,1060,Normal,5% dehydrated
+7702826,1061,5% dehydrated,5% dehydrated
+7702826,1062,10% dehydrated,5% dehydrated
+7702826,1063,Not Assessed,5% dehydrated
+7702826,1053,Attitude,Depressed
+7702826,1054,BAR,Depressed
+7702826,1055,QAR,Depressed
+7702826,1056,Depressed,Depressed
+7702826,1057,Non-responsive,Depressed
+7702826,1058,Not Assessed,Depressed
+7702826,1206,Color,Pale
+7702826,1207,Pink,Pale
+7702826,1208,Pigmented,Pale
+7702826,1209,Pale,Pale
+7702826,1210,Injected,Pale
+7702826,1211,Cyanotic,Pale
+7702826,1212,Icteric,Pale
+7702826,1213,Not Assessed,Pale
+7702826,1214,Hydration,Tacky
+7702826,1215,Moist,Tacky
+7702826,1216,Tacky,Tacky
+7702826,1217,Not Assessed,Tacky
+7702826,1200,CRT capillary refill time,2 seconds
+7702826,1201,< 2 seconds,2 seconds
+7702826,1202,2 seconds,2 seconds
+7702826,1203,> 2 seconds,2 seconds
+7702826,1204,Not Assessed,2 seconds
+7702826,358,ALB,3.8
+7702826,359,,3.8
+7702826,360,ALP,41
+7702826,361,,41
+7702826,356,GPT,54
+7702826,357,,54
+7702826,362,AMYL,882
+7702826,363,,882
+7702826,1447,Blood Urea Nitrogen (BUN),140
+7702826,1448,,140
+7702826,778,Cholesterol (CHOL),143
+7702826,779,,143
+7702826,376,CRE,17.22
+7702826,377,,17.22
+7702826,687,Globulins,4.710
+7702826,688,,4.710
+7702826,372,GGT,10
+7702826,373,,10
+7702826,776,Lipase,25
+7702826,777,,25
+7702826,364,P,18
+7702826,365,,18
+7702826,388,TPRO,8.5
+7702826,389,,8.5
+7702826,402,WBC,5
+7702826,403,,5
+7702826,408,HCT,37.5
+7702826,409,,37.5
+7702826,406,HGB,12.5
+7702826,407,,12.5
+7702826,416,CHEM/MCHC,33.3
+7702826,417,,33.3
+7702826,1461,(%) Granulocytes,80
+7702826,1462,,80
+7702826,432,GRA,4
+7702826,433,,4
+7702826,410,PLT,320
+7702826,411,,320
+7702826,1489,Corona,Positive
+7702826,1490,Negative,Positive
+7702826,1491,Positive,Positive
+7702826,606,Indication:,Abdomen
+7702826,607,,Abdomen
+7702826,608,Technique:,LL
+7702826,609,,LL
+7702826,610,X-Ray Interpretation:,Rinichi mariti in volum.
+7702826,611,,Rinichi mariti in volum.
+7702826,1352,Notes,"Motanul a fost internat pentru tratament: perfuzii cu solutie Ringer lactat + Glucoza + NaCl, Drotavet, Enroxil, Catosal, RenalVet."
+7703061,6,Temperature,36.9
+7703061,7,°C,36.9
+7703061,674,Observations,A urinat si a mancat ( hranit cu seringa) : conserva Hill's A/D.
+7712017,1351,Reason for the visit,"Este trista, are sangerari."
+7712017,4,Weight,33
+7712017,5,kg,33
+7712017,6,Temperature,38.9
+7712017,7,°C,38.9
+7712017,1246,Pain Score (CSU),3
+7712017,1247,0,3
+7712017,1248,1,3
+7712017,1249,2,3
+7712017,1250,3,3
+7712017,1251,4,3
+7712017,1059,Hydration,Normal
+7712017,1060,Normal,Normal
+7712017,1061,5% dehydrated,Normal
+7712017,1062,10% dehydrated,Normal
+7712017,1063,Not Assessed,Normal
+7712017,1053,Attitude,BAR
+7712017,1054,BAR,BAR
+7712017,1055,QAR,BAR
+7712017,1056,Depressed,BAR
+7712017,1057,Non-responsive,BAR
+7712017,1058,Not Assessed,BAR
+7712017,1206,Color,Pink
+7712017,1207,Pink,Pink
+7712017,1208,Pigmented,Pink
+7712017,1209,Pale,Pink
+7712017,1210,Injected,Pink
+7712017,1211,Cyanotic,Pink
+7712017,1212,Icteric,Pink
+7712017,1213,Not Assessed,Pink
+7712017,1214,Hydration,Moist
+7712017,1215,Moist,Moist
+7712017,1216,Tacky,Moist
+7712017,1217,Not Assessed,Moist
+7712017,1200,CRT capillary refill time,< 2 seconds
+7712017,1201,< 2 seconds,< 2 seconds
+7712017,1202,2 seconds,< 2 seconds
+7712017,1203,> 2 seconds,< 2 seconds
+7712017,1204,Not Assessed,< 2 seconds
+7712017,674,Observations,Pacientul prezinta dureri in zona coccigiana.
+7712017,606,Indication:,"Torace, abdomen si bazin"
+7712017,607,,"Torace, abdomen si bazin"
+7712017,608,Technique:,LL
+7712017,609,,LL
+7712017,610,X-Ray Interpretation:,Contuzie in zona vertebrelor coccigiene 2-4.
+7712017,611,,Contuzie in zona vertebrelor coccigiene 2-4.
+7712017,1493,Dirofilaria,Negative
+7712017,1494,Negative,Negative
+7712017,1495,Positive,Negative
+7712017,612,Observation,Tratament : Cimalgex.
+7712017,613,,Tratament : Cimalgex.
+7736341,1118,Spay,
+7736341,1119,Spay,
+7736341,1120,Spay not performed - already spayed,
+7736341,1121,Spay not performed - other reason,
+7736341,1198,Additional Notes,Ovariohisterectomie.
+7736341,1199,,Ovariohisterectomie.
+7788040,1198,Additional Notes,S-a efectuat si detartraj.
+7788040,1199,,S-a efectuat si detartraj.
+7789191,1122,Neuter,Neuter
+7789191,1123,Neuter,Neuter
+7789191,1124,Neuter not performed - already neutered,Neuter
+7789191,1125,Neuter not performed - other reason,Neuter
+7789191,1168,Cryptorchid-Location,"[""Right Inguinal Cryptorchid""]"
+7789191,1169,Right Abdominal Cryptorchid,"[""Right Inguinal Cryptorchid""]"
+7789191,1170,Left Abdominal Cryptorchid,"[""Right Inguinal Cryptorchid""]"
+7789191,1171,Right Inguinal Cryptorchid,"[""Right Inguinal Cryptorchid""]"
+7789191,1172,Left Inguinal Cryptorchid,"[""Right Inguinal Cryptorchid""]"
+7789191,1173,Cryptorchid-Incision Location,"[""Left Inguinal Incision""]"
+7789191,1174,Midline Incision,"[""Left Inguinal Incision""]"
+7789191,1175,Right Para-midline Incision,"[""Left Inguinal Incision""]"
+7789191,1176,Left Para-midline Incision,"[""Left Inguinal Incision""]"
+7789191,1177,Right Inguinal Incision,"[""Left Inguinal Incision""]"
+7789191,1178,Left Inguinal Incision,"[""Left Inguinal Incision""]"
+7789191,1198,Additional Notes,"Suspiciune sertolinom. Testiculul stang modificat in volum si greutate, a fost trimis pentru histologie la Histovet Bucuresti."
+7789191,1199,,"Suspiciune sertolinom. Testiculul stang modificat in volum si greutate, a fost trimis pentru histologie la Histovet Bucuresti."
+7803734,1198,Additional Notes,Ovariohisterectomie.
+7803734,1199,,Ovariohisterectomie.
+7814658,606,Indication:,Bazin
+7814658,607,,Bazin
+7814658,608,Technique:,VD
+7814658,609,,VD
+7814658,610,X-Ray Interpretation:,"Articulatia coxo-femurala dreapta are unghiul Norberg = 123"". 
+Articulatia coxo-femurala stanga are unghiul Norberg = 110""."
+7814658,611,,"Articulatia coxo-femurala dreapta are unghiul Norberg = 123"". 
+Articulatia coxo-femurala stanga are unghiul Norberg = 110""."
+7815027,1118,Spay,
+7815027,1119,Spay,
+7815027,1120,Spay not performed - already spayed,
+7815027,1121,Spay not performed - other reason,
+7815027,1198,Additional Notes,Ovariohisterectomie.
+7815027,1199,,Ovariohisterectomie.
+7815162,1137,Pregnant,P3
+7815162,1138,No,P3
+7815162,1139,P1,P3
+7815162,1140,P2,P3
+7815162,1141,P3,P3
+7815162,1147,Post-partum,Yes
+7815162,1148,No,Yes
+7815162,1149,Yes,Yes
+7815162,1198,Additional Notes,"Ovariohisterectomie + Cezariana ( gestatie cu 6 pui, 2 fatati morti, 3 morti intrauterin, 1 pui viabil )."
+7815162,1199,,"Ovariohisterectomie + Cezariana ( gestatie cu 6 pui, 2 fatati morti, 3 morti intrauterin, 1 pui viabil )."
+7820532,1465,FeLV,Negative
+7820532,1466,Negative,Negative
+7820532,1467,Positive,Negative
+7820532,1469,FIV,Negative
+7820532,1470,Negative,Negative
+7820532,1471,Positive,Negative
+8649740,1351,Reason for the visit,"Nu mananca de 2 zile, este apatic"
+8649740,4,Weight,4.3
+8649740,5,kg,4.3
+8649740,6,Temperature,39
+8649740,7,°C,39
+8649740,1214,Hydration,Tacky
+8649740,1215,Moist,Tacky
+8649740,1216,Tacky,Tacky
+8649740,1217,Not Assessed,Tacky
+8649740,1206,Color,
+8649740,1207,Pink,
+8649740,1208,Pigmented,
+8649740,1209,Pale,
+8649740,1210,Injected,
+8649740,1211,Cyanotic,
+8649740,1212,Icteric,
+8649740,1213,Not Assessed,
+8649740,1200,CRT capillary refill time,> 2 seconds
+8649740,1201,< 2 seconds,> 2 seconds
+8649740,1202,2 seconds,> 2 seconds
+8649740,1203,> 2 seconds,> 2 seconds
+8649740,1204,Not Assessed,> 2 seconds
+8649740,402,WBC,10.5 K/uL
+8649740,403,,10.5 K/uL
+8649740,408,HCT,31.5 %
+8649740,409,,31.5 %
+8649740,406,HGB,9.9 g/dL
+8649740,407,,9.9 g/dL
+8649740,416,CHEM/MCHC,31.4 g
+8649740,417,,31.4 g
+8649740,1461,(%) Granulocytes,95
+8649740,1462,,95
+8649740,432,GRA,9.5 K/uL
+8649740,433,,9.5 K/uL
+8649740,410,PLT,106 k/uL
+8649740,411,,106 k/uL
+8649740,1489,Corona,Positive
+8649740,1490,Negative,Positive
+8649740,1491,Positive,Positive
+8649787,606,Indication:,Abdomen
+8649787,607,,Abdomen
+8649787,608,Technique:,LL
+8649787,609,,LL
+8649787,610,X-Ray Interpretation:,Lichid intraabdominal.
+8649787,611,,Lichid intraabdominal.
+8649879,1489,Corona,Positive
+8649879,1490,Negative,Positive
+8649879,1491,Positive,Positive
+8649879,6,Temperature,39
+8649879,7,°C,39
+8649879,4,Weight,4.250
+8649879,5,kg,4.250
+8649879,1214,Hydration,Tacky
+8649879,1215,Moist,Tacky
+8649879,1216,Tacky,Tacky
+8649879,1217,Not Assessed,Tacky
+8649879,1200,CRT capillary refill time,> 2 seconds
+8649879,1201,< 2 seconds,> 2 seconds
+8649879,1202,2 seconds,> 2 seconds
+8649879,1203,> 2 seconds,> 2 seconds
+8649879,1204,Not Assessed,> 2 seconds
+10793497,1122,Neuter,
+10793497,1123,Neuter,
+10793497,1124,Neuter not performed - already neutered,
+10793497,1125,Neuter not performed - other reason,
+10793497,1162,Neuter Routine,Scrotal Approach
+10793497,1163,Pre-Scrotal Approach,Scrotal Approach
+10793497,1164,Scrotal Approach,Scrotal Approach
+10793497,1185,Suture,Vicryl (PGA)
+10793497,1186,Monocryl,Vicryl (PGA)
+10793497,1187,Other,Vicryl (PGA)
+10793497,1536,PDS II (PDX),Vicryl (PGA)
+10793497,1537,Biosyn,Vicryl (PGA)
+10793497,1538,Maxon (PGA),Vicryl (PGA)
+10793497,1539,Vicryl (PGA),Vicryl (PGA)
+10793497,1540,Silk,Vicryl (PGA)
+10793497,1541,Catgut,Vicryl (PGA)
+10815466,1118,Spay,Spay
+10815466,1119,Spay,Spay
+10815466,1120,Spay not performed - already spayed,Spay
+10815466,1121,Spay not performed - other reason,Spay
+10815466,1153,Hydrometra,
+10815466,1154,No,
+10815466,1155,Yes,
+10815466,1198,Additional Notes,Ovariohisterectomie
+10815466,1199,,Ovariohisterectomie
+10815983,1351,Reason for the visit,"A inceput sa tremure, este apatica, nu mananca."
+10815983,1493,Dirofilaria,Positive
+10815983,1494,Negative,Positive
+10815983,1495,Positive,Positive
+12245487,1351,Reason for the visit,Pacientul s-a taiat la piciorul stg spate si ii curge foarte mult sange.
+12245487,6,Temperature,39
+12245487,7,°C,39
+12245487,1043,Body Condition Score,3
+12245487,1044,1,3
+12245487,1045,2,3
+12245487,1046,3,3
+12245487,1047,4,3
+12245487,1048,5,3
+12245487,1049,6,3
+12245487,1050,7,3
+12245487,1051,8,3
+12245487,1052,9,3
+12245487,1246,Pain Score (CSU),3
+12245487,1247,0,3
+12245487,1248,1,3
+12245487,1249,2,3
+12245487,1250,3,3
+12245487,1251,4,3
+12245487,1059,Hydration,Normal
+12245487,1060,Normal,Normal
+12245487,1061,5% dehydrated,Normal
+12245487,1062,10% dehydrated,Normal
+12245487,1063,Not Assessed,Normal
+12245487,703,Behaviour,Agitat
+12245487,704,normal,Agitat
+12245487,1206,Color,Pink
+12245487,1207,Pink,Pink
+12245487,1208,Pigmented,Pink
+12245487,1209,Pale,Pink
+12245487,1210,Injected,Pink
+12245487,1211,Cyanotic,Pink
+12245487,1212,Icteric,Pink
+12245487,1213,Not Assessed,Pink
+12245487,1214,Hydration,Moist
+12245487,1215,Moist,Moist
+12245487,1216,Tacky,Moist
+12245487,1217,Not Assessed,Moist
+12245487,1200,CRT capillary refill time,< 2 seconds
+12245487,1201,< 2 seconds,< 2 seconds
+12245487,1202,2 seconds,< 2 seconds
+12245487,1203,> 2 seconds,< 2 seconds
+12245487,1204,Not Assessed,< 2 seconds
+12245487,1330,Induction,Domitor + Butomidor
+12245487,1331,Surgical Notes,"Sutura plaga la nivel plantar al membrului posterior stang. Plaga adanca cu afectarea vaselor de sange. S-au suturat vase, piele si prinita principala."
+12245487,1333,Notes,"Tratament cu Synulox, Clostetan timp de 3 zile. Din a 2-a zi s-a introdus si Metacam inj."
+12245583,1348,Procedure name,Tratament cu Clamoxyl si Metacam.
+12245604,1348,Procedure name,Tratament cu Clamoxyl.
+12261287,1118,Spay,
+12261287,1119,Spay,
+12261287,1120,Spay not performed - already spayed,
+12261287,1121,Spay not performed - other reason,
+12261287,1198,Additional Notes,Ovariohisterectomie
+12261287,1199,,Ovariohisterectomie
+12261446,1198,Additional Notes,Ovariohisterectomie
+12261446,1199,,Ovariohisterectomie
+15139807,1351,Reason for the visit,Cainele a fost lovit de masina seara precedenta. Se ridica greu de jos si are o umflatura in zona inghinala.
+15139807,4,Weight,33.7
+15139807,5,kg,33.7
+15139807,6,Temperature,39
+15139807,7,°C,39
+15139807,8,Heart Rate,85
+15139807,9,bpm,85
+15139807,1043,Body Condition Score,5
+15139807,1044,1,5
+15139807,1045,2,5
+15139807,1046,3,5
+15139807,1047,4,5
+15139807,1048,5,5
+15139807,1049,6,5
+15139807,1050,7,5
+15139807,1051,8,5
+15139807,1052,9,5
+15139807,1246,Pain Score (CSU),2
+15139807,1247,0,2
+15139807,1248,1,2
+15139807,1249,2,2
+15139807,1250,3,2
+15139807,1251,4,2
+15139807,1059,Hydration,Normal
+15139807,1060,Normal,Normal
+15139807,1061,5% dehydrated,Normal
+15139807,1062,10% dehydrated,Normal
+15139807,1063,Not Assessed,Normal
+15139807,1053,Attitude,BAR
+15139807,1054,BAR,BAR
+15139807,1055,QAR,BAR
+15139807,1056,Depressed,BAR
+15139807,1057,Non-responsive,BAR
+15139807,1058,Not Assessed,BAR
+15139807,1206,Color,Pink
+15139807,1207,Pink,Pink
+15139807,1208,Pigmented,Pink
+15139807,1209,Pale,Pink
+15139807,1210,Injected,Pink
+15139807,1211,Cyanotic,Pink
+15139807,1212,Icteric,Pink
+15139807,1213,Not Assessed,Pink
+15139807,1214,Hydration,Moist
+15139807,1215,Moist,Moist
+15139807,1216,Tacky,Moist
+15139807,1217,Not Assessed,Moist
+15139807,1200,CRT capillary refill time,< 2 seconds
+15139807,1201,< 2 seconds,< 2 seconds
+15139807,1202,2 seconds,< 2 seconds
+15139807,1203,> 2 seconds,< 2 seconds
+15139807,1204,Not Assessed,< 2 seconds
+15139807,606,Indication:,Zona lombara
+15139807,607,,Zona lombara
+15139807,608,Technique:,LL + VD
+15139807,609,,LL + VD
+15139807,610,X-Ray Interpretation:,"Fractura simpla, oblica, cu deplasare de pubis drept. Coxartroza bilaterala."
+15139807,611,,"Fractura simpla, oblica, cu deplasare de pubis drept. Coxartroza bilaterala."
+15139807,612,Observation,"Tratament cu Tolfedol x 3.4 ml sc, Drotavet x 2 ml."
+15139807,613,,"Tratament cu Tolfedol x 3.4 ml sc, Drotavet x 2 ml."
+16465733,1122,Neuter,Neuter
+16465733,1123,Neuter,Neuter
+16465733,1124,Neuter not performed - already neutered,Neuter
+16465733,1125,Neuter not performed - other reason,Neuter
+16465733,1162,Neuter Routine,Scrotal Approach
+16465733,1163,Pre-Scrotal Approach,Scrotal Approach
+16465733,1164,Scrotal Approach,Scrotal Approach
+16465733,1185,Suture,PDS II (PDX)
+16465733,1186,Monocryl,PDS II (PDX)
+16465733,1187,Other,PDS II (PDX)
+16465733,1536,PDS II (PDX),PDS II (PDX)
+16465733,1537,Biosyn,PDS II (PDX)
+16465733,1538,Maxon (PGA),PDS II (PDX)
+16465733,1539,Vicryl (PGA),PDS II (PDX)
+16465733,1540,Silk,PDS II (PDX)
+16465733,1541,Catgut,PDS II (PDX)
+16981452,358,ALB,3.5 g/dL
+16981452,359,,3.5 g/dL
+16981452,360,ALP,120 U/L
+16981452,361,,120 U/L
+16981452,356,GPT,110 U/L
+16981452,357,,110 U/L
+16981452,362,AMYL,481 U/L
+16981452,363,,481 U/L
+16981452,1447,Blood Urea Nitrogen (BUN),14.2 mg/dL
+16981452,1448,,14.2 mg/dL
+16981452,778,Cholesterol (CHOL),291 mg/dL
+16981452,779,,291 mg/dL
+16981452,376,CRE,0.75 mg/dL
+16981452,377,,0.75 mg/dL
+16981452,687,Globulins,3.8 g/dL
+16981452,688,,3.8 g/dL
+16981452,374,GLU,124 mg/dL
+16981452,375,,124 mg/dL
+16981452,372,GGT,< 10 U/L
+16981452,373,,< 10 U/L
+16981452,366,Ca,9.8 mg/dL
+16981452,367,,9.8 mg/dL
+16981452,776,Lipase,> 300 U/L
+16981452,777,,> 300 U/L
+16981452,364,P,4 mg/dL
+16981452,365,,4 mg/dL
+16981452,384,TBIL,< 0.4 mg/dL
+16981452,385,,< 0.4 mg/dL
+16981452,388,TPRO,7.3 g/dL
+16981452,389,,7.3 g/dL
+16981452,402,WBC,13.4 K/uL
+16981452,403,,13.4 K/uL
+16981452,408,HCT,42.3 %
+16981452,409,,42.3 %
+16981452,406,HGB,14.9 g/dL
+16981452,407,,14.9 g/dL
+16981452,416,CHEM/MCHC,35.2 g/dL
+16981452,417,,35.2 g/dL
+16981452,1459,(%) Reticulocytes,0.9
+16981452,1460,,0.9
+16981452,1461,(%) Granulocytes,82.1
+16981452,1462,,82.1
+16981452,410,PLT,402 K/uL
+16981452,411,,402 K/uL
+18180582,1329,Pre-meds,Domitor x 0.13 ml i.m ( + Antisedan x 0.13 ml im )
+18180582,1330,Induction,Ketamidor x 0.1 ml i.v
+18180582,1530,Recovery from anaesthesia,Normal
+18180582,1531,Normal,Normal
+18180582,1532,Abnormal,Normal
+18180582,1522,Mucous membranes color,Pink
+18180582,1523,Pink,Pink
+18180582,1524,Pigmented,Pink
+18180582,1525,Pale,Pink
+18180582,1526,Injected,Pink
+18180582,1527,Cyanotic,Pink
+18180582,1528,Icteric,Pink
+18180582,1529,Not Assessed,Pink
+18180582,1338,Procedure Notes,Detartraj + extractie 1 dinte
+18180582,1533,Incision,
+18180582,1534,Normal,
+18180582,1535,Abnormal,
+18180582,1333,Notes,Excizie chist/ papilom salivar
+19733563,1493,Dirofilaria,Positive
+19733563,1494,Negative,Positive
+19733563,1495,Positive,Positive
+19733732,1493,Dirofilaria,Positive
+19733732,1494,Negative,Positive
+19733732,1495,Positive,Positive
+19900308,1473,FPV,Negative
+19900308,1474,Negative,Negative
+19900308,1475,Positive,Negative
+19900308,1477,Giardia,Negative
+19900308,1478,Negative,Negative
+19900308,1479,Positive,Negative
+19900308,1489,Corona,Negative
+19900308,1490,Negative,Negative
+19900308,1491,Positive,Negative
+20860562,1118,Spay,
+20860562,1119,Spay,
+20860562,1120,Spay not performed - already spayed,
+20860562,1121,Spay not performed - other reason,
+20860562,1194,Ear Tip,
+20860562,1195,No,
+20860562,1196,Yes,
+20860562,1197,Already eartipped,
+20860562,1198,Additional Notes,Ovariohisterectomie
+20860562,1199,,Ovariohisterectomie
+20860780,776,Lipase,186
+20860780,777,,186
+21538407,1122,Neuter,Neuter
+21538407,1123,Neuter,Neuter
+21538407,1124,Neuter not performed - already neutered,Neuter
+21538407,1125,Neuter not performed - other reason,Neuter
+21538407,1162,Neuter Routine,Scrotal Approach
+21538407,1163,Pre-Scrotal Approach,Scrotal Approach
+21538407,1164,Scrotal Approach,Scrotal Approach
+21538407,1198,Additional Notes,"NLA : Xylazin Bio 2% x 3 ml im + Ketamidor x 0.9 ml iv. Post-op.: Synulox x 1.5 ml sc, Meloxidolor x 1.5 ml sc."
+21538407,1199,,"NLA : Xylazin Bio 2% x 3 ml im + Ketamidor x 0.9 ml iv. Post-op.: Synulox x 1.5 ml sc, Meloxidolor x 1.5 ml sc."
+21549838,1351,Reason for the visit,"Respira greu si este trista, nu prea se joaca."
+21549838,6,Temperature,38.2
+21549838,7,°C,38.2
+21549838,1043,Body Condition Score,3
+21549838,1044,1,3
+21549838,1045,2,3
+21549838,1046,3,3
+21549838,1047,4,3
+21549838,1048,5,3
+21549838,1049,6,3
+21549838,1050,7,3
+21549838,1051,8,3
+21549838,1052,9,3
+21549838,1059,Hydration,5% dehydrated
+21549838,1060,Normal,5% dehydrated
+21549838,1061,5% dehydrated,5% dehydrated
+21549838,1062,10% dehydrated,5% dehydrated
+21549838,1063,Not Assessed,5% dehydrated
+21549838,1053,Attitude,QAR
+21549838,1054,BAR,QAR
+21549838,1055,QAR,QAR
+21549838,1056,Depressed,QAR
+21549838,1057,Non-responsive,QAR
+21549838,1058,Not Assessed,QAR
+21549838,703,Behaviour,"Apatica, facies trist."
+21549838,704,normal,"Apatica, facies trist."
+21549838,1206,Color,Pale
+21549838,1207,Pink,Pale
+21549838,1208,Pigmented,Pale
+21549838,1209,Pale,Pale
+21549838,1210,Injected,Pale
+21549838,1211,Cyanotic,Pale
+21549838,1212,Icteric,Pale
+21549838,1213,Not Assessed,Pale
+21549838,1214,Hydration,Tacky
+21549838,1215,Moist,Tacky
+21549838,1216,Tacky,Tacky
+21549838,1217,Not Assessed,Tacky
+21549838,1200,CRT capillary refill time,> 2 seconds
+21549838,1201,< 2 seconds,> 2 seconds
+21549838,1202,2 seconds,> 2 seconds
+21549838,1203,> 2 seconds,> 2 seconds
+21549838,1204,Not Assessed,> 2 seconds
+21549838,674,Observations,"Abdomen marit in volum, la percutie sunet mat."
+21549838,402,WBC,16.3 K/uL
+21549838,403,,16.3 K/uL
+21549838,408,HCT,10.2%
+21549838,409,,10.2%
+21549838,406,HGB,3 g/dL
+21549838,407,,3 g/dL
+21549838,416,CHEM/MCHC,29.4 g/dL
+21549838,417,,29.4 g/dL
+21549838,1459,(%) Reticulocytes,> 4
+21549838,1460,,> 4
+21549838,1461,(%) Granulocytes,96.3
+21549838,1462,,96.3
+21549838,788,(%) Neutrophil,
+21549838,789,,
+21549838,677,Neutrophils,14.51
+21549838,678,,14.51
+21549838,434,EOS,1.19K/uL
+21549838,435,,1.19K/uL
+21549838,410,PLT,37 k/uL
+21549838,411,,37 k/uL
+21549838,432,GRA,15.7 K/uL
+21549838,433,,15.7 K/uL
+21549838,606,Indication:,Toraco-abdominal
+21549838,607,,Toraco-abdominal
+21549838,608,Technique:,LL
+21549838,609,,LL
+21549838,610,X-Ray Interpretation:,Lichid de ascita intraabdominal. Traheobronsita.
+21549838,611,,Lichid de ascita intraabdominal. Traheobronsita.
+21549984,6,Temperature,39.5
+21549984,7,°C,39.5
+21549984,674,Observations,"Tratament: Novasul x 1 ml iv, Zodon x 264 mg x /4 tbl. per os, Vigophos x 1 ml sc, Drotavet x 1 ml sc."
+21550018,1351,Reason for the visit,Respira greu si plange 
+21550018,1352,Notes,"Abdomen marit in volum, dureros. Se recomanda spitalizare cu tratament: Furosemid x 1 ml im, Dexametzona x 1 ml im, sol. Ringer x 200 ml."
+21550053,1501,Borrelia,Negative
+21550053,1502,Negative,Negative
+21550053,1503,Positive,Negative
+21550053,1505,Anaplasma,Negative
+21550053,1506,Negative,Negative
+21550053,1507,Positive,Negative
+21550053,1509,Ehrlichia,Negative
+21550053,1510,Negative,Negative
+21550053,1511,Positive,Negative
+21550053,1493,Dirofilaria,Negative
+21550053,1494,Negative,Negative
+21550053,1495,Positive,Negative
+21550053,1347,Notes,"Tratament : Furosemid x 1 ml iv x 2/zi, Zodon 264 mg x 3/4 tbl. per os x 2/zi, Pneumoguard x 1 ml, Drotavet x 1 ml sc, Vigophos x 1 ml sc."
+21578597,1351,Reason for the visit,"cainele tuseste ,respira greu,probleme de innghitire"
+21578597,4,Weight,6
+21578597,5,kg,6
+21578597,6,Temperature,38.5
+21578597,7,°C,38.5
+21578597,8,Heart Rate,120
+21578597,9,bpm,120
+21578597,2,Body Condition,ideal
+21578597,3,obese / thin / underweight,ideal
+21578597,1043,Body Condition Score,4
+21578597,1044,1,4
+21578597,1045,2,4
+21578597,1046,3,4
+21578597,1047,4,4
+21578597,1048,5,4
+21578597,1049,6,4
+21578597,1050,7,4
+21578597,1051,8,4
+21578597,1052,9,4
+21578597,1241,Muscle Condition Score,None
+21578597,1242,None,None
+21578597,1243,Mild,None
+21578597,1244,Moderate,None
+21578597,1245,Severe,None
+21578597,1246,Pain Score (CSU),2
+21578597,1247,0,2
+21578597,1248,1,2
+21578597,1249,2,2
+21578597,1250,3,2
+21578597,1251,4,2
+21578597,1059,Hydration,Not Assessed
+21578597,1060,Normal,Not Assessed
+21578597,1061,5% dehydrated,Not Assessed
+21578597,1062,10% dehydrated,Not Assessed
+21578597,1063,Not Assessed,Not Assessed
+21578597,1053,Attitude,BAR
+21578597,1054,BAR,BAR
+21578597,1055,QAR,BAR
+21578597,1056,Depressed,BAR
+21578597,1057,Non-responsive,BAR
+21578597,1058,Not Assessed,BAR
+21578597,1206,Color,Pink
+21578597,1207,Pink,Pink
+21578597,1208,Pigmented,Pink
+21578597,1209,Pale,Pink
+21578597,1210,Injected,Pink
+21578597,1211,Cyanotic,Pink
+21578597,1212,Icteric,Pink
+21578597,1213,Not Assessed,Pink
+21578597,1214,Hydration,Moist
+21578597,1215,Moist,Moist
+21578597,1216,Tacky,Moist
+21578597,1217,Not Assessed,Moist
+21578597,1200,CRT capillary refill time,Not Assessed
+21578597,1201,< 2 seconds,Not Assessed
+21578597,1202,2 seconds,Not Assessed
+21578597,1203,> 2 seconds,Not Assessed
+21578597,1204,Not Assessed,Not Assessed
+21578597,923,Discharge,nu sunt prezente
+21578597,924,Palpation,usor dureros la palpare
+21578597,404,RBC,
+21578597,405,,
+21578597,408,HCT,54.4%
+21578597,409,,54.4%
+21578597,406,HGB,19.5g/dl
+21578597,407,,19.5g/dl
+21578597,414,HME/MCH,35.8g/dl
+21578597,415,,35.8g/dl
+21578597,675,Reticulocyte,
+21578597,676,,
+21578597,1461,(%) Granulocytes,82.7%
+21578597,1462,,82.7%
+21578597,432,GRA,8.10K/ul
+21578597,433,,8.10K/ul
+21578597,410,PLT,344K/ul
+21578597,411,,344K/ul
+21578597,784,(%) Lymphocyte,17%
+21578597,785,,17%
+21578597,1459,(%) Reticulocytes,1.7%
+21578597,1460,,1.7%
+21578597,428,LYM,1.7x10*9/L
+21578597,429,,1.7x10*9/L
+21578597,738,SNAP Feline proBNP,"350,99pmol/L"
+21578597,739,,"350,99pmol/L"
+21578597,1493,Dirofilaria,Negative
+21578597,1494,Negative,Negative
+21578597,1495,Positive,Negative
+21578788,923,Discharge,nu are
+21578788,924,Palpation,nu prezinta durere
+21910977,1351,Reason for the visit,A FOST ATACAT DE UN ALT CAINE
+21910977,4,Weight,19.2
+21910977,5,kg,19.2
+21910977,6,Temperature,38.8
+21910977,7,°C,38.8
+21910977,2,Body Condition,BUNA
+21910977,3,obese / thin / underweight,BUNA
+21910977,1043,Body Condition Score,
+21910977,1044,1,
+21910977,1045,2,
+21910977,1046,3,
+21910977,1047,4,
+21910977,1048,5,
+21910977,1049,6,
+21910977,1050,7,
+21910977,1051,8,
+21910977,1052,9,
+21910977,1246,Pain Score (CSU),1
+21910977,1247,0,1
+21910977,1248,1,1
+21910977,1249,2,1
+21910977,1250,3,1
+21910977,1251,4,1
+21910977,1059,Hydration,Normal
+21910977,1060,Normal,Normal
+21910977,1061,5% dehydrated,Normal
+21910977,1062,10% dehydrated,Normal
+21910977,1063,Not Assessed,Normal
+21910977,1053,Attitude,BAR
+21910977,1054,BAR,BAR
+21910977,1055,QAR,BAR
+21910977,1056,Depressed,BAR
+21910977,1057,Non-responsive,BAR
+21910977,1058,Not Assessed,BAR
+21910977,1206,Color,Pink
+21910977,1207,Pink,Pink
+21910977,1208,Pigmented,Pink
+21910977,1209,Pale,Pink
+21910977,1210,Injected,Pink
+21910977,1211,Cyanotic,Pink
+21910977,1212,Icteric,Pink
+21910977,1213,Not Assessed,Pink
+21910977,1214,Hydration,Moist
+21910977,1215,Moist,Moist
+21910977,1216,Tacky,Moist
+21910977,1217,Not Assessed,Moist
+21910977,1200,CRT capillary refill time,< 2 seconds
+21910977,1201,< 2 seconds,< 2 seconds
+21910977,1202,2 seconds,< 2 seconds
+21910977,1203,> 2 seconds,< 2 seconds
+21910977,1204,Not Assessed,< 2 seconds
+21910977,610,X-Ray Interpretation:,NU PREZINTA TRAUME
+21910977,611,,NU PREZINTA TRAUME
+23475085,1351,Reason for the visit,A fost atacat de doi caini mai mari.
+23475085,1352,Notes,"Pacientul prezinta o plaga profunda prin muscare la nivelul gatului,partea stanga anterioara, diametru de 10 cm, cu dilacerarea planurilor musculare."
+23475085,1329,Pre-meds,Butorfanol x 0.1 ml i.m. + Domitor x 0.14 ml i.m. ( + Antisedan x 0.14 ml i. m.)
+23475085,1530,Recovery from anaesthesia,Normal
+23475085,1531,Normal,Normal
+23475085,1532,Abnormal,Normal
+23475085,1331,Surgical Notes,S-au suturat 2 planuri musculare si pielea.
+23475085,1522,Mucous membranes color,Pink
+23475085,1523,Pink,Pink
+23475085,1524,Pigmented,Pink
+23475085,1525,Pale,Pink
+23475085,1526,Injected,Pink
+23475085,1527,Cyanotic,Pink
+23475085,1528,Icteric,Pink
+23475085,1529,Not Assessed,Pink
+23475085,1332,Recommendations,"Toaleta locala cu betadina, tratament general cu analgezice ( Tolfedol x 0.5 ml s.c.) si antibiotice ( Synulox x 0.25 ml. s.c.)"
+23538583,1351,Reason for the visit,Este gestanta si nu se mai simt miscarile puilor de cateva zile.
+23538583,606,Indication:,Abdomen
+23538583,607,,Abdomen
+23538583,608,Technique:,LL
+23538583,609,,LL
+23538583,1329,Pre-meds,Butomidor x 0.5 ml i.m. + Domitor x 0.5 ml i.m.
+23538583,1330,Induction,Propofol x 10 ml i.v.
+23538583,1333,Notes,Puii nu prezinta semne vitale.
+23538583,610,X-Ray Interpretation:,"Gestatie ajunsa la termen, 8 pui."
+23538583,611,,"Gestatie ajunsa la termen, 8 pui."
+23538583,1332,Recommendations,Cezariana cu ovariohisterectomie.
+23625991,1118,Spay,
+23625991,1119,Spay,
+23625991,1120,Spay not performed - already spayed,
+23625991,1121,Spay not performed - other reason,
+23625991,1198,Additional Notes,Anestezie de tip NLA : Xylazin + Ketamidor. Ovariohisterectomie.
+23625991,1199,,Anestezie de tip NLA : Xylazin + Ketamidor. Ovariohisterectomie.
+26091373,1351,Reason for the visit,Ii curge sange din gura.
+26091373,1352,Notes,Diagnostic : Fractura mediana de mandibula.
+26091373,1330,Induction,Domitor + Ketamidor + Antisedan
+26091373,1331,Surgical Notes,"Fractura s-a remediat cu un cerclaj, care va trebui sa ramana cel putin o luna. "
+26986037,606,Indication:,Abdomen
+26986037,607,,Abdomen
+26986037,608,Technique:,LL
+26986037,609,,LL
+26986037,1351,Reason for the visit,A stat mai mult timp la litiera.
+27007263,1351,Reason for the visit,"Scaune diareice de cateva zile, de culoare inchisa."
+27007263,1477,Giardia,Positive
+27007263,1478,Negative,Positive
+27007263,1479,Positive,Positive
+27007263,1481,Parvovirus,Negative
+27007263,1482,Negative,Negative
+27007263,1483,Positive,Negative
+27007263,1489,Corona,Positive
+27007263,1490,Negative,Positive
+27007263,1491,Positive,Positive
+27023369,1351,Reason for the visit,"A inceput sa respire greu in urma cu cateva ore, nu se ridica de jos, a mancat putin"
+27023369,1352,Notes,A fost diagnosticat cu dirofilarioza cardiaca si tratat in urma cu 2 ani.
+27023369,4,Weight,67.5
+27023369,5,kg,67.5
+27023369,6,Temperature,38
+27023369,7,°C,38
+27023369,10,Respiratory Frequency,15
+27023369,11,10-30/min,15
+27023369,8,Heart Rate,63
+27023369,9,bpm,63
+27023369,2,Body Condition,buna
+27023369,3,obese / thin / underweight,buna
+27023369,1246,Pain Score (CSU),3
+27023369,1247,0,3
+27023369,1248,1,3
+27023369,1249,2,3
+27023369,1250,3,3
+27023369,1251,4,3
+27023369,1059,Hydration,Normal
+27023369,1060,Normal,Normal
+27023369,1061,5% dehydrated,Normal
+27023369,1062,10% dehydrated,Normal
+27023369,1063,Not Assessed,Normal
+27023369,1053,Attitude,QAR
+27023369,1054,BAR,QAR
+27023369,1055,QAR,QAR
+27023369,1056,Depressed,QAR
+27023369,1057,Non-responsive,QAR
+27023369,1058,Not Assessed,QAR
+27023369,1206,Color,Pale
+27023369,1207,Pink,Pale
+27023369,1208,Pigmented,Pale
+27023369,1209,Pale,Pale
+27023369,1210,Injected,Pale
+27023369,1211,Cyanotic,Pale
+27023369,1212,Icteric,Pale
+27023369,1213,Not Assessed,Pale
+27023369,1214,Hydration,Moist
+27023369,1215,Moist,Moist
+27023369,1216,Tacky,Moist
+27023369,1217,Not Assessed,Moist
+27023369,1200,CRT capillary refill time,< 2 seconds
+27023369,1201,< 2 seconds,< 2 seconds
+27023369,1202,2 seconds,< 2 seconds
+27023369,1203,> 2 seconds,< 2 seconds
+27023369,1204,Not Assessed,< 2 seconds
+27023369,402,WBC,24.9 K/uL
+27023369,403,,24.9 K/uL
+27023369,408,HCT,34.3 %
+27023369,409,,34.3 %
+27023369,406,HGB,12.6 g/dL
+27023369,407,,12.6 g/dL
+27023369,416,CHEM/MCHC,36.7 g/dL
+27023369,417,,36.7 g/dL
+27023369,1459,(%) Reticulocytes,1
+27023369,1460,,1
+27023369,784,(%) Lymphocyte,12
+27023369,785,,12
+27023369,1461,(%) Granulocytes,88.4
+27023369,1462,,88.4
+27023369,410,PLT,99 K/uL
+27023369,411,,99 K/uL
+27023369,1493,Dirofilaria,Negative
+27023369,1494,Negative,Negative
+27023369,1495,Positive,Negative
+27023369,358,ALB,2.9
+27023369,359,,2.9
+27023369,360,ALP,41
+27023369,361,,41
+27023369,362,AMYL,1071
+27023369,363,,1071
+27023369,356,GPT,37
+27023369,357,,37
+27023369,1447,Blood Urea Nitrogen (BUN),38.1
+27023369,1448,,38.1
+27023369,1449,BUN/Creatinine Ratio (BUN/CREA),23.1
+27023369,1450,,23.1
+27023369,366,Ca,10
+27023369,367,,10
+27023369,778,Cholesterol (CHOL),174
+27023369,779,,174
+27023369,376,CRE,1.65
+27023369,377,,1.65
+27023369,374,GLU,115
+27023369,375,,115
+27023369,372,GGT,10
+27023369,373,,10
+27023369,776,Lipase,172
+27023369,777,,172
+27023369,364,P,4.1
+27023369,365,,4.1
+27023369,384,TBIL,0.8
+27023369,385,,0.8
+27023369,388,TPRO,5.4
+27023369,389,,5.4
+27026099,606,Indication:,"Torace, abdomen"
+27026099,607,,"Torace, abdomen"
+27026099,608,Technique:,LL
+27026099,609,,LL
+27026099,610,X-Ray Interpretation:,"Cardiomiopatie dilatativa, hidrotorax, hipertensiune pulmonara, pneumonie, pancreatita."
+27026099,611,,"Cardiomiopatie dilatativa, hidrotorax, hipertensiune pulmonara, pneumonie, pancreatita."
+27026156,606,Indication:,Torace 
+27026156,607,,Torace 
+27026156,608,Technique:,LL
+27026156,609,,LL
+27270653,1122,Neuter,Neuter
+27270653,1123,Neuter,Neuter
+27270653,1124,Neuter not performed - already neutered,Neuter
+27270653,1125,Neuter not performed - other reason,Neuter
+27270653,1162,Neuter Routine,Scrotal Approach
+27270653,1163,Pre-Scrotal Approach,Scrotal Approach
+27270653,1164,Scrotal Approach,Scrotal Approach
+27270653,1329,Pre-meds,Domitor x 0.1 ml i.m. + Butomidor x 0.1 ml i.m. + Ketamidor x 0.1 ml i.v. + Antisedan x 0.1 ml i.m.
+27270653,1331,Surgical Notes,Excizie lipom cutanat regiunea cozii.
+27270653,1332,Recommendations,Toaleta locala cu betadina si antibiotice ( Kesium 62.5 mg 1 x 2 /zi) timp de 4 zile.
+27270764,1122,Neuter,Neuter
+27270764,1123,Neuter,Neuter
+27270764,1124,Neuter not performed - already neutered,Neuter
+27270764,1125,Neuter not performed - other reason,Neuter
+27270764,1162,Neuter Routine,Scrotal Approach
+27270764,1163,Pre-Scrotal Approach,Scrotal Approach
+27270764,1164,Scrotal Approach,Scrotal Approach
+27270764,1185,Suture,
+27270764,1186,Monocryl,
+27270764,1187,Other,
+27270764,1536,PDS II (PDX),
+27270764,1537,Biosyn,
+27270764,1538,Maxon (PGA),
+27270764,1539,Vicryl (PGA),
+27270764,1540,Silk,
+27270764,1541,Catgut,
+27270764,1198,Additional Notes,Toaleta locala cu betadina si antibiotice ( Kesium 62.5 mg x 1 x 2 /zi ) timp de 4 zile.
+27270764,1199,,Toaleta locala cu betadina si antibiotice ( Kesium 62.5 mg x 1 x 2 /zi ) timp de 4 zile.
+27270979,1118,Spay,Spay
+27270979,1119,Spay,Spay
+27270979,1120,Spay not performed - already spayed,Spay
+27270979,1121,Spay not performed - other reason,Spay
+27270979,1198,Additional Notes,"Ovariohisterectomie. Anestezie : Xylazina x 0.9 ml i.m. + Ketamidor x 0.5 ml i.v. Acasa: toaleta locala cu betadina, antibiotice ( Kesium 250 mg x 1/2 tbl. x 2/zi."
+27270979,1199,,"Ovariohisterectomie. Anestezie : Xylazina x 0.9 ml i.m. + Ketamidor x 0.5 ml i.v. Acasa: toaleta locala cu betadina, antibiotice ( Kesium 250 mg x 1/2 tbl. x 2/zi."
+27272010,776,Lipase,cPL (CubeVet) = 143.3 U/L  (0-125)
+27272010,777,,cPL (CubeVet) = 143.3 U/L  (0-125)
+27272084,1122,Neuter,Neuter
+27272084,1123,Neuter,Neuter
+27272084,1124,Neuter not performed - already neutered,Neuter
+27272084,1125,Neuter not performed - other reason,Neuter
+27272084,1162,Neuter Routine,Scrotal Approach
+27272084,1163,Pre-Scrotal Approach,Scrotal Approach
+27272084,1164,Scrotal Approach,Scrotal Approach
+27272084,1198,Additional Notes,Anestezie : Domitor x 0.6 ml i.m. + Butomidor x 0.6 ml i.m. + Ketamidor x 0.5 ml i.v.( + Antisedan x 0.6 ml i.m. Acasa : toaleta locala cu betadina si antibiotice (Kesium 625 mg x 3/4 tbl. x 2/zi ) timp de 6 zile.
+27272084,1199,,Anestezie : Domitor x 0.6 ml i.m. + Butomidor x 0.6 ml i.m. + Ketamidor x 0.5 ml i.v.( + Antisedan x 0.6 ml i.m. Acasa : toaleta locala cu betadina si antibiotice (Kesium 625 mg x 3/4 tbl. x 2/zi ) timp de 6 zile.
+27323942,1351,Reason for the visit,"A fost in urma cu o luna, in regim de urgenta, la alta clinica, cu semne de oboseala si durere. "
+27323942,1352,Notes,Este pe tratament cu Karsivan.
+27323942,906,Floor of mouth and tongue,"Prezinta 2 formatiuni boselate, aplatizate, sublingual stanga si dreapta, de culoare roz-rosiatica, de aproximativ 2-3 cm in lungime. Limba prezinta o culoare rosu-albastruie."
+27323942,909,Halitosis,Prezenta
+27323942,907,Teeth,Prezinta depuneri de tartru.
+27323942,908,Gums,Rosiatice
+27323942,1262,Tartar/Calculus,Heavy (4)
+27323942,1263,None (0-1),Heavy (4)
+27323942,1264,Mild (2),Heavy (4)
+27323942,1265,Moderate (3),Heavy (4)
+27323942,1266,Heavy (4),Heavy (4)
+27323942,1267,Severe (5),Heavy (4)
+27323942,1268,Gingivitis,Heavy (4)
+27323942,1269,None (0-1),Heavy (4)
+27323942,1270,Mild (2),Heavy (4)
+27323942,1271,Moderate (3),Heavy (4)
+27323942,1272,Heavy (4),Heavy (4)
+27323942,1273,Severe (5),Heavy (4)
+27323942,1274,Recession,Moderate (3)
+27323942,1275,None (0-1),Moderate (3)
+27323942,1276,Mild (2),Moderate (3)
+27323942,1277,Moderate (3),Moderate (3)
+27323942,1278,Heavy (4),Moderate (3)
+27323942,1279,Severe (5),Moderate (3)
+27323942,1280,Overall Grade,Heavy (4)
+27323942,1281,None (0-1),Heavy (4)
+27323942,1282,Mild (2),Heavy (4)
+27323942,1283,Moderate (3),Heavy (4)
+27323942,1284,Heavy (4),Heavy (4)
+27323942,1285,Severe (5),Heavy (4)
+27323942,738,SNAP Feline proBNP,1900 pmol/L
+27323942,739,,1900 pmol/L
+27323942,1545,Results,D-Dimer = 7677(0-250)
+27366573,1351,Reason for the visit,De  3 zile este cu penisul afara din preput.
+27366573,1352,Notes,"Pacientul prezinta fimoza completa, penisul este de culoare alba si rece la palpatie. T= 39.1 *C."
+27366573,358,ALB,2.8 g/dL
+27366573,359,,2.8 g/dL
+27366573,360,ALP,212 U/L
+27366573,361,,212 U/L
+27366573,356,GPT,27 U/L
+27366573,357,,27 U/L
+27366573,362,AMYL,759 U/L
+27366573,363,,759 U/L
+27366573,1447,Blood Urea Nitrogen (BUN),9.1 mg/dL
+27366573,1448,,9.1 mg/dL
+27366573,366,Ca,9.4 mg/dL
+27366573,367,,9.4 mg/dL
+27366573,778,Cholesterol (CHOL),234 mg/dL
+27366573,779,,234 mg/dL
+27366573,376,CRE,1.07 mg/dL
+27366573,377,,1.07 mg/dL
+27366573,687,Globulins,3.5 g/dL
+27366573,688,,3.5 g/dL
+27366573,374,GLU,116 mg/dL
+27366573,375,,116 mg/dL
+27366573,372,GGT,< 10 U/L
+27366573,373,,< 10 U/L
+27366573,776,Lipase,96 U/L
+27366573,777,,96 U/L
+27366573,364,P,2.2 mg/dL
+27366573,365,,2.2 mg/dL
+27366573,384,TBIL,0.6 mg/dL
+27366573,385,,0.6 mg/dL
+27366573,388,TPRO,6.3 g/dL
+27366573,389,,6.3 g/dL
+27366573,402,WBC,12.4 K/uL
+27366573,403,,12.4 K/uL
+27366573,408,HCT,36 %
+27366573,409,,36 %
+27366573,406,HGB,13.2 g/dL
+27366573,407,,13.2 g/dL
+27366573,416,CHEM/MCHC,36.7 g/dL
+27366573,417,,36.7 g/dL
+27366573,432,GRA,8 K/uL
+27366573,433,,8 K/uL
+27366573,677,Neutrophils,4.67 k/uL
+27366573,678,,4.67 k/uL
+27366573,434,EOS,3.33 K/uL
+27366573,435,,3.33 K/uL
+27366573,410,PLT,303 K/uL
+27366573,411,,303 K/uL
+27366573,1493,Dirofilaria,Negative
+27366573,1494,Negative,Negative
+27366573,1495,Positive,Negative
+27366573,606,Indication:,Abdomen 
+27366573,607,,Abdomen 
+27366573,608,Technique:,LL
+27366573,609,,LL
+27366573,610,X-Ray Interpretation:,Nu  prezinta fractura la nivelul osului penian.
+27366573,611,,Nu  prezinta fractura la nivelul osului penian.
+27366573,1347,Notes,"Tratament cu antiinflamator :Dexamethasone x 1 ml i.m., Prednisolone x 1 ml i.m. A fost tinut sub observatie timp de aproximativ 3 ore, apoi s-a repozitionat penisul in preput. Tratament cu Synulox x 1.5 ml s.c., Melovem x 1 ml s.c. "
+27366573,1350,Client Communications,"Se recomanda recontrol si continuarea tratamentului injectabil, a doua zi."
+27367773,1348,Procedure name,"Tratament injectabil : Synulox x 1.5 ml s.c., Melovem x 1 ml s.c.Mibazon local: penis + preput."
+27367773,1349,Notes,Se recomanda recontrol si tratament injectabil a doua zi.
+27376126,1351,Reason for the visit,"Are sange in jurul botului, este slab si speriat."
+27376126,4,Weight,10.4
+27376126,5,kg,10.4
+27376126,6,Temperature,39
+27376126,7,°C,39
+27376126,2,Body Condition,slab
+27376126,3,obese / thin / underweight,slab
+27376126,1043,Body Condition Score,2
+27376126,1044,1,2
+27376126,1045,2,2
+27376126,1046,3,2
+27376126,1047,4,2
+27376126,1048,5,2
+27376126,1049,6,2
+27376126,1050,7,2
+27376126,1051,8,2
+27376126,1052,9,2
+27376126,1241,Muscle Condition Score,Moderate
+27376126,1242,None,Moderate
+27376126,1243,Mild,Moderate
+27376126,1244,Moderate,Moderate
+27376126,1245,Severe,Moderate
+27376126,1246,Pain Score (CSU),4
+27376126,1247,0,4
+27376126,1248,1,4
+27376126,1249,2,4
+27376126,1250,3,4
+27376126,1251,4,4
+27376126,1059,Hydration,5% dehydrated
+27376126,1060,Normal,5% dehydrated
+27376126,1061,5% dehydrated,5% dehydrated
+27376126,1062,10% dehydrated,5% dehydrated
+27376126,1063,Not Assessed,5% dehydrated
+27376126,1053,Attitude,QAR
+27376126,1054,BAR,QAR
+27376126,1055,QAR,QAR
+27376126,1056,Depressed,QAR
+27376126,1057,Non-responsive,QAR
+27376126,1058,Not Assessed,QAR
+27376126,1206,Color,Pink
+27376126,1207,Pink,Pink
+27376126,1208,Pigmented,Pink
+27376126,1209,Pale,Pink
+27376126,1210,Injected,Pink
+27376126,1211,Cyanotic,Pink
+27376126,1212,Icteric,Pink
+27376126,1213,Not Assessed,Pink
+27376126,1214,Hydration,Moist
+27376126,1215,Moist,Moist
+27376126,1216,Tacky,Moist
+27376126,1217,Not Assessed,Moist
+27376126,1200,CRT capillary refill time,2 seconds
+27376126,1201,< 2 seconds,2 seconds
+27376126,1202,2 seconds,2 seconds
+27376126,1203,> 2 seconds,2 seconds
+27376126,1204,Not Assessed,2 seconds
+27376126,606,Indication:,Craniu
+27376126,607,,Craniu
+27376126,608,Technique:,LL + VD
+27376126,609,,LL + VD
+27376126,610,X-Ray Interpretation:,Fractura simfiza mandibulara cu lipsa de tesut osos pe o portiune de aproximativ 3-4 cm. Luxatie temporo-mandibulara stanga.Alice raspandite in tesutul subcutanat.
+27376126,611,,Fractura simfiza mandibulara cu lipsa de tesut osos pe o portiune de aproximativ 3-4 cm. Luxatie temporo-mandibulara stanga.Alice raspandite in tesutul subcutanat.
+27376126,1329,Pre-meds,Posibil Tranquiline pasta.
+27376126,1330,Induction,Narkamon x 0.5 ml i.v.
+27376126,1331,Surgical Notes,S-a incercat repozitionarea anatomica a mandibulei prin implantarea a  3 cerclaje.
+27376126,1530,Recovery from anaesthesia,Normal
+27376126,1531,Normal,Normal
+27376126,1532,Abnormal,Normal
+27376126,1522,Mucous membranes color,Pink
+27376126,1523,Pink,Pink
+27376126,1524,Pigmented,Pink
+27376126,1525,Pale,Pink
+27376126,1526,Injected,Pink
+27376126,1527,Cyanotic,Pink
+27376126,1528,Icteric,Pink
+27376126,1529,Not Assessed,Pink
+27376126,1332,Recommendations,Hrana umeda toata viata.
+27526223,1118,Spay,Spay
+27526223,1119,Spay,Spay
+27526223,1120,Spay not performed - already spayed,Spay
+27526223,1121,Spay not performed - other reason,Spay
+27526223,1198,Additional Notes,Anestezie: Domitor x 0.12 ml i.m. + Narkamon x 0.3 ml i.v. + Antisedan x 0.12 ml i.m.
+27526223,1199,,Anestezie: Domitor x 0.12 ml i.m. + Narkamon x 0.3 ml i.v. + Antisedan x 0.12 ml i.m.
+27584213,1122,Neuter,Neuter
+27584213,1123,Neuter,Neuter
+27584213,1124,Neuter not performed - already neutered,Neuter
+27584213,1125,Neuter not performed - other reason,Neuter
+27584213,1162,Neuter Routine,Scrotal Approach
+27584213,1163,Pre-Scrotal Approach,Scrotal Approach
+27584213,1164,Scrotal Approach,Scrotal Approach
+27584213,1198,Additional Notes,Orhidectomie + extirpare pinteni posteriori bilateral.
+27584213,1199,,Orhidectomie + extirpare pinteni posteriori bilateral.
+28201082,1493,Dirofilaria,Negative
+28201082,1494,Negative,Negative
+28201082,1495,Positive,Negative
+28201082,1501,Borrelia,Negative
+28201082,1502,Negative,Negative
+28201082,1503,Positive,Negative
+28201082,1505,Anaplasma,Negative
+28201082,1506,Negative,Negative
+28201082,1507,Positive,Negative
+28201082,1509,Ehrlichia,Negative
+28201082,1510,Negative,Negative
+28201082,1511,Positive,Negative
+28201166,1329,Pre-meds,Xylazina x 0.3 ml i.v.
+28201166,1330,Induction,Narkamon x 0.5 ml i.v.
+28201166,1331,Surgical Notes,"Corectie entropion bilateral, pleoape inferioare."
+28268352,1118,Spay,Spay
+28268352,1119,Spay,Spay
+28268352,1120,Spay not performed - already spayed,Spay
+28268352,1121,Spay not performed - other reason,Spay
+28268352,1126,Ovarian pedicle,
+28268352,1127,Suture Ligation,
+28268352,1128,Pedicle Ties,
+28268352,1198,Additional Notes,Ovariohisterectomie
+28268352,1199,,Ovariohisterectomie
+28268872,1336,Pre-meds,Domitor x 0.2 ml i.m.
+28268872,1337,Induction,Narkamon x 0.2 ml i.v.
+28268872,1339,Post-op,"Antisedan x 0.2 ml i.m.
+Betamox x 0.8 ml s.c. + Stomorgyl "
+28268968,1122,Neuter,Neuter
+28268968,1123,Neuter,Neuter
+28268968,1124,Neuter not performed - already neutered,Neuter
+28268968,1125,Neuter not performed - other reason,Neuter
+28268968,1162,Neuter Routine,Scrotal Approach
+28268968,1163,Pre-Scrotal Approach,Scrotal Approach
+28268968,1164,Scrotal Approach,Scrotal Approach
+28268968,1198,Additional Notes,Domitor x 0.8 ml i.m. + Narkamon x 1 ml i.v. + Antisedan x 0.8 ml i.m.
+28268968,1199,,Domitor x 0.8 ml i.m. + Narkamon x 1 ml i.v. + Antisedan x 0.8 ml i.m.
+28269753,1122,Neuter,Neuter
+28269753,1123,Neuter,Neuter
+28269753,1124,Neuter not performed - already neutered,Neuter
+28269753,1125,Neuter not performed - other reason,Neuter
+28269753,1162,Neuter Routine,Scrotal Approach
+28269753,1163,Pre-Scrotal Approach,Scrotal Approach
+28269753,1164,Scrotal Approach,Scrotal Approach
+28269753,1165,Cryptorchid,Yes
+28269753,1166,Yes,Yes
+28269753,1167,No,Yes
+28269753,1168,Cryptorchid-Location,"[""Right Inguinal Cryptorchid""]"
+28269753,1169,Right Abdominal Cryptorchid,"[""Right Inguinal Cryptorchid""]"
+28269753,1170,Left Abdominal Cryptorchid,"[""Right Inguinal Cryptorchid""]"
+28269753,1171,Right Inguinal Cryptorchid,"[""Right Inguinal Cryptorchid""]"
+28269753,1172,Left Inguinal Cryptorchid,"[""Right Inguinal Cryptorchid""]"
+28269753,1198,Additional Notes,"+ Detartraj. Testicul stang prezent + cicatrice postoperatorie cutanata in zona inghinala dreapta.
+Xylazina x 0.4 ml i.m. + Narkamon x 0.2 ml i.v."
+28269753,1199,,"+ Detartraj. Testicul stang prezent + cicatrice postoperatorie cutanata in zona inghinala dreapta.
+Xylazina x 0.4 ml i.m. + Narkamon x 0.2 ml i.v."
+28274636,1118,Spay,Spay
+28274636,1119,Spay,Spay
+28274636,1120,Spay not performed - already spayed,Spay
+28274636,1121,Spay not performed - other reason,Spay
+28274636,1137,Pregnant,P2
+28274636,1138,No,P2
+28274636,1139,P1,P2
+28274636,1140,P2,P2
+28274636,1141,P3,P2
+28274636,1198,Additional Notes,Domitor x 0.4 ml im + Narkamon x 0.3 ml im + Antisedan x 0.2 ml im
+28274636,1199,,Domitor x 0.4 ml im + Narkamon x 0.3 ml im + Antisedan x 0.2 ml im
+28275756,1118,Spay,Spay
+28275756,1119,Spay,Spay
+28275756,1120,Spay not performed - already spayed,Spay
+28275756,1121,Spay not performed - other reason,Spay
+28275756,1134,In heat,Yes
+28275756,1135,No,Yes
+28275756,1136,Yes,Yes
+28275756,1198,Additional Notes,"Domitor x 0.23 ml im + Narkamon x 0.16 m im + Antisedan x 0.12 ml im
+"
+28275756,1199,,"Domitor x 0.23 ml im + Narkamon x 0.16 m im + Antisedan x 0.12 ml im
+"
+28958024,1329,Pre-meds,Domitor x 0.3 ml im
+28958024,1330,Induction,Ketamidor x 0.3 ml im + Antisedan x 0.15 ml im
+28958024,1533,Incision,Normal
+28958024,1534,Normal,Normal
+28958024,1535,Abnormal,Normal
+28958024,1331,Surgical Notes,Extirpare glande anexe pleoapa a III-a bilateral.
+29561355,1118,Spay,Spay
+29561355,1119,Spay,Spay
+29561355,1120,Spay not performed - already spayed,Spay
+29561355,1121,Spay not performed - other reason,Spay
+29561355,1198,Additional Notes,Ovariohisterectomie. Anestezie : Xylazina x 0.9 ml i.m. + Narkamon x 0.3 ml i.v.. Postoperator: Betamox x 1 ml s.c.
+29561355,1199,,Ovariohisterectomie. Anestezie : Xylazina x 0.9 ml i.m. + Narkamon x 0.3 ml i.v.. Postoperator: Betamox x 1 ml s.c.
+29561508,1118,Spay,Spay
+29561508,1119,Spay,Spay
+29561508,1120,Spay not performed - already spayed,Spay
+29561508,1121,Spay not performed - other reason,Spay
+29561508,1150,Pyometra,Yes
+29561508,1151,No,Yes
+29561508,1152,Yes,Yes
+29561508,1198,Additional Notes,Ovariohisterectomie. Anestezie : Domitor x 0.8 ml i.m. + Propofol x 2 ml i.v. + Antisedan x 0.8 ml i.m. Postoperator : Amoxykel x 2 ml s.c.
+29561508,1199,,Ovariohisterectomie. Anestezie : Domitor x 0.8 ml i.m. + Propofol x 2 ml i.v. + Antisedan x 0.8 ml i.m. Postoperator : Amoxykel x 2 ml s.c.
+29562118,1329,Pre-meds,Xylazina x 4 ml i.m. 
+29562118,1330,Induction,Narkamon x 2 ml i.m.
+29562118,1331,Surgical Notes,Extirpare splina ( masa tumorala splenica + bride si sinechii intestine )
+29562118,1522,Mucous membranes color,Pale
+29562118,1523,Pink,Pale
+29562118,1524,Pigmented,Pale
+29562118,1525,Pale,Pale
+29562118,1526,Injected,Pale
+29562118,1527,Cyanotic,Pale
+29562118,1528,Icteric,Pale
+29562118,1529,Not Assessed,Pale
+29562118,1530,Recovery from anaesthesia,Normal
+29562118,1531,Normal,Normal
+29562118,1532,Abnormal,Normal
+29562118,1533,Incision,Normal
+29562118,1534,Normal,Normal
+29562118,1535,Abnormal,Normal
+29562118,1332,Recommendations,Evitare efort. Hemovet + Imunoferon + Zodon.
+29562239,1122,Neuter,Neuter
+29562239,1123,Neuter,Neuter
+29562239,1124,Neuter not performed - already neutered,Neuter
+29562239,1125,Neuter not performed - other reason,Neuter
+29562239,1162,Neuter Routine,Scrotal Approach
+29562239,1163,Pre-Scrotal Approach,Scrotal Approach
+29562239,1164,Scrotal Approach,Scrotal Approach
+29562239,1185,Suture,
+29562239,1186,Monocryl,
+29562239,1187,Other,
+29562239,1536,PDS II (PDX),
+29562239,1537,Biosyn,
+29562239,1538,Maxon (PGA),
+29562239,1539,Vicryl (PGA),
+29562239,1540,Silk,
+29562239,1541,Catgut,
+29562239,1198,Additional Notes,Anestezie : Domitor x 0.3 ml i.m. + Narkamon x 0.4 ml i.v. + Antisedan x 0.3 ml i.m.Postoperator : Betamox x 1.3 ml s.c.
+29562239,1199,,Anestezie : Domitor x 0.3 ml i.m. + Narkamon x 0.4 ml i.v. + Antisedan x 0.3 ml i.m.Postoperator : Betamox x 1.3 ml s.c.
+29567247,1122,Neuter,Neuter
+29567247,1123,Neuter,Neuter
+29567247,1124,Neuter not performed - already neutered,Neuter
+29567247,1125,Neuter not performed - other reason,Neuter
+29567247,1162,Neuter Routine,Scrotal Approach
+29567247,1163,Pre-Scrotal Approach,Scrotal Approach
+29567247,1164,Scrotal Approach,Scrotal Approach
+29567247,1198,Additional Notes,Anestezie : Domitor x 0.25 ml i.m. + Narkamon x 0.3 ml i.v. + Antisedan x 0.25 ml i.m. Postoperator : Betamox x 1.1 ml s.c.
+29567247,1199,,Anestezie : Domitor x 0.25 ml i.m. + Narkamon x 0.3 ml i.v. + Antisedan x 0.25 ml i.m. Postoperator : Betamox x 1.1 ml s.c.
+30006605,1465,FeLV,Negative
+30006605,1466,Negative,Negative
+30006605,1467,Positive,Negative
+30006605,1469,FIV,Negative
+30006605,1470,Negative,Negative
+30006605,1471,Positive,Negative
+31548357,1118,Spay,Spay
+31548357,1119,Spay,Spay
+31548357,1120,Spay not performed - already spayed,Spay
+31548357,1121,Spay not performed - other reason,Spay
+31548357,1198,Additional Notes,NLA ( Xylazina x 0.3 ml i.v. + Ketamidor x 0.3 ml i.v.). Tratament : Betamox x 0.8 ml sc + Metacam x 0.4 ml sc.
+31548357,1199,,NLA ( Xylazina x 0.3 ml i.v. + Ketamidor x 0.3 ml i.v.). Tratament : Betamox x 0.8 ml sc + Metacam x 0.4 ml sc.
+31548481,1329,Pre-meds,Domitor x 0.4 ml i.m. + Butorfanol x 0.3 ml i.m.
+31548481,1330,Induction,Ketamidor x 0.3 ml i.m.
+31548481,1331,Surgical Notes,Antisedan x 0.4 ml i.m.
+31548481,1533,Incision,Normal
+31548481,1534,Normal,Normal
+31548481,1535,Abnormal,Normal
+31548481,1333,Notes,Corectie pleoape sup. + inf. ochi stang. Tratament : Betamox x 1.4 ml s.c. + Metacam x 0.6 ml s.c.
+31548645,1329,Pre-meds,Domitor x 0.3 ml i.m. + Butorfanol x 0.2 ml i.m.
+31548645,1331,Surgical Notes,Antisedan x 0.3 ml i.m. Tratament : Betamox x 1.1 ml s.c. + Metacam x 0.4 ml s.c.
+31548645,1333,Notes,Sutura plaga cutanata zona inghinala stanga.
+31548792,1118,Spay,Spay
+31548792,1119,Spay,Spay
+31548792,1120,Spay not performed - already spayed,Spay
+31548792,1121,Spay not performed - other reason,Spay
+31548792,1134,In heat,Yes
+31548792,1135,No,Yes
+31548792,1136,Yes,Yes
+31548792,1198,Additional Notes,NLA : Domitor x 0.3 ml i.m. + Ketamidor x 0.24 ml i.m. + Antisedan x 0.15 ml i.m. Tratament : Marfloxin x 0.6 ml sc.
+31548792,1199,,NLA : Domitor x 0.3 ml i.m. + Ketamidor x 0.24 ml i.m. + Antisedan x 0.15 ml i.m. Tratament : Marfloxin x 0.6 ml sc.
+31548885,1118,Spay,Spay
+31548885,1119,Spay,Spay
+31548885,1120,Spay not performed - already spayed,Spay
+31548885,1121,Spay not performed - other reason,Spay
+31548885,1198,Additional Notes,"NLA : Xylazina x 0.7 ml i.m. + Ketamidor x 0.3 ml i.v. Tratament : Betamox x 0.7 ml s.c. + Metacam x 0.3 ml s.c.
+cPL = 87 uG"
+31548885,1199,,"NLA : Xylazina x 0.7 ml i.m. + Ketamidor x 0.3 ml i.v. Tratament : Betamox x 0.7 ml s.c. + Metacam x 0.3 ml s.c.
+cPL = 87 uG"
+31549537,1328,Preanesthetic Exam,"T=38.9, mucoase palide."
+31549537,1329,Pre-meds,Xylazina x 0.3 ml i.v. 
+31549537,1330,Induction,Ketamidor x 0.3 ml i. m.
+31549537,1530,Recovery from anaesthesia,
+31549537,1531,Normal,
+31549537,1532,Abnormal,
+31549537,1331,Surgical Notes,"Uterul gestant = 4.7 kg, cornul drept rasucit, puii neviabili."
+31549537,1333,Notes,Deces dupa 30 minute post-operator.
+31549765,1118,Spay,Spay
+31549765,1119,Spay,Spay
+31549765,1120,Spay not performed - already spayed,Spay
+31549765,1121,Spay not performed - other reason,Spay
+31549765,1126,Ovarian pedicle,Suture Ligation
+31549765,1127,Suture Ligation,Suture Ligation
+31549765,1128,Pedicle Ties,Suture Ligation
+31549765,1137,Pregnant,P1
+31549765,1138,No,P1
+31549765,1139,P1,P1
+31549765,1140,P2,P1
+31549765,1141,P3,P1
+31549765,1198,Additional Notes,NLA : Domitor x 1 ml im + Butorfanol x 1 ml im + Ketamidor x 0.5 ml iv + Antisedan x 1 ml im. Postoperator : Betamox x 4 ml sc + Metacam x 1.5 ml sc. 
+31549765,1199,,NLA : Domitor x 1 ml im + Butorfanol x 1 ml im + Ketamidor x 0.5 ml iv + Antisedan x 1 ml im. Postoperator : Betamox x 4 ml sc + Metacam x 1.5 ml sc. 
+31549765,1493,Dirofilaria,Positive
+31549765,1494,Negative,Positive
+31549765,1495,Positive,Positive
+31567406,1122,Neuter,Neuter
+31567406,1123,Neuter,Neuter
+31567406,1124,Neuter not performed - already neutered,Neuter
+31567406,1125,Neuter not performed - other reason,Neuter
+31567406,1162,Neuter Routine,Scrotal Approach
+31567406,1163,Pre-Scrotal Approach,Scrotal Approach
+31567406,1164,Scrotal Approach,Scrotal Approach
+31567406,1198,Additional Notes,NLA : Domitor x 0.44 ml i.m. + Ketamidor x 0.24 ml i. m. + Antisedan x 0.22 ml i.m. Tratament postoperator : Marbocyl x 0.9 ml s.c.
+31567406,1199,,NLA : Domitor x 0.44 ml i.m. + Ketamidor x 0.24 ml i. m. + Antisedan x 0.22 ml i.m. Tratament postoperator : Marbocyl x 0.9 ml s.c.
+31567562,1122,Neuter,Neuter
+31567562,1123,Neuter,Neuter
+31567562,1124,Neuter not performed - already neutered,Neuter
+31567562,1125,Neuter not performed - other reason,Neuter
+31567562,1162,Neuter Routine,Scrotal Approach
+31567562,1163,Pre-Scrotal Approach,Scrotal Approach
+31567562,1164,Scrotal Approach,Scrotal Approach
+31567562,1198,Additional Notes,NLA : Xylazina x 0.2 ml iv + Ketamidor x 0.2 ml iv. Tratament postoperator : Betamox x 0.6 ml sc + Metacam x 0.2 ml sc. Acasa : Kesium 250 mg 1/4 tbl x 2/zi timp de 4 zile.
+31567562,1199,,NLA : Xylazina x 0.2 ml iv + Ketamidor x 0.2 ml iv. Tratament postoperator : Betamox x 0.6 ml sc + Metacam x 0.2 ml sc. Acasa : Kesium 250 mg 1/4 tbl x 2/zi timp de 4 zile.
+32450497,1122,Neuter,Neuter
+32450497,1123,Neuter,Neuter
+32450497,1124,Neuter not performed - already neutered,Neuter
+32450497,1125,Neuter not performed - other reason,Neuter
+32450497,1162,Neuter Routine,Scrotal Approach
+32450497,1163,Pre-Scrotal Approach,Scrotal Approach
+32450497,1164,Scrotal Approach,Scrotal Approach
+32450497,1198,Additional Notes,"NLA : Domitor x 1 ml im + Narkamon x 1.2 ml iv + Antisedan x 1 ml im. Postoperator :  Betamox x 4 ml sc, Metacam x 1.5 ml sc. Tratament acasa : Kesium 625 mg x 3/4 tbl x 2/zi timp de 5 zile."
+32450497,1199,,"NLA : Domitor x 1 ml im + Narkamon x 1.2 ml iv + Antisedan x 1 ml im. Postoperator :  Betamox x 4 ml sc, Metacam x 1.5 ml sc. Tratament acasa : Kesium 625 mg x 3/4 tbl x 2/zi timp de 5 zile."
+32450497,1185,Suture,
+32450497,1186,Monocryl,
+32450497,1187,Other,
+32450497,1536,PDS II (PDX),
+32450497,1537,Biosyn,
+32450497,1538,Maxon (PGA),
+32450497,1539,Vicryl (PGA),
+32450497,1540,Silk,
+32450497,1541,Catgut,
+32471505,1122,Neuter,Neuter
+32471505,1123,Neuter,Neuter
+32471505,1124,Neuter not performed - already neutered,Neuter
+32471505,1125,Neuter not performed - other reason,Neuter
+32471505,1162,Neuter Routine,Scrotal Approach
+32471505,1163,Pre-Scrotal Approach,Scrotal Approach
+32471505,1164,Scrotal Approach,Scrotal Approach
+32471505,1198,Additional Notes,NLA : Domitor x 0.12 ml im + Narkamon x 0.2 ml im + Antisedan x 0.12 ml im. Postoperator : Betamox x 0.5 ml sc + Metacam x 0.2 ml sc. Tratament acasa : Kesium 62.5 mg x 1 tbl x 2/zi timp de 5 zile.
+32471505,1199,,NLA : Domitor x 0.12 ml im + Narkamon x 0.2 ml im + Antisedan x 0.12 ml im. Postoperator : Betamox x 0.5 ml sc + Metacam x 0.2 ml sc. Tratament acasa : Kesium 62.5 mg x 1 tbl x 2/zi timp de 5 zile.
+32471736,1122,Neuter,Neuter
+32471736,1123,Neuter,Neuter
+32471736,1124,Neuter not performed - already neutered,Neuter
+32471736,1125,Neuter not performed - other reason,Neuter
+32471736,1162,Neuter Routine,Scrotal Approach
+32471736,1163,Pre-Scrotal Approach,Scrotal Approach
+32471736,1164,Scrotal Approach,Scrotal Approach
+32471736,1198,Additional Notes,"NLA : Domitor x 0.36 ml im + Narkamon x 0.24 ml im + Antisedan x 0.18 ml im. Postoperator : Marbocyl x 0.7 ml sc. 
+::"
+32471736,1199,,"NLA : Domitor x 0.36 ml im + Narkamon x 0.24 ml im + Antisedan x 0.18 ml im. Postoperator : Marbocyl x 0.7 ml sc. 
+::"
+32471835,1118,Spay,Spay
+32471835,1119,Spay,Spay
+32471835,1120,Spay not performed - already spayed,Spay
+32471835,1121,Spay not performed - other reason,Spay
+32471835,1198,Additional Notes,NLA : Domitor x 0.38 ml im + Narkamon x 0.24 ml im + Antisedan x 0.19 ml im. Postoperator : Marbocyl x 0.8 ml sc.
+32471835,1199,,NLA : Domitor x 0.38 ml im + Narkamon x 0.24 ml im + Antisedan x 0.19 ml im. Postoperator : Marbocyl x 0.8 ml sc.
+32471928,1122,Neuter,Neuter
+32471928,1123,Neuter,Neuter
+32471928,1124,Neuter not performed - already neutered,Neuter
+32471928,1125,Neuter not performed - other reason,Neuter
+32471928,1162,Neuter Routine,Scrotal Approach
+32471928,1163,Pre-Scrotal Approach,Scrotal Approach
+32471928,1164,Scrotal Approach,Scrotal Approach
+32471928,1198,Additional Notes,NLA : Domitor x 0.1 ml im + Narkamon x 0.1 ml iv + Antisedan x 0.1 ml im. Postoperator : Betamox x 0.3 ml sc + Metacam x 0.12 ml sc. Tratament acasa : Kesium 62.5 mg x 1/2 tbl x 2 /zi timp de 5 zile.
+32471928,1199,,NLA : Domitor x 0.1 ml im + Narkamon x 0.1 ml iv + Antisedan x 0.1 ml im. Postoperator : Betamox x 0.3 ml sc + Metacam x 0.12 ml sc. Tratament acasa : Kesium 62.5 mg x 1/2 tbl x 2 /zi timp de 5 zile.
+32472010,1118,Spay,Spay
+32472010,1119,Spay,Spay
+32472010,1120,Spay not performed - already spayed,Spay
+32472010,1121,Spay not performed - other reason,Spay
+32472010,1198,Additional Notes,NLA : Domitor x 0.3 ml im + Narkamon x 0.24 ml im + Antisedan x 0.15 ml im. Postoperator : Marbocyl x 0.6 ml sc.
+32472010,1199,,NLA : Domitor x 0.3 ml im + Narkamon x 0.24 ml im + Antisedan x 0.15 ml im. Postoperator : Marbocyl x 0.6 ml sc.
+32472123,1118,Spay,Spay
+32472123,1119,Spay,Spay
+32472123,1120,Spay not performed - already spayed,Spay
+32472123,1121,Spay not performed - other reason,Spay
+32472123,1198,Additional Notes,NLA : Domitor x 0.3 ml im + Narkamon x 0.3 ml iv + Antisedan x 0.3 ml im. Postoperator : Betamox x 1.2 ml sc + Metacam x 0.5 ml sc. Tratament acasa : Kesium 250 mg x 1/2 tbl x 2 /zi timp de 5 zile.
+32472123,1199,,NLA : Domitor x 0.3 ml im + Narkamon x 0.3 ml iv + Antisedan x 0.3 ml im. Postoperator : Betamox x 1.2 ml sc + Metacam x 0.5 ml sc. Tratament acasa : Kesium 250 mg x 1/2 tbl x 2 /zi timp de 5 zile.
+32472596,1329,Pre-meds,Domitor x 0.5 ml im 
+32472596,1330,Induction,Narkamon x 1 ml iv. Antisedan x 0.5 ml im
+32472596,1522,Mucous membranes color,Pink
+32472596,1523,Pink,Pink
+32472596,1524,Pigmented,Pink
+32472596,1525,Pale,Pink
+32472596,1526,Injected,Pink
+32472596,1527,Cyanotic,Pink
+32472596,1528,Icteric,Pink
+32472596,1529,Not Assessed,Pink
+32472596,1530,Recovery from anaesthesia,Normal
+32472596,1531,Normal,Normal
+32472596,1532,Abnormal,Normal
+32472596,1533,Incision,Normal
+32472596,1534,Normal,Normal
+32472596,1535,Abnormal,Normal
+32472596,1333,Notes,Extirpare chist (glanda) salivar subcutanat zona submandibulara dreapta.
+32472596,1332,Recommendations,Toaletare locala cu Betadina. Tratament acasa cu Kesium 250 mg x 1 tbl x 2 /zi timp de 5 zile.
+32472596,1331,Surgical Notes,Postoperator : Betamox x 2 ml sc + Metacam x 0.8 ml sc.
+32472790,1118,Spay,Spay
+32472790,1119,Spay,Spay
+32472790,1120,Spay not performed - already spayed,Spay
+32472790,1121,Spay not performed - other reason,Spay
+32472790,1126,Ovarian pedicle,Suture Ligation
+32472790,1127,Suture Ligation,Suture Ligation
+32472790,1128,Pedicle Ties,Suture Ligation
+32472790,1198,Additional Notes,NLA : Domitor x 0.28 ml im + Narkamon x 0.2 ml im + Antisedan x 0.14 ml im. Postoperator : Marbocyl x 0.6 ml sc.
+32472790,1199,,NLA : Domitor x 0.28 ml im + Narkamon x 0.2 ml im + Antisedan x 0.14 ml im. Postoperator : Marbocyl x 0.6 ml sc.
+32472865,1336,Pre-meds,Domitor x 0.4 ml im 
+32472865,1337,Induction,Narkamon x 0.4 ml iv. Antisedan x 0.4 ml im
+32472865,1338,Procedure Notes,Detartraj
+32472865,1339,Post-op,Betamox x 1.4 ml sc + Metacam x 0.5 ml sc. 
+32472865,1345,Notes,Tratament acasa : Stomorgyl 10 x 1 1/2 tbl/zi timp de 5 zile.
+32472958,1351,Reason for the visit,"Este apatica, bea multa apa, nu mananca de 2 zile, nu se ridica de jos."
+32472958,4,Weight,40
+32472958,5,kg,40
+32472958,6,Temperature,39
+32472958,7,°C,39
+32472958,1043,Body Condition Score,5
+32472958,1044,1,5
+32472958,1045,2,5
+32472958,1046,3,5
+32472958,1047,4,5
+32472958,1048,5,5
+32472958,1049,6,5
+32472958,1050,7,5
+32472958,1051,8,5
+32472958,1052,9,5
+32472958,1059,Hydration,5% dehydrated
+32472958,1060,Normal,5% dehydrated
+32472958,1061,5% dehydrated,5% dehydrated
+32472958,1062,10% dehydrated,5% dehydrated
+32472958,1063,Not Assessed,5% dehydrated
+32472958,1053,Attitude,
+32472958,1054,BAR,
+32472958,1055,QAR,
+32472958,1056,Depressed,
+32472958,1057,Non-responsive,
+32472958,1058,Not Assessed,
+32472958,1206,Color,Pale
+32472958,1207,Pink,Pale
+32472958,1208,Pigmented,Pale
+32472958,1209,Pale,Pale
+32472958,1210,Injected,Pale
+32472958,1211,Cyanotic,Pale
+32472958,1212,Icteric,Pale
+32472958,1213,Not Assessed,Pale
+32472958,1214,Hydration,Moist
+32472958,1215,Moist,Moist
+32472958,1216,Tacky,Moist
+32472958,1217,Not Assessed,Moist
+32472958,1200,CRT capillary refill time,
+32472958,1201,< 2 seconds,
+32472958,1202,2 seconds,
+32472958,1203,> 2 seconds,
+32472958,1204,Not Assessed,
+32472958,358,ALB,2.7 g/dL
+32472958,359,,2.7 g/dL
+32472958,780,A/G Ratio,0.7 
+32472958,781,,0.7 
+32472958,360,ALP,937 U/L
+32472958,361,,937 U/L
+32472958,356,GPT,469 U/L
+32472958,357,,469 U/L
+32472958,362,AMYL,646
+32472958,363,,646
+32472958,1447,Blood Urea Nitrogen (BUN),16.1 mg/dL
+32472958,1448,,16.1 mg/dL
+32472958,366,Ca,9.2 mg/dL
+32472958,367,,9.2 mg/dL
+32472958,778,Cholesterol (CHOL),132 mg/dL
+32472958,779,,132 mg/dL
+32472958,376,CRE,1.35 mg/dL
+32472958,377,,1.35 mg/dL
+32472958,687,Globulins,4.1 g/dL
+32472958,688,,4.1 g/dL
+32472958,374,GLU,89 mg/dL
+32472958,375,,89 mg/dL
+32472958,372,GGT,< 10 U/L
+32472958,373,,< 10 U/L
+32472958,776,Lipase,62 U/L
+32472958,777,,62 U/L
+32472958,364,P,2.5 mg/dL
+32472958,365,,2.5 mg/dL
+32472958,384,TBIL,0.6 mg/dL
+32472958,385,,0.6 mg/dL
+32472958,388,TPRO,6.8 g/dL
+32472958,389,,6.8 g/dL
+32472958,402,WBC,20.7 K/uL
+32472958,403,,20.7 K/uL
+32472958,408,HCT,37.5 %
+32472958,409,,37.5 %
+32472958,406,HGB,13.4g/dL 
+32472958,407,,13.4g/dL 
+32472958,416,CHEM/MCHC,35.7 g/dL
+32472958,417,,35.7 g/dL
+32472958,1459,(%) Reticulocytes,0.9
+32472958,1460,,0.9
+32472958,1461,(%) Granulocytes,55.1
+32472958,1462,,55.1
+32472958,432,GRA,11.4 K/uL
+32472958,433,,11.4 K/uL
+32472958,410,PLT,117 K/uL
+32472958,411,,117 K/uL
+32472958,606,Indication:,Abdomen + Torace
+32472958,607,,Abdomen + Torace
+32472958,608,Technique:,LL + VD
+32472958,609,,LL + VD
+32472958,610,X-Ray Interpretation:,"Piometru , masa abdominala,  ascita, Plamani cu aspect opac."
+32472958,611,,"Piometru , masa abdominala,  ascita, Plamani cu aspect opac."
+32472958,1329,Pre-meds,Domitor x 1 ml im 
+32472958,1330,Induction,Propofol x 5 ml iv
+32472958,1331,Surgical Notes,"Piometru, masa tumorala cca 10 cm diametru + hidronefroza rinichi stang."
+32472958,1332,Recommendations,Eutanasie
+32472958,1493,Dirofilaria,Negative
+32472958,1494,Negative,Negative
+32472958,1495,Positive,Negative
+32472958,1333,Notes,T 61 x 2 ml iv.
+32495731,1351,Reason for the visit,Toaletaj : NLA : Domitor x 0.6 ml im  + Antisedan x 0.3 ml im.
+32496065,1351,Reason for the visit,Este abatuta si nu vrea sa manance de 2 zile.
+32496065,606,Indication:,Abdomen
+32496065,607,,Abdomen
+32496065,608,Technique:,LL
+32496065,609,,LL
+32496065,610,X-Ray Interpretation:,Piometru
+32496065,611,,Piometru
+32496065,1118,Spay,Spay
+32496065,1119,Spay,Spay
+32496065,1120,Spay not performed - already spayed,Spay
+32496065,1121,Spay not performed - other reason,Spay
+32496065,1126,Ovarian pedicle,Pedicle Ties
+32496065,1127,Suture Ligation,Pedicle Ties
+32496065,1128,Pedicle Ties,Pedicle Ties
+32496065,1150,Pyometra,Yes
+32496065,1151,No,Yes
+32496065,1152,Yes,Yes
+32496065,1198,Additional Notes,NLA : Domitor x .1 ml im = Narkamon x 0.1 iv + Antisedan x 0.1 ml im. Postoperator : Metacam x 0.1 ml sc + Synulox x 0.15 ml sc. Tratament acasa : Kesium 62.5 mg 1 tbl x 2 /zi timp de 6 zile.
+32496065,1199,,NLA : Domitor x .1 ml im = Narkamon x 0.1 iv + Antisedan x 0.1 ml im. Postoperator : Metacam x 0.1 ml sc + Synulox x 0.15 ml sc. Tratament acasa : Kesium 62.5 mg 1 tbl x 2 /zi timp de 6 zile.
+32496165,1351,Reason for the visit,"A fatat un pui mort in urma cu o zi, gafaie, nu se ridica de jos, plange."
+32496165,606,Indication:,Abdomen
+32496165,607,,Abdomen
+32496165,608,Technique:,LL
+32496165,609,,LL
+32496165,610,X-Ray Interpretation:,Gestatie avansata cu inca 3 pui in abdomen.
+32496165,611,,Gestatie avansata cu inca 3 pui in abdomen.
+32496165,1118,Spay,Spay
+32496165,1119,Spay,Spay
+32496165,1120,Spay not performed - already spayed,Spay
+32496165,1121,Spay not performed - other reason,Spay
+32496165,1137,Pregnant,P3
+32496165,1138,No,P3
+32496165,1139,P1,P3
+32496165,1140,P2,P3
+32496165,1141,P3,P3
+32496165,1198,Additional Notes,NLA : Domitor x 0.24 ml im + Narkamon x 0.1 ml im + Antisedan x 0.12 ml im. In urma operatiei de cezariana s-au scos 3 pui vii. Intraoperator : Ringer Lactat + glucoza. Postoperator : Tolfedol x 0.3 ml sc + Betamox x 0.3 ml sc.
+32496165,1199,,NLA : Domitor x 0.24 ml im + Narkamon x 0.1 ml im + Antisedan x 0.12 ml im. In urma operatiei de cezariana s-au scos 3 pui vii. Intraoperator : Ringer Lactat + glucoza. Postoperator : Tolfedol x 0.3 ml sc + Betamox x 0.3 ml sc.
+32496165,4,Weight,2.8
+32496165,5,kg,2.8
+32496165,6,Temperature,40
+32496165,7,°C,40
+32496235,1348,Procedure name,"Sutura plaga cutanata interdigitala 2-3, membru posterior stang.
+, "
+32496235,1349,Notes,NLA : Domitor x 0.4 ml im + Antisedan x 0.2 ml. Postoperator : Metacam x 0.2 ml sc + Marbocyl x 0.8 ml sc.
+32496279,1122,Neuter,Neuter
+32496279,1123,Neuter,Neuter
+32496279,1124,Neuter not performed - already neutered,Neuter
+32496279,1125,Neuter not performed - other reason,Neuter
+32496279,1162,Neuter Routine,Scrotal Approach
+32496279,1163,Pre-Scrotal Approach,Scrotal Approach
+32496279,1164,Scrotal Approach,Scrotal Approach
+32496279,1179,Umbilical Hernia Repair,Reducible: Repaired
+32496279,1180,Not Present,Reducible: Repaired
+32496279,1181,Reducible: Repaired,Reducible: Repaired
+32496279,1182,Reducible: Not Repaired,Reducible: Repaired
+32496279,1183,Non-reducible: Repaired,Reducible: Repaired
+32496279,1184,Non-reducible: Not Repaired,Reducible: Repaired
+32496279,1185,Suture,Vicryl (PGA)
+32496279,1186,Monocryl,Vicryl (PGA)
+32496279,1187,Other,Vicryl (PGA)
+32496279,1536,PDS II (PDX),Vicryl (PGA)
+32496279,1537,Biosyn,Vicryl (PGA)
+32496279,1538,Maxon (PGA),Vicryl (PGA)
+32496279,1539,Vicryl (PGA),Vicryl (PGA)
+32496279,1540,Silk,Vicryl (PGA)
+32496279,1541,Catgut,Vicryl (PGA)
+32496279,1329,Pre-meds,Xylazina x 0.8 ml im
+32496279,1330,Induction,Narkamon x 0.5 ml iv
+32496279,1533,Incision,Normal
+32496279,1534,Normal,Normal
+32496279,1535,Abnormal,Normal
+32496279,1522,Mucous membranes color,Pink
+32496279,1523,Pink,Pink
+32496279,1524,Pigmented,Pink
+32496279,1525,Pale,Pink
+32496279,1526,Injected,Pink
+32496279,1527,Cyanotic,Pink
+32496279,1528,Icteric,Pink
+32496279,1529,Not Assessed,Pink
+32496279,1530,Recovery from anaesthesia,Normal
+32496279,1531,Normal,Normal
+32496279,1532,Abnormal,Normal
+32496279,1333,Notes,Postoperator : Metacam x 0.4 ml sc + Betamox x 0.8 ml sc. Tratament acasa : Kesium 250 mg x 1/2 tbl x 2 /zi timp de 5 zile.
+32496370,1122,Neuter,Neuter
+32496370,1123,Neuter,Neuter
+32496370,1124,Neuter not performed - already neutered,Neuter
+32496370,1125,Neuter not performed - other reason,Neuter
+32496370,1162,Neuter Routine,Scrotal Approach
+32496370,1163,Pre-Scrotal Approach,Scrotal Approach
+32496370,1164,Scrotal Approach,Scrotal Approach
+32496370,1198,Additional Notes,NLA : Domitor x 0.14 ml im + Butorfanol x 0.1 ml im + Ketamidor x 0.2 ml iv + Antisedan x 0.14 ml im. Tratament postoperator : Metacam x 0.25 ml sc + Betamox x 0.5 ml sc. Tratament acasa : Kesium 62.5 mg x 1 tbl x 2/zi timp de 5 zile.
+32496370,1199,,NLA : Domitor x 0.14 ml im + Butorfanol x 0.1 ml im + Ketamidor x 0.2 ml iv + Antisedan x 0.14 ml im. Tratament postoperator : Metacam x 0.25 ml sc + Betamox x 0.5 ml sc. Tratament acasa : Kesium 62.5 mg x 1 tbl x 2/zi timp de 5 zile.
+32497681,1118,Spay,Spay
+32497681,1119,Spay,Spay
+32497681,1120,Spay not performed - already spayed,Spay
+32497681,1121,Spay not performed - other reason,Spay
+32497681,1126,Ovarian pedicle,Suture Ligation
+32497681,1127,Suture Ligation,Suture Ligation
+32497681,1128,Pedicle Ties,Suture Ligation
+32497681,1198,Additional Notes,NLA : Domitor x 0.25 ml im + Ketamidor x 0.16 ml im + Antisedan x 0.12 ml im. Postoperator : Marfloxin x 0.5 ml sc.
+32497681,1199,,NLA : Domitor x 0.25 ml im + Ketamidor x 0.16 ml im + Antisedan x 0.12 ml im. Postoperator : Marfloxin x 0.5 ml sc.
+32514532,1351,Reason for the visit,"Nu mai vrea sa manance de 2 zile, tremura si plange."
+34544842,1122,Neuter,Neuter
+34544842,1123,Neuter,Neuter
+34544842,1124,Neuter not performed - already neutered,Neuter
+34544842,1125,Neuter not performed - other reason,Neuter
+34544842,1162,Neuter Routine,Scrotal Approach
+34544842,1163,Pre-Scrotal Approach,Scrotal Approach
+34544842,1164,Scrotal Approach,Scrotal Approach
+37934613,1118,Spay,Spay
+37934613,1119,Spay,Spay
+37934613,1120,Spay not performed - already spayed,Spay
+37934613,1121,Spay not performed - other reason,Spay
+37934613,1198,Additional Notes,"Ovariohisterectomie. NLA : Xylazin Bio x 0.35 ml im, Ketamidor x 0.5 ml im."
+37934613,1199,,"Ovariohisterectomie. NLA : Xylazin Bio x 0.35 ml im, Ketamidor x 0.5 ml im."
+39410446,1118,Spay,Spay
+39410446,1119,Spay,Spay
+39410446,1120,Spay not performed - already spayed,Spay
+39410446,1121,Spay not performed - other reason,Spay
+39602303,1118,Spay,Spay
+39602303,1119,Spay,Spay
+39602303,1120,Spay not performed - already spayed,Spay
+39602303,1121,Spay not performed - other reason,Spay
+39602303,1198,Additional Notes,Ovariohisterectomie
+39602303,1199,,Ovariohisterectomie
+39620488,1122,Neuter,Neuter
+39620488,1123,Neuter,Neuter
+39620488,1124,Neuter not performed - already neutered,Neuter
+39620488,1125,Neuter not performed - other reason,Neuter
+39620488,1162,Neuter Routine,
+39620488,1163,Pre-Scrotal Approach,
+39620488,1164,Scrotal Approach,
+39707481,1493,Dirofilaria,Negative
+39707481,1494,Negative,Negative
+39707481,1495,Positive,Negative
+39707481,1501,Borrelia,Negative
+39707481,1502,Negative,Negative
+39707481,1503,Positive,Negative
+39707481,1505,Anaplasma,Negative
+39707481,1506,Negative,Negative
+39707481,1507,Positive,Negative
+39707481,1509,Ehrlichia,Negative
+39707481,1510,Negative,Negative
+39707481,1511,Positive,Negative
+39708965,1118,Spay,Spay
+39708965,1119,Spay,Spay
+39708965,1120,Spay not performed - already spayed,Spay
+39708965,1121,Spay not performed - other reason,Spay
+39708965,1198,Additional Notes,Ovariohisterectomie.
+39708965,1199,,Ovariohisterectomie.
+39708989,1118,Spay,Spay
+39708989,1119,Spay,Spay
+39708989,1120,Spay not performed - already spayed,Spay
+39708989,1121,Spay not performed - other reason,Spay
+39708989,1198,Additional Notes,Ovariohisterectomie.
+39708989,1199,,Ovariohisterectomie.
+39726643,1122,Neuter,Neuter
+39726643,1123,Neuter,Neuter
+39726643,1124,Neuter not performed - already neutered,Neuter
+39726643,1125,Neuter not performed - other reason,Neuter
+39726643,1162,Neuter Routine,Pre-Scrotal Approach
+39726643,1163,Pre-Scrotal Approach,Pre-Scrotal Approach
+39726643,1164,Scrotal Approach,Pre-Scrotal Approach
+39737936,1118,Spay,Spay
+39737936,1119,Spay,Spay
+39737936,1120,Spay not performed - already spayed,Spay
+39737936,1121,Spay not performed - other reason,Spay
+39737936,1126,Ovarian pedicle,
+39737936,1127,Suture Ligation,
+39737936,1128,Pedicle Ties,
+39746513,1122,Neuter,Neuter
+39746513,1123,Neuter,Neuter
+39746513,1124,Neuter not performed - already neutered,Neuter
+39746513,1125,Neuter not performed - other reason,Neuter
+39746513,1162,Neuter Routine,
+39746513,1163,Pre-Scrotal Approach,
+39746513,1164,Scrotal Approach,
+39746513,1198,Additional Notes,Ovariohisterectomie.
+39746513,1199,,Ovariohisterectomie.
+39827623,1118,Spay,Spay
+39827623,1119,Spay,Spay
+39827623,1120,Spay not performed - already spayed,Spay
+39827623,1121,Spay not performed - other reason,Spay
+39827623,1126,Ovarian pedicle,
+39827623,1127,Suture Ligation,
+39827623,1128,Pedicle Ties,
+39827623,1198,Additional Notes,Ovariohisterectomie
+39827623,1199,,Ovariohisterectomie
+39843774,1351,Reason for the visit,Ii curg ochii si sta cu ei mai mult inchisi.
+39843774,994,Inspection,"Secretii rosiatice, conjunctivita"
+39843774,997,Eyelids,Usor deviate spre interior.
+39850087,1351,Reason for the visit,stelrilizare-ovariohisterectomie
+40869534,1122,Neuter,Neuter
+40869534,1123,Neuter,Neuter
+40869534,1124,Neuter not performed - already neutered,Neuter
+40869534,1125,Neuter not performed - other reason,Neuter
+40869534,1162,Neuter Routine,Pre-Scrotal Approach
+40869534,1163,Pre-Scrotal Approach,Pre-Scrotal Approach
+40869534,1164,Scrotal Approach,Pre-Scrotal Approach
+40869534,1165,Cryptorchid,Yes
+40869534,1166,Yes,Yes
+40869534,1167,No,Yes
+40869534,1168,Cryptorchid-Location,"[""Right Inguinal Cryptorchid""]"
+40869534,1169,Right Abdominal Cryptorchid,"[""Right Inguinal Cryptorchid""]"
+40869534,1170,Left Abdominal Cryptorchid,"[""Right Inguinal Cryptorchid""]"
+40869534,1171,Right Inguinal Cryptorchid,"[""Right Inguinal Cryptorchid""]"
+40869534,1172,Left Inguinal Cryptorchid,"[""Right Inguinal Cryptorchid""]"
+40869534,1173,Cryptorchid-Incision Location,"[""Right Inguinal Incision""]"
+40869534,1174,Midline Incision,"[""Right Inguinal Incision""]"
+40869534,1175,Right Para-midline Incision,"[""Right Inguinal Incision""]"
+40869534,1176,Left Para-midline Incision,"[""Right Inguinal Incision""]"
+40869534,1177,Right Inguinal Incision,"[""Right Inguinal Incision""]"
+40869534,1178,Left Inguinal Incision,"[""Right Inguinal Incision""]"
+40869534,1329,Pre-meds,Domitor x 0.05 ml i.m.+ Butorfanol x 0.1 ml i.m. + Ketamidor x 0.1 ml i.m.
+40869534,1330,Induction,"Propofol x 1 ml i.v., Isofluran
+Antisedan x 0.05 ml i.m."
+40869534,1331,Surgical Notes,Rezectie de cap femural stang.
+40869534,1533,Incision,Normal
+40869534,1534,Normal,Normal
+40869534,1535,Abnormal,Normal
+40869534,1522,Mucous membranes color,Pink
+40869534,1523,Pink,Pink
+40869534,1524,Pigmented,Pink
+40869534,1525,Pale,Pink
+40869534,1526,Injected,Pink
+40869534,1527,Cyanotic,Pink
+40869534,1528,Icteric,Pink
+40869534,1529,Not Assessed,Pink
+40869534,1530,Recovery from anaesthesia,Normal
+40869534,1531,Normal,Normal
+40869534,1532,Abnormal,Normal
+40876244,1118,Spay,Spay
+40876244,1119,Spay,Spay
+40876244,1120,Spay not performed - already spayed,Spay
+40876244,1121,Spay not performed - other reason,Spay
+40876244,1198,Additional Notes,Xylazin Bio x 0.5 ml i.m. + Ketamidor x 0.5 ml i.m.
+40876244,1199,,Xylazin Bio x 0.5 ml i.m. + Ketamidor x 0.5 ml i.m.
+40902023,1351,Reason for the visit,"Pisica nu se simte bine,este apatica ,este icterica,are o umflatura pe abdomen in locul in care a fost operata in urma cu o saptamana la un alt cabinet veterinar."
+40902023,4,Weight,2.3
+40902023,5,kg,2.3
+40902023,6,Temperature,34.5
+40902023,7,°C,34.5
+40902023,1043,Body Condition Score,
+40902023,1044,1,
+40902023,1045,2,
+40902023,1046,3,
+40902023,1047,4,
+40902023,1048,5,
+40902023,1049,6,
+40902023,1050,7,
+40902023,1051,8,
+40902023,1052,9,
+40902023,1241,Muscle Condition Score,Mild
+40902023,1242,None,Mild
+40902023,1243,Mild,Mild
+40902023,1244,Moderate,Mild
+40902023,1245,Severe,Mild
+40902023,1246,Pain Score (CSU),4
+40902023,1247,0,4
+40902023,1248,1,4
+40902023,1249,2,4
+40902023,1250,3,4
+40902023,1251,4,4
+40902023,1059,Hydration,10% dehydrated
+40902023,1060,Normal,10% dehydrated
+40902023,1061,5% dehydrated,10% dehydrated
+40902023,1062,10% dehydrated,10% dehydrated
+40902023,1063,Not Assessed,10% dehydrated
+40902023,1053,Attitude,Non-responsive
+40902023,1054,BAR,Non-responsive
+40902023,1055,QAR,Non-responsive
+40902023,1056,Depressed,Non-responsive
+40902023,1057,Non-responsive,Non-responsive
+40902023,1058,Not Assessed,Non-responsive
+40902023,703,Behaviour,Pasiv
+40902023,704,normal,Pasiv
+40902023,1206,Color,Icteric
+40902023,1207,Pink,Icteric
+40902023,1208,Pigmented,Icteric
+40902023,1209,Pale,Icteric
+40902023,1210,Injected,Icteric
+40902023,1211,Cyanotic,Icteric
+40902023,1212,Icteric,Icteric
+40902023,1213,Not Assessed,Icteric
+40902023,1214,Hydration,Tacky
+40902023,1215,Moist,Tacky
+40902023,1216,Tacky,Tacky
+40902023,1217,Not Assessed,Tacky
+40902023,1200,CRT capillary refill time,> 2 seconds
+40902023,1201,< 2 seconds,> 2 seconds
+40902023,1202,2 seconds,> 2 seconds
+40902023,1203,> 2 seconds,> 2 seconds
+40902023,1204,Not Assessed,> 2 seconds
+40902023,10,Respiratory Frequency,35
+40902023,11,10-30/min,35
+40902023,8,Heart Rate,80
+40902023,9,bpm,80
+41860627,1165,Cryptorchid,No
+41860627,1166,Yes,No
+41860627,1167,No,No
+41860627,1122,Neuter,Neuter
+41860627,1123,Neuter,Neuter
+41860627,1124,Neuter not performed - already neutered,Neuter
+41860627,1125,Neuter not performed - other reason,Neuter
+41860627,1162,Neuter Routine,Scrotal Approach
+41860627,1163,Pre-Scrotal Approach,Scrotal Approach
+41860627,1164,Scrotal Approach,Scrotal Approach
+42106431,1118,Spay,Spay
+42106431,1119,Spay,Spay
+42106431,1120,Spay not performed - already spayed,Spay
+42106431,1121,Spay not performed - other reason,Spay
+42106431,1134,In heat,Yes
+42106431,1135,No,Yes
+42106431,1136,Yes,Yes
+42106431,1198,Additional Notes,"Ovariohisterectomie.
+NLA : Xylazin Bio x 1.5 ml i.m., Ketamidor x 1 ml i.v., Propofol x 2 ml i.v."
+42106431,1199,,"Ovariohisterectomie.
+NLA : Xylazin Bio x 1.5 ml i.m., Ketamidor x 1 ml i.v., Propofol x 2 ml i.v."
+42322576,1122,Neuter,Neuter
+42322576,1123,Neuter,Neuter
+42322576,1124,Neuter not performed - already neutered,Neuter
+42322576,1125,Neuter not performed - other reason,Neuter
+42322576,1162,Neuter Routine,Scrotal Approach
+42322576,1163,Pre-Scrotal Approach,Scrotal Approach
+42322576,1164,Scrotal Approach,Scrotal Approach
+46433827,1351,Reason for the visit,"abatere,apatie,refuza mancarea,durere abdominala,tremuraturi musculare"
+46433827,4,Weight,2.8
+46433827,5,kg,2.8
+46433827,6,Temperature,39.5
+46433827,7,°C,39.5
+46433827,10,Respiratory Frequency,33
+46433827,11,10-30/min,33
+46433827,2,Body Condition,slab
+46433827,3,obese / thin / underweight,slab
+46433827,1043,Body Condition Score,9
+46433827,1044,1,9
+46433827,1045,2,9
+46433827,1046,3,9
+46433827,1047,4,9
+46433827,1048,5,9
+46433827,1049,6,9
+46433827,1050,7,9
+46433827,1051,8,9
+46433827,1052,9,9
+46433827,1241,Muscle Condition Score,None
+46433827,1242,None,None
+46433827,1243,Mild,None
+46433827,1244,Moderate,None
+46433827,1245,Severe,None
+46433827,1246,Pain Score (CSU),4
+46433827,1247,0,4
+46433827,1248,1,4
+46433827,1249,2,4
+46433827,1250,3,4
+46433827,1251,4,4
+46433827,1059,Hydration,Normal
+46433827,1060,Normal,Normal
+46433827,1061,5% dehydrated,Normal
+46433827,1062,10% dehydrated,Normal
+46433827,1063,Not Assessed,Normal
+46433827,1053,Attitude,QAR
+46433827,1054,BAR,QAR
+46433827,1055,QAR,QAR
+46433827,1056,Depressed,QAR
+46433827,1057,Non-responsive,QAR
+46433827,1058,Not Assessed,QAR
+46433827,1206,Color,Pink
+46433827,1207,Pink,Pink
+46433827,1208,Pigmented,Pink
+46433827,1209,Pale,Pink
+46433827,1210,Injected,Pink
+46433827,1211,Cyanotic,Pink
+46433827,1212,Icteric,Pink
+46433827,1213,Not Assessed,Pink
+46433827,1214,Hydration,Moist
+46433827,1215,Moist,Moist
+46433827,1216,Tacky,Moist
+46433827,1217,Not Assessed,Moist
+46433827,1200,CRT capillary refill time,Not Assessed
+46433827,1201,< 2 seconds,Not Assessed
+46433827,1202,2 seconds,Not Assessed
+46433827,1203,> 2 seconds,Not Assessed
+46433827,1204,Not Assessed,Not Assessed
+46433827,912,Appetite,lipsa
+46433827,916,Vomit,prezenta
+46433827,245,,dureroasa
+46433827,920,Palpation,dureroasa
+46433827,358,ALB,3.1
+46433827,359,,3.1
+46433827,356,GPT,90
+46433827,357,,90
+46433827,366,Ca,8.9
+46433827,367,,8.9
+46433827,778,Cholesterol (CHOL),208
+46433827,779,,208
+46433827,376,CRE,0.5
+46433827,377,,0.5
+46433827,687,Globulins,4.2
+46433827,688,,4.2
+46433827,374,GLU,113
+46433827,375,,113
+46433827,776,Lipase,>300
+46433827,777,,>300
+46433827,364,P,3.2
+46433827,365,,3.2
+46433827,388,TPRO,7.3
+46433827,389,,7.3
+46433827,372,GGT,<10
+46433827,373,,<10
+46433827,362,AMYL,424
+46433827,363,,424
+46433827,360,ALP,106
+46433827,361,,106
+46433827,408,HCT,50.8%
+46433827,409,,50.8%
+46433827,406,HGB,17.1g/dl
+46433827,407,,17.1g/dl
+46433827,414,HME/MCH,33.7 g/dl
+46433827,415,,33.7 g/dl
+46433827,790,(%) Eosinophil,
+46433827,791,,
+46433827,432,GRA,40.9k/ul
+46433827,433,,40.9k/ul
+46433827,434,EOS,1.7k/ul
+46433827,435,,1.7k/ul
+46433827,410,PLT,341k/ul
+46433827,411,,341k/ul
+46433827,402,WBC,42.9k/ul
+46433827,403,,42.9k/ul
+46441756,1351,Reason for the visit,"recontrol,efectuarea hemoleucogramei"
+46441756,408,HCT,49.2%
+46441756,409,,49.2%
+46441756,406,HGB,16.5g/dl
+46441756,407,,16.5g/dl
+46441756,416,CHEM/MCHC,33.5g/dl
+46441756,417,,33.5g/dl
+46441756,784,(%) Lymphocyte,38%
+46441756,785,,38%
+46441756,1459,(%) Reticulocytes,1.9%
+46441756,1460,,1.9%
+46441756,1461,(%) Granulocytes,62.3%
+46441756,1462,,62.3%
+46441756,790,(%) Eosinophil,
+46441756,791,,
+46441756,432,GRA,9.10k/ul
+46441756,433,,9.10k/ul
+46441756,434,EOS,abs.
+46441756,435,,abs.
+46441756,410,PLT,554
+46441756,411,,554
+46441886,1351,Reason for the visit,repetarea analizelor pe organe
+46441886,358,ALB,3.3
+46441886,359,,3.3
+46441886,360,ALP,47
+46441886,361,,47
+46441886,356,GPT,69
+46441886,357,,69
+46441886,362,AMYL,558
+46441886,363,,558
+46441886,1447,Blood Urea Nitrogen (BUN),19.6
+46441886,1448,,19.6
+46441886,366,Ca,9.5
+46441886,367,,9.5
+46441886,376,CRE,0.88
+46441886,377,,0.88
+46441886,374,GLU,101
+46441886,375,,101
+46441886,372,GGT,<10
+46441886,373,,<10
+46441886,776,Lipase,70
+46441886,777,,70
+46441886,386,TCHOL,206
+46441886,387,,206
+46441886,384,TBIL,0.4
+46441886,385,,0.4
+46441886,388,TPRO,6.3
+46441886,389,,6.3
+46795437,1351,Reason for the visit,"aris nu se simte bine,se aud zgomote in intestin,nu manca"
+46795437,408,HCT,47.1%
+46795437,409,,47.1%
+46795437,406,HGB,15.4g/dl
+46795437,407,,15.4g/dl
+46795437,416,CHEM/MCHC,32.7 g/dl
+46795437,417,,32.7 g/dl
+46795437,1459,(%) Reticulocytes,1.3%
+46795437,1460,,1.3%
+46795437,784,(%) Lymphocyte,13%
+46795437,785,,13%
+46795437,432,GRA,14.8k/ul
+46795437,433,,14.8k/ul
+46795437,410,PLT,634k/ul
+46795437,411,,634k/ul
+46797277,360,ALP,59
+46797277,361,,59
+46797277,358,ALB,3.4
+46797277,359,,3.4
+46797277,356,GPT,143
+46797277,357,,143
+46797277,1447,Blood Urea Nitrogen (BUN),30.7
+46797277,1448,,30.7
+46797277,778,Cholesterol (CHOL),244
+46797277,779,,244
+46797277,376,CRE,0.95
+46797277,377,,0.95
+46797277,687,Globulins,3.3
+46797277,688,,3.3
+46797277,374,GLU,105
+46797277,375,,105
+46797277,776,Lipase,697.7
+46797277,777,,697.7
+46797277,388,TPRO,6.7
+46797277,389,,6.7
+46797277,390,TG,66
+46797277,391,,66
+46797277,408,HCT,54.2%?
+46797277,409,,54.2%?
+46797277,406,HGB,19.5g/dl
+46797277,407,,19.5g/dl
+46797277,416,CHEM/MCHC,36.0g/dl
+46797277,417,,36.0g/dl
+46797277,1459,(%) Reticulocytes,0.3%
+46797277,1460,,0.3%
+46797277,784,(%) Lymphocyte,46%
+46797277,785,,46%
+46797277,432,GRA,4.30k/ul
+46797277,433,,4.30k/ul
+46797277,410,PLT,429k/ul
+46797277,411,,429k/ul
+46797491,408,HCT,51.7%
+46797491,409,,51.7%
+46797491,406,HGB,18.7g/dl
+46797491,407,,18.7g/dl
+46797491,416,CHEM/MCHC,36.2g/dl
+46797491,417,,36.2g/dl
+46797491,1459,(%) Reticulocytes,0.6%
+46797491,1460,,0.6%
+46797491,784,(%) Lymphocyte,25%
+46797491,785,,25%
+46797491,1461,(%) Granulocytes,74.7%
+46797491,1462,,74.7%
+46797491,432,GRA,13.00k/ul
+46797491,433,,13.00k/ul
+46797491,410,PLT,316k/ul
+46797491,411,,316k/ul
+46797634,1351,Reason for the visit,analiza lipaza specifica la cerere
+46797634,776,Lipase,241.0 u/l
+46797634,777,,241.0 u/l
+46797634,1352,Notes,"valori de referinte
+normal         <200
+high risk        200-400
+pancreatitis   >400"
+46797878,776,Lipase,174.6u/l
+46797878,777,,174.6u/l
+46797878,1351,Reason for the visit,efectuarea la cerere a lipazei specifice
+46804641,1351,Reason for the visit,"catelul nu se simte bine,ete apatic,refuza mancarea,"
+46804641,358,ALB,3.3
+46804641,359,,3.3
+46804641,360,ALP,57
+46804641,361,,57
+46804641,356,GPT,76
+46804641,357,,76
+46804641,362,AMYL,691
+46804641,363,,691
+46804641,1447,Blood Urea Nitrogen (BUN),22.8
+46804641,1448,,22.8
+46804641,366,Ca,10.0
+46804641,367,,10.0
+46804641,778,Cholesterol (CHOL),184
+46804641,779,,184
+46804641,376,CRE,1.13
+46804641,377,,1.13
+46804641,374,GLU,111
+46804641,375,,111
+46804641,372,GGT,<10
+46804641,373,,<10
+46804641,776,Lipase,150
+46804641,777,,150
+46804641,364,P,4.1
+46804641,365,,4.1
+46804641,384,TBIL,<0.4
+46804641,385,,<0.4
+46804641,388,TPRO,6.4
+46804641,389,,6.4
+46804760,1351,Reason for the visit,"tremura,abatut,inapetenta"
+46804760,776,Lipase,744.94ug/l
+46804760,777,,744.94ug/l
+46804760,408,HCT,52.8%
+46804760,409,,52.8%
+46804760,406,HGB,19.3g/dl
+46804760,407,,19.3g/dl
+46804760,416,CHEM/MCHC,36.6g/dl
+46804760,417,,36.6g/dl
+46804760,1459,(%) Reticulocytes,1.9%
+46804760,1460,,1.9%
+46804760,1461,(%) Granulocytes,64.4%
+46804760,1462,,64.4%
+46804760,784,(%) Lymphocyte,36%
+46804760,785,,36%
+46804760,432,GRA,9.60k/ul
+46804760,433,,9.60k/ul
+46804760,410,PLT,350k/ul
+46804760,411,,350k/ul
+46804875,1351,Reason for the visit,"recontrol,"
+46804875,776,Lipase,390.38ug/l
+46804875,777,,390.38ug/l
+46804875,404,RBC,
+46804875,405,,
+46804875,408,HCT,49.5%
+46804875,409,,49.5%
+46804875,406,HGB,17.5g/dl
+46804875,407,,17.5g/dl
+46804875,416,CHEM/MCHC,35.4g/dl
+46804875,417,,35.4g/dl
+46804875,1459,(%) Reticulocytes,1.7?%
+46804875,1460,,1.7?%
+46804875,784,(%) Lymphocyte,49%
+46804875,785,,49%
+46804875,1461,(%) Granulocytes,50.8%
+46804875,1462,,50.8%
+46804875,432,GRA,3.00k/ul
+46804875,433,,3.00k/ul
+46805714,358,ALB,3.0
+46805714,359,,3.0
+46805714,360,ALP,<41
+46805714,361,,<41
+46805714,356,GPT,62
+46805714,357,,62
+46805714,354,GOT,28
+46805714,355,,28
+46805714,394,TBA,19.0
+46805714,395,,19.0
+46805714,1447,Blood Urea Nitrogen (BUN),18.4
+46805714,1448,,18.4
+46805714,778,Cholesterol (CHOL),138
+46805714,779,,138
+46805714,776,Lipase,751ug/l
+46805714,777,,751ug/l
+46805714,384,TBIL,<0.4
+46805714,385,,<0.4
+46805714,388,TPRO,5.7
+46805714,389,,5.7
+46805714,392,Urea,39.4
+46805714,393,,39.4
+46805714,408,HCT,75.5%
+46805714,409,,75.5%
+46805714,406,HGB,19.9g/dl
+46805714,407,,19.9g/dl
+46805714,784,(%) Lymphocyte,2%
+46805714,785,,2%
+46805714,1461,(%) Granulocytes,98.2%
+46805714,1462,,98.2%
+46805714,432,GRA,32.9
+46805714,433,,32.9
+46805714,410,PLT,375
+46805714,411,,375
+46805781,1351,Reason for the visit,recontrol
+46805781,408,HCT,51.9%
+46805781,409,,51.9%
+46805781,406,HGB,18.6g/dl
+46805781,407,,18.6g/dl
+46805781,416,CHEM/MCHC,35.8g/dl
+46805781,417,,35.8g/dl
+46805781,1459,(%) Reticulocytes,0.8%
+46805781,1460,,0.8%
+46805781,784,(%) Lymphocyte,37%
+46805781,785,,37%
+46805781,1461,(%) Granulocytes,63.3%
+46805781,1462,,63.3%
+46805781,432,GRA,6.2k/ul
+46805781,433,,6.2k/ul
+46805781,410,PLT,313k/ul
+46805781,411,,313k/ul
+46805825,358,ALB,3.0
+46805825,359,,3.0
+46805825,360,ALP,51
+46805825,361,,51
+46805825,356,GPT,59
+46805825,357,,59
+46805825,354,GOT,25
+46805825,355,,25
+46805825,394,TBA,94.8^
+46805825,395,,94.8^
+46805825,1447,Blood Urea Nitrogen (BUN),20.7
+46805825,1448,,20.7
+46805825,778,Cholesterol (CHOL),125
+46805825,779,,125
+46805825,372,GGT,<10
+46805825,373,,<10
+46805825,776,Lipase,995.54
+46805825,777,,995.54
+46805825,384,TBIL,<0.4
+46805825,385,,<0.4
+46805825,388,TPRO,6.2
+46805825,389,,6.2
+48682942,1351,Reason for the visit,PISICUL VOMITA CU SANGE
+48682942,4,Weight,3.4
+48682942,5,kg,3.4
+48682942,6,Temperature,39.8
+48682942,7,°C,39.8
+48682942,1043,Body Condition Score,
+48682942,1044,1,
+48682942,1045,2,
+48682942,1046,3,
+48682942,1047,4,
+48682942,1048,5,
+48682942,1049,6,
+48682942,1050,7,
+48682942,1051,8,
+48682942,1052,9,
+48682942,1206,Color,Pink
+48682942,1207,Pink,Pink
+48682942,1208,Pigmented,Pink
+48682942,1209,Pale,Pink
+48682942,1210,Injected,Pink
+48682942,1211,Cyanotic,Pink
+48682942,1212,Icteric,Pink
+48682942,1213,Not Assessed,Pink
+48682942,1214,Hydration,Moist
+48682942,1215,Moist,Moist
+48682942,1216,Tacky,Moist
+48682942,1217,Not Assessed,Moist
+48682942,408,HCT,23.6%
+48682942,409,,23.6%
+48682942,416,CHEM/MCHC,29.2G/DL
+48682942,417,,29.2G/DL
+48682942,675,Reticulocyte,
+48682942,676,,
+48682942,784,(%) Lymphocyte,11%
+48682942,785,,11%
+48682942,1461,(%) Granulocytes,88.8?%
+48682942,1462,,88.8?%
+48682942,432,GRA,23.10K/UL
+48682942,433,,23.10K/UL
+48682942,410,PLT,40K/UL
+48682942,411,,40K/UL
+48682942,428,LYM,2.9*10*9/L
+48682942,429,,2.9*10*9/L
+48682942,1459,(%) Reticulocytes,2.3%
+48682942,1460,,2.3%
+48682942,406,HGB,6.9G/DL
+48682942,407,,6.9G/DL
+48682942,404,RBC,23.6%
+48682942,405,,23.6%
+48682942,610,X-Ray Interpretation:,"MOTILITATE INTESTINALA ABOLITA ,COPROSTAZA,MUCOASA GASTRICA INGROSATA"
+48682942,611,,"MOTILITATE INTESTINALA ABOLITA ,COPROSTAZA,MUCOASA GASTRICA INGROSATA"
+50102772,1351,Reason for the visit,"este apatic ,nu manca,nu bea apa,vomita"
+50102772,4,Weight,3.4
+50102772,5,kg,3.4
+50102772,6,Temperature,39.8
+50102772,7,°C,39.8
+50102772,1043,Body Condition Score,
+50102772,1044,1,
+50102772,1045,2,
+50102772,1046,3,
+50102772,1047,4,
+50102772,1048,5,
+50102772,1049,6,
+50102772,1050,7,
+50102772,1051,8,
+50102772,1052,9,
+50102772,1059,Hydration,5% dehydrated
+50102772,1060,Normal,5% dehydrated
+50102772,1061,5% dehydrated,5% dehydrated
+50102772,1062,10% dehydrated,5% dehydrated
+50102772,1063,Not Assessed,5% dehydrated
+50102772,1053,Attitude,QAR
+50102772,1054,BAR,QAR
+50102772,1055,QAR,QAR
+50102772,1056,Depressed,QAR
+50102772,1057,Non-responsive,QAR
+50102772,1058,Not Assessed,QAR
+50102772,1246,Pain Score (CSU),3
+50102772,1247,0,3
+50102772,1248,1,3
+50102772,1249,2,3
+50102772,1250,3,3
+50102772,1251,4,3
+50102772,1206,Color,Pigmented
+50102772,1207,Pink,Pigmented
+50102772,1208,Pigmented,Pigmented
+50102772,1209,Pale,Pigmented
+50102772,1210,Injected,Pigmented
+50102772,1211,Cyanotic,Pigmented
+50102772,1212,Icteric,Pigmented
+50102772,1213,Not Assessed,Pigmented
+50102772,1214,Hydration,Moist
+50102772,1215,Moist,Moist
+50102772,1216,Tacky,Moist
+50102772,1217,Not Assessed,Moist
+50102772,358,ALB,2.5g/dl
+50102772,359,,2.5g/dl
+50102772,360,ALP,305U/L
+50102772,361,,305U/L
+50102772,362,AMYL,684U/L
+50102772,363,,684U/L
+50102772,1447,Blood Urea Nitrogen (BUN),124mg/dl
+50102772,1448,,124mg/dl
+50102772,366,Ca,7.9mg/dl
+50102772,367,,7.9mg/dl
+50102772,778,Cholesterol (CHOL),259mg/dl
+50102772,779,,259mg/dl
+50102772,376,CRE,1.50mg/dl
+50102772,377,,1.50mg/dl
+50102772,687,Globulins,3.6g/dl
+50102772,688,,3.6g/dl
+50102772,374,GLU,>550mg/dl
+50102772,375,,>550mg/dl
+50102772,372,GGT,<10U/L
+50102772,373,,<10U/L
+50102772,776,Lipase,>300U/L
+50102772,777,,>300U/L
+50102772,364,P,4.4mg/dl
+50102772,365,,4.4mg/dl
+50102772,384,TBIL,0.5mg/dl
+50102772,385,,0.5mg/dl
+50102772,388,TPRO,6.1g/dl
+50102772,389,,6.1g/dl
+50102772,408,HCT,21.7%
+50102772,409,,21.7%
+50102772,406,HGB,8.0g/dL
+50102772,407,,8.0g/dL
+50102772,784,(%) Lymphocyte,9%
+50102772,785,,9%
+50102772,1461,(%) Granulocytes,90.6%
+50102772,1462,,90.6%
+50102772,428,LYM,2.4*10^9/L
+50102772,429,,2.4*10^9/L
+50102772,432,GRA,23.00K/uL
+50102772,433,,23.00K/uL
+50102772,410,PLT,>157k/uL
+50102772,411,,>157k/uL
+50102772,610,X-Ray Interpretation:,prezenta unei formatiuni in cavitatea abdominala de aproximativ 5cm
+50102772,611,,prezenta unei formatiuni in cavitatea abdominala de aproximativ 5cm
+50102772,675,Reticulocyte,0.2%
+50102772,676,,0.2%
+50102772,416,CHEM/MCHC,36.9g/dL
+50102772,417,,36.9g/dL
+50102772,912,Appetite,absent
+50102772,245,,durere
+50102772,920,Palpation,durere
+50102772,917,Gastrointestinal Transit,lent
+50102772,916,Vomit,prezenta
+50102772,918,Feces,absente
+50102772,1347,Notes,"tranfuzie sange,administrarea de perfuzii cu ser fiziologic,ser ringer"
+58944780,1351,Reason for the visit,"paralizat de picioarele posterioare,nu se poate tine in picioare"
+58944780,4,Weight,5.2
+58944780,5,kg,5.2
+58944780,6,Temperature,33
+58944780,7,°C,33
+58944780,10,Respiratory Frequency,50
+58944780,11,10-30/min,50
+58944780,1043,Body Condition Score,
+58944780,1044,1,
+58944780,1045,2,
+58944780,1046,3,
+58944780,1047,4,
+58944780,1048,5,
+58944780,1049,6,
+58944780,1050,7,
+58944780,1051,8,
+58944780,1052,9,
+58944780,2,Body Condition,obez
+58944780,3,obese / thin / underweight,obez
+58944780,1246,Pain Score (CSU),4
+58944780,1247,0,4
+58944780,1248,1,4
+58944780,1249,2,4
+58944780,1250,3,4
+58944780,1251,4,4
+58944780,1059,Hydration,5% dehydrated
+58944780,1060,Normal,5% dehydrated
+58944780,1061,5% dehydrated,5% dehydrated
+58944780,1062,10% dehydrated,5% dehydrated
+58944780,1063,Not Assessed,5% dehydrated
+58944780,1053,Attitude,BAR
+58944780,1054,BAR,BAR
+58944780,1055,QAR,BAR
+58944780,1056,Depressed,BAR
+58944780,1057,Non-responsive,BAR
+58944780,1058,Not Assessed,BAR
+58944780,1206,Color,Pink
+58944780,1207,Pink,Pink
+58944780,1208,Pigmented,Pink
+58944780,1209,Pale,Pink
+58944780,1210,Injected,Pink
+58944780,1211,Cyanotic,Pink
+58944780,1212,Icteric,Pink
+58944780,1213,Not Assessed,Pink
+58944780,1214,Hydration,Moist
+58944780,1215,Moist,Moist
+58944780,1216,Tacky,Moist
+58944780,1217,Not Assessed,Moist
+58944780,1200,CRT capillary refill time,
+58944780,1201,< 2 seconds,
+58944780,1202,2 seconds,
+58944780,1203,> 2 seconds,
+58944780,1204,Not Assessed,
+58944780,1545,Results,fNT-proBNP=895.87qmol/L
+58944780,669,Conclusions,risc crescut
+58944780,358,ALB,3.6
+58944780,359,,3.6
+58944780,360,ALP,50
+58944780,361,,50
+58944780,366,Ca,9.2
+58944780,367,,9.2
+58944780,368,CK,>15000
+58944780,369,,>15000
+58944780,376,CRE,1.51
+58944780,377,,1.51
+58944780,687,Globulins,3.8
+58944780,688,,3.8
+58944780,374,GLU,221
+58944780,375,,221
+58944780,388,TPRO,7.4
+58944780,389,,7.4
+58944780,408,HCT,40.9%
+58944780,409,,40.9%
+58944780,406,HGB,12.5
+58944780,407,,12.5
+58944780,416,CHEM/MCHC,30.6
+58944780,417,,30.6
+58944780,784,(%) Lymphocyte,11%
+58944780,785,,11%
+58944780,1461,(%) Granulocytes,88.8%
+58944780,1462,,88.8%
+58944780,432,GRA,11.9
+58944780,433,,11.9
+58944780,410,PLT,252
+58944780,411,,252
+59154141,1351,Reason for the visit,"de duminica nu mai manca,e letargic,face pisu des si cu sange."
+59154141,1352,Notes,"ultima deparazitare in 1 septembrie,ultimul vaccin in 09.09.2025"
+59154141,4,Weight,14
+59154141,5,kg,14
+59154141,6,Temperature,39.9
+59154141,7,°C,39.9
+59154141,10,Respiratory Frequency,45
+59154141,11,10-30/min,45
+59154141,2,Body Condition,normal
+59154141,3,obese / thin / underweight,normal
+59154141,1043,Body Condition Score,8
+59154141,1044,1,8
+59154141,1045,2,8
+59154141,1046,3,8
+59154141,1047,4,8
+59154141,1048,5,8
+59154141,1049,6,8
+59154141,1050,7,8
+59154141,1051,8,8
+59154141,1052,9,8
+59154141,1241,Muscle Condition Score,None
+59154141,1242,None,None
+59154141,1243,Mild,None
+59154141,1244,Moderate,None
+59154141,1245,Severe,None
+59154141,1246,Pain Score (CSU),3
+59154141,1247,0,3
+59154141,1248,1,3
+59154141,1249,2,3
+59154141,1250,3,3
+59154141,1251,4,3
+59154141,1059,Hydration,10% dehydrated
+59154141,1060,Normal,10% dehydrated
+59154141,1061,5% dehydrated,10% dehydrated
+59154141,1062,10% dehydrated,10% dehydrated
+59154141,1063,Not Assessed,10% dehydrated
+59154141,1053,Attitude,Depressed
+59154141,1054,BAR,Depressed
+59154141,1055,QAR,Depressed
+59154141,1056,Depressed,Depressed
+59154141,1057,Non-responsive,Depressed
+59154141,1058,Not Assessed,Depressed
+59154141,1206,Color,Pink
+59154141,1207,Pink,Pink
+59154141,1208,Pigmented,Pink
+59154141,1209,Pale,Pink
+59154141,1210,Injected,Pink
+59154141,1211,Cyanotic,Pink
+59154141,1212,Icteric,Pink
+59154141,1213,Not Assessed,Pink
+59154141,1214,Hydration,Tacky
+59154141,1215,Moist,Tacky
+59154141,1216,Tacky,Tacky
+59154141,1217,Not Assessed,Tacky
+59154141,1200,CRT capillary refill time,2 seconds
+59154141,1201,< 2 seconds,2 seconds
+59154141,1202,2 seconds,2 seconds
+59154141,1203,> 2 seconds,2 seconds
+59154141,1204,Not Assessed,2 seconds
+59154141,1065,Altered,
+59154141,1066,Presumed Altered,
+59154141,1067,Intact,
+59154141,1068,Unknown,
+59154141,1069,Not Assessed,
+59154141,1219,Status,
+59154141,1070,Scar,
+59154141,1071,Tattoo,
+59154141,1072,Ear Tip,
+59154141,1220,Procedure Type,
+59154141,966,Miction,"frecventa,incontinenta urinara"
+59154141,967,Urine,este rosu naronie/hematurie
+59154141,968,Bladder,ingrosata
+59154141,973,Prostate,hiperplazica
+59154141,358,ALB,2.9
+59154141,359,,2.9
+59154141,780,A/G Ratio,0.9
+59154141,781,,0.9
+59154141,360,ALP,487^
+59154141,361,,487^
+59154141,356,GPT,98^
+59154141,357,,98^
+59154141,1447,Blood Urea Nitrogen (BUN),43^
+59154141,1448,,43^
+59154141,366,Ca,9.7
+59154141,367,,9.7
+59154141,368,CK,558^
+59154141,369,,558^
+59154141,376,CRE,2.02^
+59154141,377,,2.02^
+59154141,687,Globulins,3.4
+59154141,688,,3.4
+59154141,374,GLU,68
+59154141,375,,68
+59154141,710,LDH,3.65^
+59154141,711,,3.65^
+59154141,388,TPRO,6.3
+59154141,389,,6.3
+59154141,392,Urea,92.0^
+59154141,393,,92.0^
+59154141,402,WBC,15%
+59154141,403,,15%
+59154141,408,HCT,57%
+59154141,409,,57%
+59154141,406,HGB,19.3
+59154141,407,,19.3
+59154141,416,CHEM/MCHC,33.9
+59154141,417,,33.9
+59154141,1459,(%) Reticulocytes,1.0%
+59154141,1460,,1.0%
+59154141,784,(%) Lymphocyte,15%?
+59154141,785,,15%?
+59154141,1461,(%) Granulocytes,84.7%
+59154141,1462,,84.7%
+59154141,428,LYM,2.1*10^9
+59154141,429,,2.1*10^9
+59154141,432,GRA,11.60
+59154141,433,,11.60
+59154141,410,PLT,9
+59154141,411,,9
+59154141,480,Leukocites,20-25
+59154141,481,,20-25
+59154141,474,Epitelial,
+59154141,475,,
+59154141,693,Hematic Cylinders,>50
+59154141,694,,>50
+59154141,488,Squamous,0-10
+59154141,489,,0-10
+59154141,490,Transitional,5-10
+59154141,491,,5-10
+59154141,508,Bilirubin (acid),+1
+59154141,509,,+1
+59154141,530,RBC,250
+59154141,531,,250
+59154141,540,Color,rosu-maroniu
+59154141,541,,rosu-maroniu
+59154141,522,Bacteria,+
+59154141,523,,+
+61291286,1351,Reason for the visit,MICROCIPARE SI VACCINARE
+61291286,4,Weight,24.5
+61291286,5,kg,24.5
+61291286,6,Temperature,38.6
+61291286,7,°C,38.6
+61291286,1043,Body Condition Score,
+61291286,1044,1,
+61291286,1045,2,
+61291286,1046,3,
+61291286,1047,4,
+61291286,1048,5,
+61291286,1049,6,
+61291286,1050,7,
+61291286,1051,8,
+61291286,1052,9,
+61291286,703,Behaviour,NORMAL
+61291286,704,normal,NORMAL
+61291286,1053,Attitude,BAR
+61291286,1054,BAR,BAR
+61291286,1055,QAR,BAR
+61291286,1056,Depressed,BAR
+61291286,1057,Non-responsive,BAR
+61291286,1058,Not Assessed,BAR
+61291286,1206,Color,Pink
+61291286,1207,Pink,Pink
+61291286,1208,Pigmented,Pink
+61291286,1209,Pale,Pink
+61291286,1210,Injected,Pink
+61291286,1211,Cyanotic,Pink
+61291286,1212,Icteric,Pink
+61291286,1213,Not Assessed,Pink
+61291286,1214,Hydration,Moist
+61291286,1215,Moist,Moist
+61291286,1216,Tacky,Moist
+61291286,1217,Not Assessed,Moist
+61291286,1200,CRT capillary refill time,
+61291286,1201,< 2 seconds,
+61291286,1202,2 seconds,
+61291286,1203,> 2 seconds,
+61291286,1204,Not Assessed,
+61291286,1348,Procedure name,"VACCINARE ANTIRABICA-VERSICAN PLUS L4(47603105/08/2026)+NOBIVAC RABIES (A745A02/01/2028)
+IMPLANTARE MICROCIP,ELIBERARE CARNET SANATATE"
+62398122,1351,Reason for the visit,"a vomitat ,nu manca"
+62398122,4,Weight,8.3
+62398122,5,kg,8.3
+62398122,6,Temperature,39.9
+62398122,7,°C,39.9
+62398122,1043,Body Condition Score,
+62398122,1044,1,
+62398122,1045,2,
+62398122,1046,3,
+62398122,1047,4,
+62398122,1048,5,
+62398122,1049,6,
+62398122,1050,7,
+62398122,1051,8,
+62398122,1052,9,
+62398122,1206,Color,Pink
+62398122,1207,Pink,Pink
+62398122,1208,Pigmented,Pink
+62398122,1209,Pale,Pink
+62398122,1210,Injected,Pink
+62398122,1211,Cyanotic,Pink
+62398122,1212,Icteric,Pink
+62398122,1213,Not Assessed,Pink
+62401140,1351,Reason for the visit,"tuseste,nu manca"
+62401140,4,Weight,8.3
+62401140,5,kg,8.3
+62401140,6,Temperature,39.6
+62401140,7,°C,39.6
+62401140,2,Body Condition,obez
+62401140,3,obese / thin / underweight,obez
+62401140,1043,Body Condition Score,
+62401140,1044,1,
+62401140,1045,2,
+62401140,1046,3,
+62401140,1047,4,
+62401140,1048,5,
+62401140,1049,6,
+62401140,1050,7,
+62401140,1051,8,
+62401140,1052,9,
+62401140,1053,Attitude,BAR
+62401140,1054,BAR,BAR
+62401140,1055,QAR,BAR
+62401140,1056,Depressed,BAR
+62401140,1057,Non-responsive,BAR
+62401140,1058,Not Assessed,BAR
+62401140,1206,Color,Pink
+62401140,1207,Pink,Pink
+62401140,1208,Pigmented,Pink
+62401140,1209,Pale,Pink
+62401140,1210,Injected,Pink
+62401140,1211,Cyanotic,Pink
+62401140,1212,Icteric,Pink
+62401140,1213,Not Assessed,Pink
+62401140,1200,CRT capillary refill time,< 2 seconds
+62401140,1201,< 2 seconds,< 2 seconds
+62401140,1202,2 seconds,< 2 seconds
+62401140,1203,> 2 seconds,< 2 seconds
+62401140,1204,Not Assessed,< 2 seconds
+62401140,408,HCT,25.6%
+62401140,409,,25.6%
+62401140,406,HGB,8.0g/dl
+62401140,407,,8.0g/dl
+62401140,416,CHEM/MCHC,31.3g/dl
+62401140,417,,31.3g/dl
+62401140,784,(%) Lymphocyte,33%
+62401140,785,,33%
+62401140,1461,(%) Granulocytes,66.7%
+62401140,1462,,66.7%
+62401140,428,LYM,1.1*10^9/L
+62401140,429,,1.1*10^9/L
+62401140,432,GRA,2.2K/uL
+62401140,433,,2.2K/uL
+62401140,410,PLT,>150
+62401140,411,,>150
+62401140,1489,Corona,Positive
+62401140,1490,Negative,Positive
+62401140,1491,Positive,Positive
+62401140,1492,,"test PCR -negativ/Buletin AnalizaNr.99001828334,emis de Synevovet/08.12.2025"
+62412646,2,Body Condition,obez
+62412646,3,obese / thin / underweight,obez
+62412646,4,Weight,8.3
+62412646,5,kg,8.3
+62412646,6,Temperature,39.6
+62412646,7,°C,39.6
+62412646,406,HGB,8.0g/dl
+62412646,407,,8.0g/dl
+62412646,408,HCT,25.6%
+62412646,409,,25.6%
+62412646,410,PLT,>150
+62412646,411,,>150
+62412646,416,CHEM/MCHC,31.3g/dl
+62412646,417,,31.3g/dl
+62412646,428,LYM,1.1*10^9/L
+62412646,429,,1.1*10^9/L
+62412646,432,GRA,2.2K/uL
+62412646,433,,2.2K/uL
+62412646,1492,,"test PCR -negativ/Buletin AnalizaNr.99001828334,emis de Synevovet/08.12.2025"
+62412646,784,(%) Lymphocyte,33%
+62412646,785,,33%
+62412646,1043,Body Condition Score,
+62412646,1044,1,
+62412646,1045,2,
+62412646,1046,3,
+62412646,1047,4,
+62412646,1048,5,
+62412646,1049,6,
+62412646,1050,7,
+62412646,1051,8,
+62412646,1052,9,
+62412646,1053,Attitude,BAR
+62412646,1054,BAR,BAR
+62412646,1055,QAR,BAR
+62412646,1056,Depressed,BAR
+62412646,1057,Non-responsive,BAR
+62412646,1058,Not Assessed,BAR
+62412646,1200,CRT capillary refill time,< 2 seconds
+62412646,1201,< 2 seconds,< 2 seconds
+62412646,1202,2 seconds,< 2 seconds
+62412646,1203,> 2 seconds,< 2 seconds
+62412646,1204,Not Assessed,< 2 seconds
+62412646,1206,Color,Pink
+62412646,1207,Pink,Pink
+62412646,1208,Pigmented,Pink
+62412646,1209,Pale,Pink
+62412646,1210,Injected,Pink
+62412646,1211,Cyanotic,Pink
+62412646,1212,Icteric,Pink
+62412646,1213,Not Assessed,Pink
+62412646,1351,Reason for the visit,"tuseste,nu manca"
+62412646,1461,(%) Granulocytes,66.7%
+62412646,1462,,66.7%
+62412646,1489,Corona,Positive
+62412646,1490,Negative,Positive
+62412646,1491,Positive,Positive
+62534647,1351,Reason for the visit,"Animalul a prezentat ca simptome;
+-diaree cu sange
+-voma
+-inapetenta"
+62534647,1481,Parvovirus,Positive
+62534647,1482,Negative,Positive
+62534647,1483,Positive,Positive
+62534647,1489,Corona,Negative
+62534647,1490,Negative,Negative
+62534647,1491,Positive,Negative
+63693534,1351,Reason for the visit,fractura membru posterior stang
+63693534,1352,Notes,fractura tibie membru posterior stang fara deplasare osoasa
+63693534,4,Weight,30
+63693534,5,kg,30
+63693534,6,Temperature,39.2
+63693534,7,°C,39.2
+63693534,10,Respiratory Frequency,25
+63693534,11,10-30/min,25
+63693534,2,Body Condition,normal
+63693534,3,obese / thin / underweight,normal
+63693534,1043,Body Condition Score,7
+63693534,1044,1,7
+63693534,1045,2,7
+63693534,1046,3,7
+63693534,1047,4,7
+63693534,1048,5,7
+63693534,1049,6,7
+63693534,1050,7,7
+63693534,1051,8,7
+63693534,1052,9,7
+63693534,1241,Muscle Condition Score,None
+63693534,1242,None,None
+63693534,1243,Mild,None
+63693534,1244,Moderate,None
+63693534,1245,Severe,None
+63693534,1246,Pain Score (CSU),3
+63693534,1247,0,3
+63693534,1248,1,3
+63693534,1249,2,3
+63693534,1250,3,3
+63693534,1251,4,3
+63693534,1059,Hydration,Normal
+63693534,1060,Normal,Normal
+63693534,1061,5% dehydrated,Normal
+63693534,1062,10% dehydrated,Normal
+63693534,1063,Not Assessed,Normal
+63693534,1053,Attitude,BAR
+63693534,1054,BAR,BAR
+63693534,1055,QAR,BAR
+63693534,1056,Depressed,BAR
+63693534,1057,Non-responsive,BAR
+63693534,1058,Not Assessed,BAR
+63693534,703,Behaviour,normal
+63693534,704,normal,normal
+63693534,1206,Color,Pink
+63693534,1207,Pink,Pink
+63693534,1208,Pigmented,Pink
+63693534,1209,Pale,Pink
+63693534,1210,Injected,Pink
+63693534,1211,Cyanotic,Pink
+63693534,1212,Icteric,Pink
+63693534,1213,Not Assessed,Pink
+63693534,1214,Hydration,Moist
+63693534,1215,Moist,Moist
+63693534,1216,Tacky,Moist
+63693534,1217,Not Assessed,Moist
+63693534,1200,CRT capillary refill time,< 2 seconds
+63693534,1201,< 2 seconds,< 2 seconds
+63693534,1202,2 seconds,< 2 seconds
+63693534,1203,> 2 seconds,< 2 seconds
+63693534,1204,Not Assessed,< 2 seconds
+63693534,983,Inspection,tumefierea zonei
+63693534,984,Palpation,dureros la palpare
+63693534,986,Aplomb,in trei picioare
+63693534,606,Indication:,rx pembru posterior stang
+63693534,607,,rx pembru posterior stang
+63693534,610,X-Ray Interpretation:,fractura tibie membru stang
+63693534,611,,fractura tibie membru stang
+63693534,612,Observation,fara deplasarea capetelor osoase fracturate
+63693534,613,,fara deplasarea capetelor osoase fracturate
+63694385,1,Anamnesis,"Animalul prezenta :
+-anemie/deshidratare
+-inapetenta
+-respiratie abdominala
+-colici
+-dureri osteoarticulare in regiunea bazinului
+-ataxie
+-voma"
+63694385,4,Weight,"1,2"
+63694385,5,kg,"1,2"
+63694385,6,Temperature,38.2
+63694385,7,°C,38.2
+63694385,1043,Body Condition Score,
+63694385,1044,1,
+63694385,1045,2,
+63694385,1046,3,
+63694385,1047,4,
+63694385,1048,5,
+63694385,1049,6,
+63694385,1050,7,
+63694385,1051,8,
+63694385,1052,9,
+63694385,1206,Color,Pale
+63694385,1207,Pink,Pale
+63694385,1208,Pigmented,Pale
+63694385,1209,Pale,Pale
+63694385,1210,Injected,Pale
+63694385,1211,Cyanotic,Pale
+63694385,1212,Icteric,Pale
+63694385,1213,Not Assessed,Pale
+63694385,1214,Hydration,
+63694385,1215,Moist,
+63694385,1216,Tacky,
+63694385,1217,Not Assessed,
+63694385,1200,CRT capillary refill time,> 2 seconds
+63694385,1201,< 2 seconds,> 2 seconds
+63694385,1202,2 seconds,> 2 seconds
+63694385,1203,> 2 seconds,> 2 seconds
+63694385,1204,Not Assessed,> 2 seconds
+63694385,1246,Pain Score (CSU),4
+63694385,1247,0,4
+63694385,1248,1,4
+63694385,1249,2,4
+63694385,1250,3,4
+63694385,1251,4,4
+63694385,2,Body Condition,slab
+63694385,3,obese / thin / underweight,slab
+63694385,1059,Hydration,10% dehydrated
+63694385,1060,Normal,10% dehydrated
+63694385,1061,5% dehydrated,10% dehydrated
+63694385,1062,10% dehydrated,10% dehydrated
+63694385,1063,Not Assessed,10% dehydrated
+63694385,1053,Attitude,
+63694385,1054,BAR,
+63694385,1055,QAR,
+63694385,1056,Depressed,
+63694385,1057,Non-responsive,
+63694385,1058,Not Assessed,

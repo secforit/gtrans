@@ -1,0 +1,3 @@
+id,email,first_name,last_name,title,phone,created_date,is_urgent,created_at,updated_at,status,tooltip,deleted_at,license_number
+1432,contact@cabinetveterinararad.ro,Raul,Tatar,Doctor,0745534944,,,2019-11-15 15:43:42.0,2025-11-19 12:18:29.0,1,false,,
+29872,clinic-support+1@digitail.io,Support,Digitail,Administrator,+1 416 444 8888,,,2024-12-13 12:25:49.0,2026-02-09 15:58:46.0,1,false,,

@@ -1,0 +1,42 @@
+ID_file,ID_pet,Sale id,date,Client,Pet,Species,Breed,Vet,Service,Category,Original Price,Selling price,Discount type,Discount,Sale discount type,Sale discount
+7701970,2548272,8717793,2023-01-09,Elisabeta Craciunoiu,Pablo,Cat,Mix,Raul Tatar,Consultatie,,,50.000,Value,0.00,Value,0.0
+7701970,2548272,8717793,2023-01-09,Elisabeta Craciunoiu,Pablo,Cat,Mix,Raul Tatar,Tratament injectabil,,,30.000,Value,0.00,Value,0.0
+7701970,2548272,8717793,2023-01-09,Elisabeta Craciunoiu,Pablo,Cat,Mix,Raul Tatar,Radiografie,,,160.000,Value,0.00,Value,0.0
+7702215,2548272,8718102,2023-01-11,Elisabeta Craciunoiu,Pablo,Cat,Mix,Raul Tatar,Chirurgie,,,800.000,Value,0.00,Value,0.0
+7702450,2548504,8718378,2023-01-15,Eugen Mairovitz,Ava,Dog,Samoyed,Raul Tatar,Analize,,,300.000,Value,0.00,Value,0.0
+7702450,2548504,8718378,2023-01-15,Eugen Mairovitz,Ava,Dog,Samoyed,Raul Tatar,Urgenta,,,200.000,Value,0.00,Value,0.0
+7702655,2548504,8718609,2023-01-17,Eugen Mairovitz,Ava,Dog,Samoyed,Raul Tatar,Servicii veterinare,,,595.000,Value,0.00,Value,0.0
+7702655,2548504,8718609,2023-01-17,Eugen Mairovitz,Ava,Dog,Samoyed,Raul Tatar,Teste diagnostic,,,178.500,Value,0.00,Value,0.0
+7702655,2548504,8718609,2023-01-17,Eugen Mairovitz,Ava,Dog,Samoyed,Raul Tatar,Antibiotice,,,65.400,Value,0.00,Value,0.0
+7702655,2548504,8718609,2023-01-17,Eugen Mairovitz,Ava,Dog,Samoyed,Raul Tatar,Tonice Generale,,,87.200,Value,0.00,Value,0.0
+7702826,2548639,8718808,2023-01-23,Naomi Toderici,Tokki,Cat,Mix,Raul Tatar,Consultatie,,,60.000,Value,0.00,Value,0.0
+7702826,2548639,8718808,2023-01-23,Naomi Toderici,Tokki,Cat,Mix,Raul Tatar,Radiografie,,,80.000,Value,0.00,Value,0.0
+7702826,2548639,8718808,2023-01-23,Naomi Toderici,Tokki,Cat,Mix,Raul Tatar,Analize,,,300.000,Value,0.00,Value,0.0
+7702826,2548639,8718808,2023-01-23,Naomi Toderici,Tokki,Cat,Mix,Raul Tatar,Teste Rapide,,,150.000,Value,0.00,Value,0.0
+40846691,7795215,44922889,2024-12-11,Iuliana Adriana Ott,Jingle,Dog,Romanian Mioritic Shepherd Dog,Raul Tatar,Tratament injectabil,,,50.000,Value,0.00,Value,0.0
+40836054,7795215,44910634,2024-12-12,Iuliana Adriana Ott,Jingle,Dog,Romanian Mioritic Shepherd Dog,Raul Tatar,Introvit,,,50.000,Value,0.00,Value,0.0
+40836078,7795215,44910660,2025-01-18,Iuliana Adriana Ott,Jingle,Dog,Romanian Mioritic Shepherd Dog,Raul Tatar,Apoquel 16 mg,,,160.000,Value,0.00,Value,0.0
+40836097,7795215,44910682,2025-02-19,Iuliana Adriana Ott,Jingle,Dog,Romanian Mioritic Shepherd Dog,Raul Tatar,Cytopoint 30 mg,,,700.000,Value,0.00,Value,0.0
+59154141,10286762,64265953,2025-11-10,Valentina Poiac,Blue,Dog,French Bulldog,Raul Tatar,consultatie,,,100.000,Value,0.00,Value,0.0
+59154141,10286762,64265953,2025-11-10,Valentina Poiac,Blue,Dog,French Bulldog,Raul Tatar,analize sange,,,500.000,Value,0.00,Value,0.0
+59154141,10286762,64265953,2025-11-10,Valentina Poiac,Blue,Dog,French Bulldog,Raul Tatar,radiografii,,,200.000,Value,0.00,Value,0.0
+59154141,10286762,64265953,2025-11-10,Valentina Poiac,Blue,Dog,French Bulldog,Raul Tatar,teste de diagnostic,,,200.000,Value,0.00,Value,0.0
+59154141,10286762,64265953,2025-11-10,Valentina Poiac,Blue,Dog,French Bulldog,Raul Tatar,tratament +perfuzie,,,200.000,Value,0.00,Value,0.0
+59154141,10286762,64265953,2025-11-10,Valentina Poiac,Blue,Dog,French Bulldog,Raul Tatar,sondaj+recoltare proba urina,,,70.000,Value,0.00,Value,0.0
+62401140,10691805,67929295,2025-12-04,Florentina Sime,Tomas,Cat,Mix,Raul Tatar,hemoleucograma,,,0.000,Value,0.00,Value,0.0
+62401140,10691805,67929295,2025-12-04,Florentina Sime,Tomas,Cat,Mix,Raul Tatar,radiografie,,,0.000,Value,0.00,Value,0.0
+62401140,10691805,67929295,2025-12-04,Florentina Sime,Tomas,Cat,Mix,Raul Tatar,test rapid vet expert,,,0.000,Value,0.00,Value,0.0
+62401140,10691805,67929295,2025-12-04,Florentina Sime,Tomas,Cat,Mix,Raul Tatar,recoltare proba  sange pentru test PCR,,,0.000,Value,0.00,Value,0.0
+61291286,10584159,66809027,2025-12-13,Leontin Ioan Soos,LINDA,Dog,Mix,Raul Tatar,VACCINARE ANTIRABICA-120.OO,,,120.000,Value,0.00,Value,0.0
+61291286,10584159,66809027,2025-12-13,Leontin Ioan Soos,LINDA,Dog,Mix,Raul Tatar,ELIBERARE CARNET-30.00,,,30.000,Value,0.00,Value,0.0
+61291286,10584159,66809027,2025-12-13,Leontin Ioan Soos,LINDA,Dog,Mix,Raul Tatar,IMPLANTARE MICROCIP-100.00,,,100.000,Value,0.00,Value,0.0
+62412646,10691805,67942274,2025-12-24,Florentina Sime,Tomas,Cat,Mix,Raul Tatar,hemoleucograma,,,0.000,Value,0.00,Value,0.0
+62412646,10691805,67942274,2025-12-24,Florentina Sime,Tomas,Cat,Mix,Raul Tatar,radiografie,,,0.000,Value,0.00,Value,0.0
+62412646,10691805,67942274,2025-12-24,Florentina Sime,Tomas,Cat,Mix,Raul Tatar,test rapid vet expert,,,0.000,Value,0.00,Value,0.0
+62412646,10691805,67942274,2025-12-24,Florentina Sime,Tomas,Cat,Mix,Raul Tatar,recoltare proba  sange pentru test PCR,,,0.000,Value,0.00,Value,0.0
+62534647,10732058,68069795,2025-12-27,Silvia Badea,Lessie,Dog,Shih Tzu,Raul Tatar,Hemoleucograma,,,0.000,Value,0.00,Value,0.0
+62534647,10732058,68069795,2025-12-27,Silvia Badea,Lessie,Dog,Shih Tzu,Raul Tatar,Teste rapide,,,0.000,Value,0.00,Value,0.0
+63694385,10889897,69253265,2026-01-13,Octavian Muresan,Pisi,Cat,Mix,Raul Tatar,Radiografie,,,100.000,Value,0.00,Value,0.0
+63694385,10889897,69253265,2026-01-13,Octavian Muresan,Pisi,Cat,Mix,Raul Tatar,"Test Fpv, Fcov, Giardia",,,150.000,Value,0.00,Value,0.0
+63694385,10889897,69253265,2026-01-13,Octavian Muresan,Pisi,Cat,Mix,Raul Tatar,Tratament medicamentos,,,100.000,Value,0.00,Value,0.0
+63694385,10889897,69253265,2026-01-13,Octavian Muresan,Pisi,Cat,Mix,Raul Tatar,Consultatia,,,100.000,Value,0.00,Value,0.0

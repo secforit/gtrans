@@ -1,0 +1,1127 @@
+id,field_id,name,value,created_at,updated_at
+1,1,label,Anamnesis,,
+2,2,label,Body Condition,,
+3,2,placeholder,obese / thin / underweight,,
+4,3,label,Weight,,
+5,3,placeholder,kg,,
+6,4,label,Temperature,,
+7,4,placeholder,°C,,
+8,5,label,Heart Rate,,
+9,5,placeholder,bpm,,2021-03-28 23:12:56.0
+10,6,label,Respiratory Frequency,,
+11,6,placeholder,10-30/min,,
+161,86,label,Submandibular,,
+162,86,options[],Reactivi,,
+163,86,options[],Areactivi,,
+165,88,label,Prescapular,,
+166,88,options[],Reactivi,,
+167,88,options[],Areactivi,,
+169,90,label,Inguinal,,
+170,90,options[],Reactivi,,
+171,90,options[],Areactivi,,
+237,126,text,Abdomen,,2020-02-20 23:10:01.0
+238,127,label,Appearance,,
+239,127,options[],Normal,,
+240,127,options[],Abnormal,,
+241,128,placeholder,,,
+242,129,label,Mobility,,
+243,129,options[],Normal,,
+244,129,options[],Abnormal,,
+245,130,placeholder,,,
+246,131,label,Observation,,2020-02-20 23:10:01.0
+247,131,placeholder,,,
+248,132,text,II. Palpation,,
+249,134,label,Other,,
+252,134,placeholder,,,
+354,188,label,GOT,,
+355,188,placeholder,,,
+356,189,label,GPT,,
+357,189,placeholder,,,
+358,190,label,ALB,,
+359,190,placeholder,,,
+360,191,label,ALP,,
+361,191,placeholder,,,
+362,192,label,AMYL,,
+363,192,placeholder,,,
+364,193,label,P,,
+365,193,placeholder,,,
+366,194,label,Ca,,
+367,194,placeholder,,,
+368,195,label,CK,,
+369,195,placeholder,,,
+370,196,label,FRA,,
+371,196,placeholder,,,
+372,197,label,GGT,,
+373,197,placeholder,,,
+374,198,label,GLU,,
+375,198,placeholder,,,
+376,199,label,CRE,,
+377,199,placeholder,,,
+378,200,label,HDL-C,,
+379,200,placeholder,,,
+380,201,label,LDL-C,,
+381,201,placeholder,,,
+382,202,label,Mg,,
+383,202,placeholder,,,
+384,203,label,TBIL,,
+385,203,placeholder,,,
+386,204,label,TCHOL,,
+387,204,placeholder,,,
+388,205,label,TPRO,,
+389,205,placeholder,,,
+390,206,label,TG,,
+391,206,placeholder,,,
+392,207,label,Urea,,
+393,207,placeholder,,,
+394,208,label,TBA,,
+395,208,placeholder,,,
+396,209,label,Sodium,,
+397,209,placeholder,,,
+398,210,label,Potassium,,
+399,210,placeholder,,,
+400,211,label,Chloride,,
+401,211,placeholder,,,
+402,212,label,WBC,,
+403,212,placeholder,,,
+404,213,label,RBC,,
+405,213,placeholder,,,
+406,214,label,HGB,,
+407,214,placeholder,,,
+408,215,label,HCT,,
+409,215,placeholder,,,
+410,216,label,PLT,,
+411,216,placeholder,,,
+412,217,label,VEM/MCV,,
+413,217,placeholder,,,
+414,218,label,HME/MCH,,
+415,218,placeholder,,,
+416,219,label,CHEM/MCHC,,
+417,219,placeholder,,,
+418,220,label,RDW,,
+419,220,placeholder,,,
+420,221,label,MPV,,
+421,221,placeholder,,,
+422,222,label,LYM,,
+423,222,placeholder,,,
+424,223,label,MON,,
+425,223,placeholder,,,
+426,224,label,GRA,,
+427,224,placeholder,,,
+428,225,label,LYM,,
+429,225,placeholder,,,
+430,226,label,MON,,
+431,226,placeholder,,,
+432,227,label,GRA,,
+433,227,placeholder,,,
+434,228,label,EOS,,
+435,228,placeholder,,,
+436,229,label,Color,,
+437,229,placeholder,,,
+438,230,label,Transparency,,
+439,230,placeholder,,,
+440,231,label,Density,,
+441,231,placeholder,,,
+444,233,label,Hemoglobine,,
+445,233,placeholder,,,
+446,234,label,Red Blood Cells,,
+447,234,placeholder,,,
+448,235,label,Urobilinogen,,
+449,235,placeholder,,,
+450,236,label,Bilirubin,,
+451,236,placeholder,,,
+452,237,label,Protein,,
+453,237,placeholder,,,
+454,238,label,Nitrites,,
+455,238,placeholder,,,
+456,239,label,Ketone bodies,,
+457,239,placeholder,,,
+458,240,label,Ascorbic acid,,
+459,240,placeholder,,,
+460,241,label,GLU,,
+461,241,placeholder,,,
+462,242,label,pH,,
+463,242,placeholder,,,
+464,243,label,White Blood Cells,,2022-02-26 21:11:24.0
+465,243,placeholder,,,
+466,244,text,Urinary cylinders,,
+468,245,label,Hyaline,,
+469,245,placeholder,,,
+470,246,label,Granulary,,
+471,246,placeholder,,,
+472,247,label,Fat,,
+473,247,placeholder,,,
+474,248,label,Epitelial,,
+475,248,placeholder,,,
+476,249,label,Erythrocyte,,
+477,249,placeholder,,,
+478,250,label,Leukocyte,,
+479,250,placeholder,,,
+480,251,label,Leukocites,,
+481,251,placeholder,,,
+482,252,label,Erythrocytes,,
+483,252,placeholder,,,
+484,253,label,Fat drops,,
+485,253,placeholder,,,
+486,254,text,Epitelial cells,,
+488,255,label,Squamous,,
+489,255,placeholder,,,
+490,256,label,Transitional,,
+491,256,placeholder,,,
+492,257,label,Tubular renal,,
+493,257,placeholder,,,
+494,258,label,Neoplazic,,
+495,258,placeholder,,,
+496,259,text,Cristals,,
+498,260,label,Phosphate (neutral / alkaline urine),,
+499,260,placeholder,,,
+500,261,label,Urates (acid/neutral),,
+501,261,placeholder,,,
+502,262,label,Calcium Oxalates (acid/neutral/alkaline),,
+503,262,placeholder,,,
+504,263,label,Calcium Carbonates (neutral/alkaline),,
+505,263,placeholder,,,
+506,264,label,Amonium urates (acid/neutral),,
+507,264,placeholder,,,
+508,265,label,Bilirubin (acid),,
+509,265,placeholder,,,
+510,266,label,Leucine (acid),,
+511,266,placeholder,,,
+512,267,label,Tyrosine (acid),,
+513,267,placeholder,,,
+514,268,label,Cystein (acid),,
+515,268,placeholder,,,
+516,269,text,Other,,
+518,270,label,Mucus,,
+519,270,placeholder,,,
+520,271,label,Sperm,,
+521,271,placeholder,,,
+522,272,label,Bacteria,,
+523,272,placeholder,,,
+524,273,label,Hyphae,,
+525,273,placeholder,,,
+526,274,label,Parasites,,
+527,274,placeholder,,,
+528,275,label,Weight,,
+529,275,placeholder,,,
+530,276,label,RBC,,
+531,276,placeholder,,,
+532,277,label,Microalbumine,,
+533,277,placeholder,,,
+534,278,label,Calcium,,
+535,278,placeholder,,,
+536,279,label,Creatinin,,
+537,279,placeholder,,,
+538,280,label,Protein:Creatinin Report,,
+539,280,placeholder,,,
+540,281,label,Color,,
+541,281,placeholder,,,
+564,293,label,"Consistency, color, smell",,
+565,293,placeholder,,,
+566,294,label,Technique,,
+567,294,placeholder,,,
+571,296,placeholder,,,
+572,297,label,Observation,,2022-01-05 16:55:59.0
+573,297,placeholder,,,
+574,298,label,General aspect,,
+575,298,placeholder,,,
+576,299,label,Date of first signs,,
+577,299,placeholder,,,
+578,300,label,Location,,
+579,300,placeholder,,,
+580,301,label,Dimension,,
+581,301,placeholder,,,
+582,302,label,Consistency,,
+583,302,placeholder,,,
+584,303,label,Clinical signs,,
+585,303,placeholder,,,
+586,304,label,Superficial lymphnodes,,
+587,304,placeholder,,,
+588,305,label,Complementary tests results,,
+589,305,placeholder,,,
+590,306,label,Observations,,
+591,306,placeholder,,,
+592,307,label,Date & time of sample taken,,
+593,307,placeholder,,,
+594,308,label,Sample technique,,
+595,308,placeholder,,,
+596,309,label,Coloring method,,
+597,309,placeholder,,,
+598,310,label,Cytological description,,
+599,310,placeholder,,,
+600,311,label,Diagnosys,,
+601,311,placeholder,,,
+602,312,label,Examination Notes,,2022-01-05 16:55:59.0
+603,312,placeholder,,,
+606,314,label,Indication:,,
+607,314,placeholder,,,
+608,315,label,Technique:,,
+609,315,placeholder,,,
+610,316,label,X-Ray Interpretation:,,
+611,316,placeholder,,,
+612,317,label,Observation,,2022-01-05 16:55:52.0
+613,317,placeholder,,,
+614,318,label,Urinary bladder,,
+615,318,placeholder,,,
+616,319,label,Prostate,,
+617,319,placeholder,,,
+618,320,label,Right Kidney,,
+619,320,placeholder,,,
+620,321,label,Left Kidney,,
+621,321,placeholder,,,
+622,322,label,Liver,,
+623,322,placeholder,,,
+624,323,label,Gallbladder,,
+625,323,placeholder,,,
+626,324,label,Stomach,,
+627,324,placeholder,,,
+628,325,label,Intestins,,
+629,325,placeholder,,,
+630,326,label,Spleen,,
+631,326,placeholder,,,
+632,327,label,Peritoneal Cavity,,
+633,327,placeholder,,,
+634,328,label,Genital Apparatus,,
+635,328,placeholder,,,
+636,329,label,Cardiac,,
+637,329,placeholder,,,
+638,330,label,Lymphnodes,,
+639,330,placeholder,,,
+640,331,label,Observations,,
+641,331,placeholder,,,
+642,332,label,Information about lesion,,
+643,332,placeholder,,,
+644,333,label,Clinical signs,,
+645,333,placeholder,,,
+646,334,label,Previous treatments,,
+647,334,placeholder,,,
+648,335,label,Sample technique,,
+649,335,placeholder,,,
+650,336,label,Work technique,,
+651,336,placeholder,,,
+652,337,label,Parasitological exam,,
+653,337,placeholder,,,
+654,338,label,Cytological exam,,
+655,338,placeholder,,,
+656,339,label,Trichogramma,,
+657,339,placeholder,,,
+658,340,label,Notes,,2022-02-26 21:11:22.0
+659,340,placeholder,,,
+660,341,label,Results,,2022-02-26 21:11:24.0
+661,341,placeholder,Diagnostic Procedures Results,,2022-09-29 13:59:20.0
+662,342,label,Examination Notes,,2022-01-05 16:55:59.0
+663,342,placeholder,,,
+666,344,label,Axillary,,
+667,344,options[],Reactivi,,
+668,344,options[],Areactivi,,
+669,346,label,Conclusions,,
+671,347,placeholder,,,
+673,348,placeholder,,,
+674,349,label,Observations,,
+675,350,label,Reticulocyte,,
+676,350,placeholder,,,
+677,351,label,Neutrophils,,
+678,351,placeholder,,,
+679,352,label,Observations,,2022-01-05 16:55:47.0
+680,352,placeholder,,,
+685,353,label,UA (Uric Acid),,
+686,353,placeholder,,,
+687,354,label,Globulins,,
+688,354,placeholder,,,
+691,356,label,Rubarth Hepatitis,,
+692,356,placeholder,,,
+693,357,label,Hematic Cylinders,,
+694,357,placeholder,,,
+695,358,label,Bile Cylinders,,
+696,358,placeholder,,,
+697,359,label,Ca Sulphate,,
+698,359,placeholder,,,
+699,360,label,Ca Phosphate,,
+700,360,placeholder,,,
+701,361,label,Uric Acid,,
+702,361,placeholder,,,
+703,362,label,Behaviour,,
+704,362,placeholder,normal,,
+705,363,text,General,,
+706,364,label,Harvest_Date,,
+707,365,label,Examination_date,,
+708,366,label,Harvest_Conditions,,
+709,367,label,Storage_sample,,
+1221,87,label,Submandibular details,,2024-12-06 13:19:26.0
+1222,89,label,Prescapular details,,2024-12-06 13:19:26.0
+1223,91,label,Inguinal details,,2024-12-06 13:19:26.0
+1224,345,label,Axillary details,,2024-12-06 13:19:26.0
+1225,503,label,Popliteal details,,2024-12-06 13:19:26.0
+1226,512,options[],Dry,,
+1227,512,options[],Wet Food,,
+1228,512,options[],Dry & Wet Food,,
+1229,512,options[],Home Diet/Table Food,,
+1230,512,options[],Prescription Diet,,
+1231,512,options[],Raw diet,,
+1239,558,label,Additional Notes,,
+1240,558,placeholder,,,
+1241,559,label,Muscle Condition Score,,
+1242,559,options[],None,,
+1243,559,options[],Mild,,
+1244,559,options[],Moderate,,
+1245,559,options[],Severe,,
+1246,560,label,Pain Score (CSU),,
+1247,560,options[],0,,
+1248,560,options[],1,,
+1249,560,options[],2,,
+1250,560,options[],3,,
+1251,560,options[],4,,
+1252,561,label,Ear Swab,,
+1253,561,options[],Negative,,
+1254,561,options[],Positive,,
+1255,562,label,Ear Swab results,,
+1256,562,options[],Ear Mites,,
+1257,562,options[],Bacteria,,
+1258,562,options[],Yeast,,
+1259,563,placeholder,,,
+1260,564,text,Teeth,,
+1261,565,text,Peridontal scale - Scale,,
+1262,566,label,Tartar/Calculus,,
+1263,566,options[],None (0-1),,
+1264,566,options[],Mild (2),,
+1265,566,options[],Moderate (3),,
+1266,566,options[],Heavy (4),,
+1267,566,options[],Severe (5),,
+1268,567,label,Gingivitis,,
+1269,567,options[],None (0-1),,
+1270,567,options[],Mild (2),,
+1271,567,options[],Moderate (3),,
+1272,567,options[],Heavy (4),,
+1273,567,options[],Severe (5),,
+1274,568,label,Recession,,
+1275,568,options[],None (0-1),,
+1276,568,options[],Mild (2),,
+1277,568,options[],Moderate (3),,
+1278,568,options[],Heavy (4),,
+1279,568,options[],Severe (5),,
+1280,569,label,Overall Grade,,
+1281,569,options[],None (0-1),,
+1282,569,options[],Mild (2),,
+1283,569,options[],Moderate (3),,
+1284,569,options[],Heavy (4),,
+1285,569,options[],Severe (5),,
+1286,570,label,Murmur Grade,,
+1287,570,options[],Grade I,,
+1288,570,options[],Grade II,,
+1289,570,options[],Grade III,,
+1290,570,options[],Grade IV,,
+1291,570,options[],Grade V,,
+1292,570,options[],Grade VI,,
+1293,571,label,Palpable Thrill,,
+1294,571,options[],No,,
+1295,571,options[],Yes,,
+1296,572,label,Murmur Type,,
+1297,572,options[],Systolic,,
+1298,572,options[],Holosystolic Machinery,,
+1299,573,label,Murmur Location,,
+1300,573,options[],Left PMI,,
+1301,573,options[],Right PMI,,
+1302,573,options[],Sternal PMI,,
+1303,573,options[],Not Applicable,,
+1304,574,label,Examination Notes,,
+1305,575,label,Pre-medication,,
+1306,575,options[],Yes,,
+1307,575,options[],No,,
+1308,576,placeholder,,,
+1309,577,label,Pre-medication route,,
+1310,577,options[],PO,,
+1311,577,options[],SQ,,
+1312,577,options[],IM,,
+1313,577,options[],IV,,
+1314,578,placeholder,,,
+1315,579,label,IVC placement,,
+1316,579,options[],Yes,,
+1317,579,options[],No,,
+1318,580,placeholder,,,
+1319,581,label,Remains,,
+1320,581,options[],Communal Cremation,,
+1321,581,options[],Private Cremation,,
+1322,581,options[],Home burial,,
+1324,581,options[],Other,,
+1325,582,placeholder,,,
+1326,583,label,Observation,,
+1327,584,label,Additional Notes,,
+1328,585,label,Preanesthetic Exam,,
+1329,586,label,Pre-meds,,
+1330,587,label,Induction,,
+1331,588,label,Surgical Notes,,
+1332,589,label,Recommendations,,2022-02-26 21:11:24.0
+1333,590,label,Notes,,
+1334,591,label,Client Communications,,
+1335,592,label,Preanesthetic Exam,,
+1336,593,label,Pre-meds,,
+1337,594,label,Induction,,
+1338,595,label,Procedure Notes,,
+1339,596,label,Post-op,,
+1340,597,label,Dental radiographs,,
+1341,597,options[],Yes,,
+1342,597,options[],No,,
+1343,598,placeholder,,,
+1344,599,label,Radiograph findings,,
+1345,600,label,Notes,,
+1346,601,label,Client Communications,,
+1347,602,label,Notes,,
+1348,603,label,Procedure name,,
+1349,604,label,Notes,,
+1350,605,label,Client Communications,,
+1351,606,label,Reason for the visit,,
+1352,607,label,Notes,,
+1353,608,label,Woods Lamp Examination,,
+1354,609,text,Skin Scrape,,
+1355,610,label,Scrape location,,
+1356,610,options[],Nose,,
+1357,610,options[],Right Ear,,
+1358,610,options[],Left Ear,,
+1359,610,options[],Right Periocular,,
+1360,610,options[],Left Periocular,,
+1361,610,options[],Left Cheek,,
+1362,610,options[],Right Cheek,,
+1363,610,options[],Forehead,,
+1364,610,options[],Body,,
+1365,610,options[],Leg,,
+1366,611,label,Skin Scrape Results,,2022-09-29 13:59:21.0
+1367,611,options[],Negative,,
+1368,611,options[],Positive,,
+1369,612,label,Skin Scrape Findings,,2022-09-29 13:59:21.0
+1370,612,options[],Demodex,,
+1371,612,options[],Scabies,,
+1372,612,options[],Lice,,
+1373,612,options[],Other,,
+1374,613,placeholder,,,
+1375,614,label,pH,,
+1376,614,placeholder,,,
+1377,615,label,TCO2,,
+1378,615,placeholder,,,
+1379,616,label,Anion Gap,,
+1380,616,placeholder,,,
+1381,617,label,Ionized Calcium,,
+1382,617,placeholder,,,
+1383,618,label,Glucose (Glu),,
+1384,618,placeholder,,,
+1385,619,label,Urea Nitrogen (BUN)/Urea,,
+1386,619,placeholder,,,
+1389,621,label,Bicarbonate (HCO3),,
+1390,621,placeholder,,,
+1391,622,label,Phosphorus,,
+1392,622,placeholder,,,
+1393,623,label,Calcium (Ca),,
+1394,623,placeholder,,,
+1395,624,label,Lactate,,
+1396,624,placeholder,,,
+1397,625,label,Partial Pressure of CO2,,
+1398,625,placeholder,,,
+1399,626,label,Partial Pressure of O2,,
+1400,626,placeholder,,,
+1401,627,label,O2 Saturation,,
+1402,627,placeholder,,,
+1403,628,label,Notes,,
+1404,629,label,Sample collection,,
+1405,629,options[],Fine needle aspiration,,
+1406,629,options[],Exfoliative cytology,,
+1407,629,options[],Blood sample,,
+1408,629,options[],Biopsy,,
+1409,629,options[],Other,,
+1410,630,placeholder,,,
+1411,631,label,Urine Dipstick,,
+1412,631,placeholder,,,
+1413,632,label,Blood Glucose Strip,,
+1414,632,placeholder,,,
+1415,633,label,Blood Glucose Spot Check,,
+1416,633,placeholder,,,
+1417,634,label,Blood Glucose Curve,,
+1418,634,placeholder,,,
+1419,635,label,Blood Pressure,,
+1420,635,placeholder,,,
+1421,636,label,ACTH Stim,,
+1422,636,placeholder,,,
+1423,637,label,Fecal flotation,,
+1424,637,options[],Negative,,
+1425,637,options[],Positive,,
+1426,638,label,Results,,
+1427,638,options[],Roundwords,,
+1428,638,options[],Hookworms,,
+1429,638,options[],Whipworms,,
+1430,638,options[],Tapeworms,,
+1431,638,options[],Giardia,,
+1432,638,options[],Other,,
+1433,639,text,Schirmer Test,,
+1434,640,text,Fluorescein Staining,,
+1435,641,text,Phenol Red Thread,,
+1436,642,text,Others,,
+1437,643,text,Observation,,
+1438,644,text,Details,,
+1439,645,text,Diagnostic Procedures,,
+1440,646,text,Wood’s Lamp exam,,
+1441,647,label,Recommendations,,
+1442,648,label,Wood Lamp Results,,2022-09-29 13:59:21.0
+1443,648,options[],Negative,,
+1444,648,options[],Positive,,
+1445,649,label,Wood Lamp Findings,,2022-09-29 13:59:21.0
+1446,650,text,anal_glands,,
+1447,651,label,Blood Urea Nitrogen (BUN),,
+1448,651,placeholder,,,
+1449,652,label,BUN/Creatinine Ratio (BUN/CREA),,
+1450,652,placeholder,,,
+1451,653,label,Unconjugated Bilirubin (UCB),,
+1452,653,placeholder,,,
+1453,654,label,Cardiac Troponin I (CTNI),,
+1454,654,placeholder,,,
+1455,655,label,Symmetric DiMethylArginine (SDMA),,
+1456,655,placeholder,,,
+1457,656,label,Packed cell volume (PCV),,
+1458,656,placeholder,,,
+1459,657,label,(%) Reticulocytes,,
+1460,657,placeholder,,,
+1461,658,label,(%) Granulocytes,,
+1462,658,placeholder,,,
+1463,659,label,Bands,,
+1464,659,placeholder,,,
+1465,660,label,FeLV,,
+1466,660,options[],Negative,,
+1467,660,options[],Positive,,
+1468,282,placeholder,,,
+1469,661,label,FIV,,
+1470,661,options[],Negative,,
+1471,661,options[],Positive,,
+1472,283,placeholder,,,
+1473,662,label,FPV,,
+1474,662,options[],Negative,,
+1475,662,options[],Positive,,
+1476,284,placeholder,,,
+1477,663,label,Giardia,,
+1478,663,options[],Negative,,
+1479,663,options[],Positive,,
+1480,285,placeholder,,,
+1481,664,label,Parvovirus,,
+1482,664,options[],Negative,,
+1483,664,options[],Positive,,
+1484,286,placeholder,,,
+1485,665,label,Distemper,,
+1486,665,options[],Negative,,
+1487,665,options[],Positive,,
+1488,287,placeholder,,,
+1489,666,label,Corona,,
+1490,666,options[],Negative,,
+1491,666,options[],Positive,,
+1492,288,placeholder,,,
+1493,667,label,Dirofilaria,,
+1494,667,options[],Negative,,
+1495,667,options[],Positive,,
+1496,289,placeholder,,,
+1497,668,label,Microfilaria,,
+1498,668,options[],Negative,,
+1499,668,options[],Positive,,
+1500,669,placeholder,,,
+1501,670,label,Borrelia,,
+1502,670,options[],Negative,,
+1503,670,options[],Positive,,
+1504,290,placeholder,,,
+1505,671,label,Anaplasma,,
+1506,671,options[],Negative,,
+1507,671,options[],Positive,,
+1508,291,placeholder,,,
+1509,672,label,Ehrlichia,,
+1510,672,options[],Negative,,
+1511,672,options[],Positive,,
+1512,292,placeholder,,,
+1513,673,label,Rotavirus,,
+1514,673,options[],Negative,,
+1515,673,options[],Positive,,
+1516,355,placeholder,,,
+1517,674,label,Tattoo,,
+1518,674,options[],Normal,,
+1519,674,options[],Abnormal,,
+1520,675,text,Pre surgical,,
+1521,676,text,Post surgical,,
+1522,677,label,Mucous membranes color,,
+1523,677,options[],Pink,,
+1524,677,options[],Pigmented,,
+1525,677,options[],Pale,,
+1526,677,options[],Injected,,
+1527,677,options[],Cyanotic,,
+1528,677,options[],Icteric,,
+1529,677,options[],Not Assessed,,
+1530,678,label,Recovery from anaesthesia,,
+1531,678,options[],Normal,,
+1532,678,options[],Abnormal,,
+1533,679,label,Incision,,
+1534,679,options[],Normal,,
+1535,679,options[],Abnormal,,
+1536,541,options[],PDS II (PDX),,
+1537,541,options[],Biosyn,,
+1538,541,options[],Maxon (PGA),,
+1539,541,options[],Vicryl (PGA),,
+1540,541,options[],Silk,,
+1541,541,options[],Catgut,,
+710,368,label,LDH,2018-10-25 13:02:46.0,2018-10-25 13:02:46.0
+711,368,placeholder,,2018-10-25 13:02:46.0,2018-10-25 13:02:46.0
+736,381,label,Pancreatic Lipase,2018-12-08 15:34:28.0,2018-12-08 15:34:28.0
+737,381,placeholder,,2018-12-08 15:34:28.0,2018-12-08 15:34:28.0
+738,382,label,SNAP Feline proBNP,2018-12-08 15:34:28.0,2018-12-08 15:34:28.0
+739,382,placeholder,,2018-12-08 15:34:28.0,2018-12-08 15:34:28.0
+742,384,label,Mycotic examination,2018-12-08 15:34:28.0,2018-12-08 15:34:28.0
+743,384,placeholder,,2018-12-08 15:34:28.0,2018-12-08 15:34:28.0
+744,385,label,Bacteriological analysis,2018-12-08 15:34:29.0,2018-12-08 15:34:29.0
+745,385,placeholder,,2018-12-08 15:34:29.0,2018-12-08 15:34:29.0
+746,386,label,Antibiotic sensitivity,2018-12-08 15:34:29.0,2018-12-08 15:34:29.0
+747,386,placeholder,,2018-12-08 15:34:29.0,2018-12-08 15:34:29.0
+748,387,label,Basophil,2018-12-08 15:34:29.0,2018-12-08 15:34:29.0
+749,387,placeholder,,2018-12-08 15:34:29.0,2018-12-08 15:34:29.0
+750,388,label,Threonine (THR),2018-12-08 15:34:29.0,2018-12-08 15:34:29.0
+751,388,placeholder,,2018-12-08 15:34:29.0,2018-12-08 15:34:29.0
+752,389,label,Procalcitonin (PCT),2018-12-08 15:34:29.0,2018-12-08 15:34:29.0
+753,389,placeholder,,2018-12-08 15:34:29.0,2018-12-08 15:34:29.0
+754,390,label,Platelet distribution width (PDW),2018-12-08 15:34:29.0,2018-12-08 15:34:29.0
+755,390,placeholder,,2018-12-08 15:34:30.0,2018-12-08 15:34:30.0
+756,391,label,Blood Pressure,2018-12-08 15:34:30.0,2018-12-08 15:34:30.0
+757,391,placeholder,,2018-12-08 15:34:30.0,2018-12-08 15:34:30.0
+758,392,label,Presumptive Diagnosis,2018-12-09 13:59:13.0,2018-12-09 13:59:13.0
+759,392,placeholder,,2018-12-09 13:59:13.0,2018-12-09 13:59:13.0
+762,394,label,Toxoplasmosis,2019-03-26 15:18:10.0,2019-03-26 15:18:10.0
+763,394,placeholder,,2019-03-26 15:18:10.0,2019-03-26 15:18:10.0
+764,395,label,Brucella,2019-03-26 15:18:10.0,2019-03-26 15:18:10.0
+765,395,placeholder,,2019-03-26 15:18:10.0,2019-03-26 15:18:10.0
+766,396,label,Leishmaniasis,2019-03-26 15:18:10.0,2019-03-26 15:18:10.0
+767,396,placeholder,,2019-03-26 15:18:10.0,2019-03-26 15:18:10.0
+768,397,label,CIRD-3,2019-03-26 15:18:10.0,2019-03-26 15:18:10.0
+769,397,placeholder,,2019-03-26 15:18:10.0,2019-03-26 15:18:10.0
+772,399,label,Glycated hemoglobin,2019-03-26 15:18:11.0,2019-03-26 15:18:11.0
+773,399,placeholder,,2019-03-26 15:18:11.0,2019-03-26 15:18:11.0
+774,400,label,Direct ( conjugated ) bilirubin,2019-03-26 15:18:11.0,2019-03-26 15:18:11.0
+775,400,placeholder,,2019-03-26 15:18:11.0,2019-03-26 15:18:11.0
+776,401,label,Lipase,2019-03-26 15:18:11.0,2019-03-26 15:18:11.0
+777,401,placeholder,,2019-03-26 15:18:12.0,2019-03-26 15:18:12.0
+778,402,label,Cholesterol (CHOL),2019-03-26 15:18:12.0,2019-03-26 15:18:12.0
+779,402,placeholder,,2019-03-26 15:18:12.0,2019-03-26 15:18:12.0
+780,403,label,A/G Ratio,2019-03-26 15:18:12.0,2019-03-26 15:18:12.0
+781,403,placeholder,,2019-03-26 15:18:12.0,2019-03-26 15:18:12.0
+782,404,label,Na/K Proportion,2019-03-26 15:18:12.0,2019-03-26 15:18:12.0
+783,404,placeholder,,2019-03-26 15:18:12.0,2019-03-26 15:18:12.0
+784,405,label,(%) Lymphocyte,2019-03-26 15:18:13.0,2019-03-26 15:18:13.0
+785,405,placeholder,,2019-03-26 15:18:13.0,2019-03-26 15:18:13.0
+786,406,label,(%) Monocyte,2019-03-26 15:18:13.0,2019-03-26 15:18:13.0
+787,406,placeholder,,2019-03-26 15:18:13.0,2019-03-26 15:18:13.0
+788,407,label,(%) Neutrophil,2019-03-26 15:18:13.0,2019-03-26 15:18:13.0
+789,407,placeholder,,2019-03-26 15:18:13.0,2019-03-26 15:18:13.0
+790,408,label,(%) Eosinophil,2019-03-26 15:18:14.0,2019-03-26 15:18:14.0
+791,408,placeholder,,2019-03-26 15:18:14.0,2019-03-26 15:18:14.0
+792,409,label,(%) Basophil,2019-03-26 15:18:14.0,2019-03-26 15:18:14.0
+793,409,placeholder,,2019-03-26 15:18:14.0,2019-03-26 15:18:14.0
+794,410,text,Thoracic cavity,2019-03-26 15:18:14.0,2019-03-26 15:18:14.0
+795,411,label,Observations,2019-03-26 15:18:15.0,2019-03-26 15:18:15.0
+796,411,placeholder,,2019-03-26 15:18:15.0,2019-03-26 15:18:15.0
+797,412,label,Heart,2019-03-26 15:18:15.0,2019-03-26 15:18:15.0
+798,412,placeholder,,2019-03-26 15:18:15.0,2019-03-26 15:18:15.0
+799,413,label,Lungs,2019-03-26 15:18:15.0,2019-03-26 15:18:15.0
+800,413,placeholder,,2019-03-26 15:18:15.0,2019-03-26 15:18:15.0
+801,414,text,Abdominal cavity,2019-03-26 15:18:16.0,2019-03-26 15:18:16.0
+802,415,label,Observations,2019-03-26 15:18:16.0,2019-03-26 15:18:16.0
+803,415,placeholder,,2019-03-26 15:18:16.0,2019-03-26 15:18:16.0
+804,416,label,Stomach,2019-03-26 15:18:16.0,2019-03-26 15:18:16.0
+805,416,placeholder,,2019-03-26 15:18:16.0,2019-03-26 15:18:16.0
+806,417,label,Liver,2019-03-26 15:18:17.0,2019-03-26 15:18:17.0
+807,417,placeholder,,2019-03-26 15:18:17.0,2019-03-26 15:18:17.0
+808,418,label,Gallbladder,2019-03-26 15:18:19.0,2019-03-26 15:18:19.0
+809,418,placeholder,,2019-03-26 15:18:19.0,2019-03-26 15:18:19.0
+810,419,label,Spleen,2019-03-26 15:18:19.0,2019-03-26 15:18:19.0
+811,419,placeholder,,2019-03-26 15:18:19.0,2019-03-26 15:18:19.0
+812,420,label,Pancreas,2019-03-26 15:18:19.0,2019-03-26 15:18:19.0
+813,420,placeholder,,2019-03-26 15:18:20.0,2019-03-26 15:18:20.0
+814,421,label,Large intestine,2019-03-26 15:18:20.0,2019-03-26 15:18:20.0
+815,421,placeholder,,2019-03-26 15:18:20.0,2019-03-26 15:18:20.0
+816,422,label,Small intestine,2019-03-26 15:18:20.0,2019-03-26 15:18:20.0
+817,422,placeholder,,2019-03-26 15:18:20.0,2019-03-26 15:18:20.0
+818,423,label,Kidney,2019-03-26 15:18:20.0,2019-03-26 15:18:20.0
+819,423,placeholder,,2019-03-26 15:18:20.0,2019-03-26 15:18:20.0
+820,424,text,Pelvic area,2019-03-26 15:18:21.0,2019-03-26 15:18:21.0
+821,425,label,Observations,2019-03-26 15:18:21.0,2019-03-26 15:18:21.0
+822,425,placeholder,,2019-03-26 15:18:21.0,2019-03-26 15:18:21.0
+823,426,label,Bladder,2019-03-26 15:18:21.0,2019-03-26 15:18:21.0
+824,426,placeholder,,2019-03-26 15:18:22.0,2019-03-26 15:18:22.0
+825,427,label,Prostate,2019-03-26 15:18:22.0,2019-03-26 15:18:22.0
+826,427,placeholder,,2019-03-26 15:18:22.0,2019-03-26 15:18:22.0
+827,428,label,Uterus,2019-03-26 15:18:22.0,2019-03-26 15:18:22.0
+828,428,placeholder,,2019-03-26 15:18:22.0,2019-03-26 15:18:22.0
+829,429,label,Ovaries,2019-03-26 15:18:22.0,2019-03-26 15:18:22.0
+830,429,placeholder,,2019-03-26 15:18:22.0,2019-03-26 15:18:22.0
+831,430,label,Cortisol,2019-03-26 15:18:23.0,2019-03-26 15:18:23.0
+832,430,placeholder,,2019-03-26 15:18:23.0,2019-03-26 15:18:23.0
+833,431,label,T3,2019-03-26 15:18:23.0,2019-03-26 15:18:23.0
+834,431,placeholder,,2019-03-26 15:18:23.0,2019-03-26 15:18:23.0
+835,432,label,T4,2019-03-26 15:18:23.0,2019-03-26 15:18:23.0
+836,432,placeholder,,2019-03-26 15:18:23.0,2019-03-26 15:18:23.0
+837,433,label,TSH,2019-03-26 15:18:23.0,2019-03-26 15:18:23.0
+838,433,placeholder,,2019-03-26 15:18:23.0,2019-03-26 15:18:23.0
+839,434,label,Specific lipase,2019-03-26 15:18:24.0,2019-03-26 15:18:24.0
+840,434,placeholder,,2019-03-26 15:18:24.0,2019-03-26 15:18:24.0
+841,435,label,Progesterone,2019-03-26 15:18:24.0,2019-03-26 15:18:24.0
+842,435,placeholder,,2019-03-26 15:18:24.0,2019-03-26 15:18:24.0
+843,436,label,Testosterone,2019-03-26 15:18:25.0,2019-03-26 15:18:25.0
+844,436,placeholder,,2019-03-26 15:18:25.0,2019-03-26 15:18:25.0
+845,437,label,FSH,2019-03-26 15:18:25.0,2019-03-26 15:18:25.0
+846,437,placeholder,,2019-03-26 15:18:25.0,2019-03-26 15:18:25.0
+847,438,label,LH,2019-03-26 15:18:25.0,2019-03-26 15:18:25.0
+848,438,placeholder,,2019-03-26 15:18:25.0,2019-03-26 15:18:25.0
+849,439,label,Prolactine,2019-03-26 15:18:25.0,2019-03-26 15:18:25.0
+850,439,placeholder,,2019-03-26 15:18:26.0,2019-03-26 15:18:26.0
+851,440,label,IgE,2019-03-26 15:18:26.0,2019-03-26 15:18:26.0
+852,440,placeholder,,2019-03-26 15:18:26.0,2019-03-26 15:18:26.0
+853,441,label,IgM,2019-03-26 15:18:26.0,2019-03-26 15:18:26.0
+854,441,placeholder,,2019-03-26 15:18:26.0,2019-03-26 15:18:26.0
+855,442,label,C reactive protein,2019-03-26 15:18:26.0,2019-03-26 15:18:26.0
+856,442,placeholder,,2019-03-26 15:18:26.0,2019-03-26 15:18:26.0
+857,443,label,Rheumatoid factor,2019-03-26 15:18:27.0,2019-03-26 15:18:27.0
+858,443,placeholder,,2019-03-26 15:18:27.0,2019-03-26 15:18:27.0
+859,444,label,Antinuclear antibodies,2019-03-26 15:18:27.0,2019-03-26 15:18:27.0
+860,444,placeholder,,2019-03-26 15:18:27.0,2019-03-26 15:18:27.0
+861,445,label,Anti-double stranded DNA,2019-03-26 15:18:27.0,2019-03-26 15:18:27.0
+862,445,placeholder,,2019-03-26 15:18:27.0,2019-03-26 15:18:27.0
+863,446,label,Complement C3,2019-03-26 15:18:28.0,2019-03-26 15:18:28.0
+864,446,placeholder,,2019-03-26 15:18:28.0,2019-03-26 15:18:28.0
+865,447,label,Fibrinogen,2019-03-26 15:18:28.0,2019-03-26 15:18:28.0
+866,447,placeholder,,2019-03-26 15:18:28.0,2019-03-26 15:18:28.0
+867,448,label,Clotting time,2019-03-26 15:18:29.0,2019-03-26 15:18:29.0
+868,448,placeholder,,2019-03-26 15:18:29.0,2019-03-26 15:18:29.0
+869,449,label,Prothrombin,2019-03-26 15:18:29.0,2019-03-26 15:18:29.0
+870,449,placeholder,,2019-03-26 15:18:29.0,2019-03-26 15:18:29.0
+871,450,label,aPTT,2019-03-26 15:18:30.0,2019-03-26 15:18:30.0
+872,450,placeholder,,2019-03-26 15:18:30.0,2019-03-26 15:18:30.0
+873,451,label,Interpretation,2019-03-26 15:18:30.0,2019-03-26 15:18:30.0
+874,451,placeholder,,2019-03-26 15:18:30.0,2019-03-26 15:18:30.0
+875,452,label,Sensitive to,2019-03-26 15:18:30.0,2019-03-26 15:18:30.0
+876,452,placeholder,,2019-03-26 15:18:30.0,2019-03-26 15:18:30.0
+885,457,label,Leptospirosis,2019-04-17 17:14:57.0,2019-04-17 17:14:57.0
+886,457,placeholder,,2019-04-17 17:14:57.0,2019-04-17 17:14:57.0
+887,458,label,Babesia Gibsoni,2019-04-17 17:14:57.0,2019-04-17 17:14:57.0
+888,458,placeholder,,2019-04-17 17:14:57.0,2019-04-17 17:14:57.0
+889,459,text,Examination of the external ear canal,2020-02-20 23:10:00.0,2020-02-20 23:10:00.0
+890,33,label,Inspection,2020-02-20 23:10:00.0,2020-02-20 23:10:00.0
+891,35,label,Discharge,2020-02-20 23:10:00.0,2020-02-20 23:10:00.0
+892,37,label,Palpation,2020-02-20 23:10:00.0,2020-02-20 23:10:00.0
+893,460,text,Examination of the ear canal,2020-02-20 23:10:00.0,2020-02-20 23:10:00.0
+894,31,label,Otoscopy,2020-02-20 23:10:00.0,2020-02-20 23:10:00.0
+895,461,label,Examination of the tympanic membrane,2020-02-20 23:10:00.0,2020-02-20 23:10:00.0
+896,462,text,Diagnostic Procedures,2020-02-20 23:10:00.0,2020-02-20 23:10:00.0
+897,463,label,Parasitological examination,2020-02-20 23:10:00.0,2020-02-20 23:10:00.0
+898,464,label,Cytologic examination,2020-02-20 23:10:00.0,2020-02-20 23:10:00.0
+899,465,label,Antibiogram,2020-02-20 23:10:00.0,2020-02-20 23:10:00.0
+900,38,label,Observation,2020-02-20 23:10:00.0,2020-02-20 23:10:00.0
+901,105,text,Mouth Inspection,2020-02-20 23:10:00.0,2020-02-20 23:10:00.0
+902,466,label,Lips and cheeks,2020-02-20 23:10:00.0,2020-02-20 23:10:00.0
+903,467,label,Oropharynx,2020-02-20 23:10:00.0,2020-02-20 23:10:00.0
+904,113,label,Oral Mucosa,2020-02-20 23:10:00.0,2020-02-20 23:10:00.0
+905,468,label,Hard palate,2020-02-20 23:10:00.0,2020-02-20 23:10:00.0
+906,111,label,Floor of mouth and tongue,2020-02-20 23:10:00.0,2020-02-20 23:10:00.0
+907,107,label,Teeth,2020-02-20 23:10:00.0,2020-02-20 23:10:00.0
+908,109,label,Gums,2020-02-20 23:10:00.0,2020-02-20 23:10:00.0
+909,115,label,Halitosis,2020-02-20 23:10:00.0,2020-02-20 23:10:00.0
+910,469,label,Observations,2020-02-20 23:10:00.0,2022-02-26 21:11:22.0
+911,135,text,Digestive System,2020-02-20 23:10:01.0,2020-02-20 23:10:01.0
+912,137,label,Appetite,2020-02-20 23:10:01.0,2020-02-20 23:10:01.0
+913,139,label,Prehension,2020-02-20 23:10:01.0,2020-02-20 23:10:01.0
+914,141,label,Chewing,2020-02-20 23:10:01.0,2020-02-20 23:10:01.0
+915,143,label,Swallowing,2020-02-20 23:10:01.0,2020-02-20 23:10:01.0
+916,145,label,Vomit,2020-02-20 23:10:01.0,2020-02-20 23:10:01.0
+917,147,label,Gastrointestinal Transit,2020-02-20 23:10:01.0,2020-02-20 23:10:01.0
+918,149,label,Feces,2020-02-20 23:10:01.0,2020-02-20 23:10:01.0
+919,128,label,Inspection,2020-02-20 23:10:01.0,2020-02-20 23:10:01.0
+920,130,label,Palpation,2020-02-20 23:10:01.0,2020-02-20 23:10:01.0
+921,61,text,Upper airways,2020-02-20 23:10:01.0,2020-02-20 23:10:01.0
+922,63,label,Inspection,2020-02-20 23:10:01.0,2020-02-20 23:10:01.0
+923,65,label,Discharge,2020-02-20 23:10:01.0,2020-02-20 23:10:01.0
+924,470,label,Palpation,2020-02-20 23:10:01.0,2020-02-20 23:10:01.0
+925,66,label,Observation,2020-02-20 23:10:01.0,2020-02-20 23:10:01.0
+926,67,text,Larynx and trachea,2020-02-20 23:10:01.0,2020-02-20 23:10:01.0
+927,69,label,Inspection,2020-02-20 23:10:01.0,2020-02-20 23:10:01.0
+928,471,label,Auscultation,2020-02-20 23:10:01.0,2020-02-20 23:10:01.0
+929,472,label,Palpation,2020-02-20 23:10:01.0,2020-02-20 23:10:01.0
+930,72,label,Observation,2020-02-20 23:10:01.0,2020-02-20 23:10:01.0
+931,73,text,Lungs,2020-02-20 23:10:01.0,2020-02-20 23:10:01.0
+932,75,label,Inspection,2020-02-20 23:10:01.0,2020-02-20 23:10:01.0
+933,77,label,Auscultation,2020-02-20 23:10:01.0,2020-02-20 23:10:01.0
+934,79,label,Percussion,2020-02-20 23:10:01.0,2020-02-20 23:10:01.0
+935,81,label,Respiratory Rate,2020-02-20 23:10:01.0,2020-02-20 23:10:01.0
+936,84,label,Observation,2020-02-20 23:10:01.0,2020-02-20 23:10:01.0
+937,95,text,Cardiovascular System,2020-02-20 23:10:01.0,2020-02-20 23:10:01.0
+938,99,label,Auscultation,2020-02-20 23:10:01.0,2020-02-20 23:10:01.0
+939,97,label,Heart Rate,2020-02-20 23:10:01.0,2020-02-20 23:10:01.0
+940,101,label,Arterial Pressurel,2020-02-20 23:10:01.0,2020-02-20 23:10:01.0
+941,103,label,Puls,2020-02-20 23:10:01.0,2020-02-20 23:10:01.0
+942,104,label,Observation,2020-02-20 23:10:01.0,2020-02-20 23:10:01.0
+943,7,text,I. Skin Inspection & Palpation,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+944,9,label,Inspection,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+945,17,label,Palpation,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+946,11,label,Elasticity,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+947,15,label,Odour,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+948,21,label,Pruritus,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+949,23,label,Observation,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+950,24,text,Fur,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+951,26,label,Inspection,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+952,473,label,Palpation,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+953,474,label,Observation,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+954,475,text,Toenails,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+955,28,label,Inspection,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+956,476,label,Palpation,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+957,477,label,Observation,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+958,178,text,Nervous Central & Peripheral System,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+959,180,label,Awareness,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+960,182,label,Movement Coordination,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+961,184,label,Behaviour,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+962,186,label,Reflexes,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+963,187,label,Observation,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+964,170,text,Urinary tract,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+965,172,label,Palpation,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+966,174,label,Miction,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+967,176,label,Urine,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+968,152,label,Bladder,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+969,177,label,Observation,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+970,150,text,Male reproductive system,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+971,156,label,Penis,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+972,158,label,Testicles,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+973,160,label,Prostate,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+974,154,label,Observation,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+975,161,text,Female reproductive system,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+976,167,label,Vulva,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+977,169,label,Heat Cycle,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+978,165,label,Observation,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+979,118,label,Inspection,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+980,120,label,Palpation,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+981,123,label,Observation,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+982,478,text,Skeletal system,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+983,54,label,Inspection,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+984,56,label,Palpation,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+985,479,label,Percussion,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+986,58,label,Aplomb,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+987,480,label,Observation,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+988,481,text,Muscular system,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+989,482,label,Inspection,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+990,483,label,Palpation,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+991,484,label,Percussion,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+992,485,label,Observation,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+993,486,text,Ophthalmologic Examination,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+994,43,label,Inspection,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+995,47,label,Vision Evaluation,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+996,487,label,Orbit,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+997,488,label,Eyelids,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+998,489,label,Conjunctiva and the Nictitating Membrane,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+999,45,label,Sclera,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+1000,49,label,Cornea,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+1001,51,label,Anterior Chamber,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+1002,490,label,Iris,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+1003,491,label,Lens,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+1004,492,label,Vitreous,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+1005,493,label,Fundus,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+1006,41,label,Observation,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+1007,494,text,Diagnostic Procedures,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+1008,495,label,Pupillary Light Reflexes,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+1009,496,label,Antibiogram,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+1010,497,label,Cytologic examination,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+1011,374,label,Schirmer Test Left Eye Quantity,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+1012,376,label,Schirmer Test Left Eye Quality,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+1013,378,label,Schirmer Test Right Eye Quantity,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+1014,380,label,Schirmer Test Right Eye Quality,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+1015,498,label,Phenol Red Thread left eye,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+1016,499,label,Phenol Red Thread right eye,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+1017,370,label,Fluorescein Test Left Eye,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+1018,372,label,Fluorescein Test Right Eye,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+1019,500,label,Tonometry,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+1020,501,label,Ophthalmoscopy,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+1021,393,label,Ocular ultrasonography,2020-02-20 23:10:02.0,2020-02-20 23:10:02.0
+1025,87,placeholder,Submandibular details,2020-02-20 23:10:03.0,2024-12-06 13:19:26.0
+1029,345,placeholder,Axillary details,2020-02-20 23:10:03.0,2024-12-06 13:19:26.0
+1033,89,placeholder,Prescapular details,2020-02-20 23:10:03.0,2024-12-06 13:19:26.0
+1037,91,placeholder,Inguinal details,2020-02-20 23:10:03.0,2024-12-06 13:19:26.0
+1041,503,placeholder,Popliteal details,2020-02-20 23:10:03.0,2024-12-06 13:19:26.0
+1042,94,label,Observation,2020-02-20 23:10:03.0,2020-02-20 23:10:03.0
+1043,504,label,Body Condition Score,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1044,504,options[],1,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1045,504,options[],2,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1046,504,options[],3,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1047,504,options[],4,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1048,504,options[],5,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1049,504,options[],6,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1050,504,options[],7,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1051,504,options[],8,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1052,504,options[],9,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1053,505,label,Attitude,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1054,505,options[],BAR,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1055,505,options[],QAR,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1056,505,options[],Depressed,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1057,505,options[],Non-responsive,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1058,505,options[],Not Assessed,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1059,506,label,Hydration,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1060,506,options[],Normal,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1061,506,options[],5% dehydrated,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1062,506,options[],10% dehydrated,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1063,506,options[],Not Assessed,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1065,508,options[],Altered,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1066,508,options[],Presumed Altered,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1067,508,options[],Intact,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1068,508,options[],Unknown,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1069,508,options[],Not Assessed,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1070,509,options[],Scar,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1071,509,options[],Tattoo,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1072,509,options[],Ear Tip,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1073,510,text,history,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1074,511,label,Activity Level,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1075,511,options[],Normal,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1076,511,options[],Increased,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1077,511,options[],Decreased,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1078,512,label,Diet,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1083,513,label,Eating,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1084,513,options[],Normal,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1085,513,options[],Increased,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1086,513,options[],Decreased,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1087,514,placeholder,,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1088,515,label,Drinking,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1089,515,options[],Normal,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1090,515,options[],Increased,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1091,515,options[],Decreased,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1092,516,placeholder,,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1093,517,label,Vomiting,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1094,517,options[],No,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1095,517,options[],Yes,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1096,518,placeholder,,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1097,519,label,Diarrhea,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1098,519,options[],None,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1099,519,options[],Diarrhea,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1100,519,options[],Melena,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1101,519,options[],Blood,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1102,520,label,Coughing,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1103,520,options[],None,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1104,520,options[],Productive,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1105,520,options[],Non-Productive,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1106,521,label,Sneezing,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1107,521,options[],None,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1108,521,options[],Productive,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1109,521,options[],Non-Productive,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1110,522,label,Pet bitten anyone in last 10 days?,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1111,522,options[],No,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1112,522,options[],Yes,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1113,523,label,Seizures,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1114,523,options[],No,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1115,523,options[],Yes,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1116,524,label,Last meal time,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1117,524,placeholder,,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1118,525,label,Spay,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1119,525,options[],Spay,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1120,525,options[],Spay not performed - already spayed,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1121,525,options[],Spay not performed - other reason,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1122,526,label,Neuter,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1123,526,options[],Neuter,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1124,526,options[],Neuter not performed - already neutered,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1125,526,options[],Neuter not performed - other reason,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1126,527,label,Ovarian pedicle,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1127,527,options[],Suture Ligation,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1128,527,options[],Pedicle Ties,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1129,528,label,Ovarian Cyst,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1130,528,options[],None,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1131,528,options[],Right,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1132,528,options[],Left,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1133,528,options[],Both,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1134,529,label,In heat,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1135,529,options[],No,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1136,529,options[],Yes,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1137,530,label,Pregnant,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1138,530,options[],No,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1139,530,options[],P1,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1140,530,options[],P2,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1141,530,options[],P3,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1142,531,label,Lactating,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1143,531,options[],No,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1144,531,options[],Heavily Lactating-Recent Parturition,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1145,531,options[],Moderate Mammary Enlargement,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1146,531,options[],Mild Mammary Enlargement,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1147,532,label,Post-partum,2020-10-29 15:22:30.0,2022-06-09 11:33:20.0
+1148,532,options[],No,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1149,532,options[],Yes,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1150,533,label,Pyometra,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1151,533,options[],No,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1152,533,options[],Yes,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1153,534,label,Hydrometra,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1154,534,options[],No,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1155,534,options[],Yes,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1156,535,label,Unihorn,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1157,535,options[],Normal,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1158,535,options[],Left Horn Absent,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1159,535,options[],Left Kidney Absent,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1160,535,options[],Right Horn Absent,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1161,535,options[],Right Kidney Absent,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1162,536,label,Neuter Routine,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1163,536,options[],Pre-Scrotal Approach,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1164,536,options[],Scrotal Approach,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1165,537,label,Cryptorchid,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1166,537,options[],Yes,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1167,537,options[],No,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1168,538,label,Cryptorchid-Location,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1169,538,options[],Right Abdominal Cryptorchid,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1170,538,options[],Left Abdominal Cryptorchid,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1171,538,options[],Right Inguinal Cryptorchid,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1172,538,options[],Left Inguinal Cryptorchid,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1173,539,label,Cryptorchid-Incision Location,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1174,539,options[],Midline Incision,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1175,539,options[],Right Para-midline Incision,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1176,539,options[],Left Para-midline Incision,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1177,539,options[],Right Inguinal Incision,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1178,539,options[],Left Inguinal Incision,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1179,540,label,Umbilical Hernia Repair,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1180,540,options[],Not Present,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1181,540,options[],Reducible: Repaired,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1182,540,options[],Reducible: Not Repaired,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1183,540,options[],Non-reducible: Repaired,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1184,540,options[],Non-reducible: Not Repaired,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1185,541,label,Suture,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1186,541,options[],Monocryl,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1187,541,options[],Other,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1188,542,label,Tissue Glue,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1189,542,options[],Yes,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1190,542,options[],No,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1191,543,label,Phenylephrine,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1192,543,options[],Not Applied,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1193,543,options[],Applied,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1194,544,label,Ear Tip,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1195,544,options[],No,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1196,544,options[],Yes,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1197,544,options[],Already eartipped,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1198,545,label,Additional Notes,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1199,545,placeholder,,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1200,546,label,CRT capillary refill time,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1201,546,options[],< 2 seconds,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1202,546,options[],2 seconds,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1203,546,options[],> 2 seconds,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1204,546,options[],Not Assessed,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1205,547,label,Apparent mucous membranes,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1206,548,label,Color,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1207,548,options[],Pink,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1208,548,options[],Pigmented,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1209,548,options[],Pale,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1210,548,options[],Injected,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1211,548,options[],Cyanotic,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1212,548,options[],Icteric,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1213,548,options[],Not Assessed,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1214,549,label,Hydration,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1215,549,options[],Moist,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1216,549,options[],Tacky,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1217,549,options[],Not Assessed,2020-10-29 15:22:30.0,2020-10-29 15:22:30.0
+1218,550,text,Hormonal Status,2021-03-28 23:12:56.0,2021-03-28 23:12:56.0
+1219,508,label,Status,2021-03-28 23:12:56.0,2021-03-28 23:12:56.0
+1220,509,label,Procedure Type,2021-03-28 23:12:56.0,2021-03-28 23:12:56.0
+1232,551,placeholder,,2022-01-05 16:55:44.0,2022-01-05 16:55:44.0
+1233,552,placeholder,,2022-01-05 16:55:44.0,2022-01-05 16:55:44.0
+1234,553,placeholder,,2022-01-05 16:55:44.0,2022-01-05 16:55:44.0
+1235,554,placeholder,,2022-01-05 16:55:44.0,2022-01-05 16:55:44.0
+1236,555,placeholder,,2022-01-05 16:55:44.0,2022-01-05 16:55:44.0
+1237,556,placeholder,,2022-01-05 16:55:44.0,2022-01-05 16:55:44.0
+1238,557,placeholder,,2022-01-05 16:55:44.0,2022-01-05 16:55:44.0
+1542,680,label,Friable,2022-06-09 11:33:20.0,2022-06-09 11:33:20.0
+1543,680,options[],No,2022-06-09 11:33:20.0,2022-06-09 11:33:20.0
+1544,680,options[],Yes,2022-06-09 11:33:20.0,2022-06-09 11:33:20.0
+1545,681,label,Results,2023-12-22 12:52:27.0,2023-12-22 12:52:27.0
+1546,502,label,Popliteal,2024-12-06 13:19:28.0,2024-12-06 13:19:28.0
+1547,502,options[],Reactivi,2024-12-06 13:19:28.0,2024-12-06 13:19:28.0
+1548,502,options[],Areactivi,2024-12-06 13:19:28.0,2024-12-06 13:19:28.0
+1549,348,label,CRT capillary refill time notes,2025-04-03 14:42:56.0,2025-04-03 14:42:56.0
