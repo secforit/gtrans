@@ -1,0 +1,489 @@
+{
+  "metadata": {
+    "title": "Canis Vet | Cabinet Veterinar Arad - Dr. Raul Tatar",
+    "description": "Canis Vet Arad - Clinica veterinară și cabinetul veterinar cu servicii complete pentru animale de companie în Arad. Consultații medicale, chirurgie, vaccinare, urgențe și farmacie veterinare la cel mai înalt standard."
+  },
+  "nav": {
+    "services": "Servicii",
+    "team": "Echipa",
+    "contact": "Contact",
+    "book": "Programare",
+    "subtitle": "Clinică Veterinară Arad"
+  },
+  "hero": {
+    "badge": "Urgențe non-stop: 0745 534 944",
+    "title": "Îngrijire veterinară de încredere în Arad",
+    "description": "La Canis Vet, suntem dedicați sănătății și bunăstării animalelor tale. Oferim servicii complete de medicină veterinară cu echipamente de ultimă generație și o echipă cu experiență de peste 10 ani.",
+    "cta1": "Programează acum",
+    "cta2": "0745 534 944",
+    "feat1": "10+ ani experiență",
+    "feat2": "Urgențe 24/7",
+    "statYears": "Ani experiență",
+    "statDoctors": "Medici",
+    "statEmergency": "Urgențe"
+  },
+  "stats": {
+    "years": "Ani Experiență",
+    "animals": "Animale Tratate",
+    "doctors": "Medici Veterinari",
+    "emergency": "Urgențe Non-Stop"
+  },
+  "services": {
+    "label": "Ce Oferim",
+    "title": "Servicii Veterinare Complete",
+    "description": "De la consultații de rutină până la intervenții chirurgicale complexe, echipa noastră oferă îngrijire excepțională la fiecare etapă a vieții animalului tău.",
+    "details": "Detalii"
+  },
+  "team": {
+    "label": "Profesioniști Dedicați",
+    "title": "Echipa Noastră",
+    "description": "Echipa noastră are o experiență solidă de peste 10 ani în domeniul îngrijirii animalelor de companie, asigurând servicii de cea mai înaltă calitate.",
+    "doctor1role": "Medic Veterinar | Administrator",
+    "doctor2role": "Medic Veterinar",
+    "doctor3role": "Medic Veterinar"
+  },
+  "gallery": {
+    "label": "Clinica Noastră",
+    "title": "Galerie Foto",
+    "description": "Aruncă o privire în interiorul clinicii noastre și cunoaște spațiile unde îngrijim animalele tale.",
+    "alt": "Galerie Canis Vet"
+  },
+  "about": {
+    "label": "Despre Clinică",
+    "title": "Din dragoste pentru animale",
+    "p1": "La CanisVet, viziunea noastră este de a crea o lume în care animalele de companie trăiesc cele mai fericite și sănătoase vieți, iar proprietarii lor au liniștea că primesc cea mai bună îngrijire posibilă.",
+    "p2": "Fie că este vorba despre îngrijirea medicală preventivă, sfaturi medicale, îngrijire sau partajarea poveștilor despre animale de companie, CanisVet este aici pentru a fi partenerul tău în orice situație.",
+    "item1": "Echipă cu experiență solidă de peste 10 ani",
+    "item2": "Echipamente de ultimă generație pentru diagnosticare precisă",
+    "item3": "Spațiu de internare cu 8 locuri",
+    "item4": "Laborator propriu pentru rezultate rapide",
+    "cta": "Cunoaște Echipa",
+    "box1": "Consultații Complete",
+    "box2": "10+ Ani Experiență",
+    "box3": "Pasiune pentru Animale",
+    "box4": "Urgențe 24/7"
+  },
+  "cta": {
+    "title": "Programează vizita animalului tău astăzi",
+    "description": "Acceptăm animale noi. Programări disponibile inclusiv în regim de urgență.",
+    "call": "Sună acum",
+    "email": "Trimite email"
+  },
+  "footer": {
+    "description": "SC VETRIGOLA FARM SRL\nMedicină veterinară cu pasiune și dedicare pentru fiecare pacient.",
+    "facebook": "Facebook",
+    "services": "Servicii",
+    "contact": "Contact",
+    "location": "Locație",
+    "mapLink": "Vezi pe hartă",
+    "schedule": {
+      "label": "Luni–Vineri: 09:00–19:00\nSâmbătă: 09:00–14:00\nDuminică: Doar urgențe"
+    },
+    "copyright": "Toate drepturile rezervate."
+  },
+  "servicePage": {
+    "home": "Acasă",
+    "services": "Servicii",
+    "includes": "Ce include serviciul",
+    "details": "Detalii despre serviciu",
+    "otherServices": "Alte servicii",
+    "back": "Înapoi la pagina principală",
+    "book": "Programează acum",
+    "schedule": "Program",
+    "scheduleWeekdays": "Luni–Vineri: 09:00–19:00",
+    "scheduleSaturday": "Sâmbătă: 09:00–14:00",
+    "scheduleSunday": "Duminică: Doar urgențe"
+  },
+  "servicesData": {
+    "consultatii": {
+      "slug": "consultatii",
+      "title": "Consultații și Tratamente Veterinare",
+      "subtitle": "Evaluări clinice complete și planuri personalizate de tratament",
+      "description": "Consultațiile și tratamentele veterinare sunt servicii esențiale pe care le punem la dispoziția dumneavoastră și a animalelor de companie. Pe baza diagnosticelor, dezvoltăm planuri personalizate de tratament pentru a asigura recuperarea și îmbunătățirea stării de sănătate a animalelor dumneavoastră.",
+      "items": [
+        "Examinări clinice complete",
+        "Ecografii & electrocardiograme",
+        "Teste rapide și măsurători"
+      ],
+      "details": [
+        {
+          "heading": "Consultații medicale generale",
+          "text": "Examinare clinică completă a animalului de companie, evaluarea stării generale de sănătate și recomandări pentru menținerea unui stil de viață sănătos."
+        },
+        {
+          "heading": "Diagnostic avansat",
+          "text": "Investigații pentru afecțiuni cardiace, pulmonare, dermatologice, oculare, gastrointestinale, urinare și ale aparatului locomotor, completate cu examinări otoscopice și microscopice."
+        },
+        {
+          "heading": "Ecografii și electrocardiograme",
+          "text": "Ecografii abdominale, ale părților moi, cardiace și vasculare, electrocardiograme și măsurători de tensiune arterială pentru un diagnostic precis."
+        },
+        {
+          "heading": "Teste rapide",
+          "text": "Teste rapide pentru identificarea agenților patogeni și stabilirea diagnosticului în cel mai scurt timp, reducând așteptarea pentru proprietar și animal."
+        }
+      ],
+      "features": [
+        "Examinări clinice complete",
+        "Ecografii abdominale și cardiace",
+        "Electrocardiograme",
+        "Măsurători de tensiune arterială",
+        "Examinări otoscopice",
+        "Teste rapide",
+        "Examinări microscopice",
+        "Planuri personalizate de tratament"
+      ]
+    },
+    "chirurgie": {
+      "slug": "chirurgie",
+      "title": "Chirurgie Veterinară",
+      "subtitle": "Intervenții chirurgicale sigure cu echipamente moderne",
+      "description": "Chirurgia veterinară este un serviciu esențial pe care îl oferim pentru a asigura sănătatea și bunăstarea animalelor dumneavoastră, combinând expertiza medicală cu tehnologia de vârf pentru a oferi tratamente sigure și eficiente.",
+      "items": [
+        "Sterilizări și castrări",
+        "Chirurgie țesuturi moi",
+        "Operații aparat urinar"
+      ],
+      "details": [
+        {
+          "heading": "Sterilizări și castrări",
+          "text": "Intervenții de rutină efectuate în condiții de siguranță maximă, cu monitorizare atentă a anesteziei și recuperare rapidă postoperatorie."
+        },
+        {
+          "heading": "Chirurgia țesuturilor moi",
+          "text": "Intervenții pentru afecțiunile organelor interne, pielii și țesuturilor moi, inclusiv îndepărtarea tumorilor și rezolvarea obstrucțiilor digestive."
+        },
+        {
+          "heading": "Chirurgie aparat urinar",
+          "text": "Intervenții specializate ale aparatului urinar, inclusiv cistotomie și uretrotomie, pentru rezolvarea calculilor și obstrucțiilor urinare."
+        },
+        {
+          "heading": "Intervenții oftalmologice și stomatologice",
+          "text": "Proceduri chirurgicale pentru anexele globului ocular și tratamente stomatologice complete, asigurând sănătatea ochilor și a dinților animalelor."
+        }
+      ],
+      "features": [
+        "Sterilizări și castrări",
+        "Cezariene",
+        "Îndepărtare tumori",
+        "Tratamentul obstrucțiilor digestive",
+        "Chirurgia țesuturilor moi",
+        "Cistotomie și uretrotomie",
+        "Proceduri chirurgicale oculare",
+        "Tratamente stomatologice"
+      ]
+    },
+    "laser": {
+      "slug": "laser",
+      "title": "Tratament Laser",
+      "subtitle": "Terapie non-invazivă pentru reducerea durerii și vindecare",
+      "description": "Tratamentul cu laser în medicina veterinară este o tehnică non-invazivă care folosește lumină cu laser pentru a ajuta la reducerea durerii, la promovarea vindecării și la gestionarea inflamației la animalele de companie.",
+      "items": [
+        "Reducerea durerii",
+        "Accelerarea vindecării",
+        "Procedură nedureroasă"
+      ],
+      "details": [
+        {
+          "heading": "Reducerea durerii cronice",
+          "text": "Terapia laser este eficientă în gestionarea durerii cronice cauzate de artrită, displazia de șold sau alte afecțiuni degenerative ale articulațiilor."
+        },
+        {
+          "heading": "Accelerarea vindecării",
+          "text": "Lumina laser stimulează celulele și accelerează procesele naturale de vindecare, reducând timpul de recuperare după intervenții chirurgicale sau răni."
+        },
+        {
+          "heading": "Reducerea inflamației",
+          "text": "Terapia laser reduce eficient inflamația și edemul tisular, oferind ameliorare rapidă în afecțiunile inflamatorii acute sau cronice."
+        },
+        {
+          "heading": "Procedură nedureroasă și sigură",
+          "text": "Ședințele de terapie laser sunt complet nedureroase, nu necesită anestezie și pot fi efectuate în timp scurt, fără pregătire specială din partea animalului."
+        }
+      ],
+      "features": [
+        "Reducerea durerii acute și cronice",
+        "Accelerarea vindecării țesuturilor",
+        "Reducerea inflamației și edemului",
+        "Tratament post-operator",
+        "Afecțiuni dermatologice",
+        "Artrite și afecțiuni articulare",
+        "Fără anestezie",
+        "Fără efecte secundare"
+      ]
+    },
+    "laborator": {
+      "slug": "laborator",
+      "title": "Laborator de Analize Veterinare",
+      "subtitle": "Diagnostic rapid și precis direct în clinică",
+      "description": "Laboratorul nostru de analize este dotat cu echipamente de ultimă generație pentru diagnosticarea rapidă și precisă a stării de sănătate a animalelor dumneavoastră, cu rezultate disponibile în timp scurt pentru a demara tratamentul cât mai repede.",
+      "items": [
+        "Analize complete de sânge",
+        "Analize urină și probe biologice",
+        "Rezultate rapide"
+      ],
+      "details": [
+        {
+          "heading": "Analize hematologice",
+          "text": "Hemoleucogramă completă pentru evaluarea globulelor roșii, globulelor albe și trombocitelor, esențiale în diagnosticul infecțiilor, anemiilor și altor afecțiuni."
+        },
+        {
+          "heading": "Biochimie sanguină",
+          "text": "Profil biochimic complet pentru evaluarea funcției hepatice, renale și pancreatice, oferind o imagine de ansamblu asupra stării interne a organelor."
+        },
+        {
+          "heading": "Analize microbiologice",
+          "text": "Identificarea agenților patogeni (bacterii, paraziți, fungi) prin examinare microscopică și teste rapide, pentru un diagnostic etiologic precis."
+        },
+        {
+          "heading": "Rezultate rapide",
+          "text": "Analizele sunt efectuate direct în clinică cu echipamente proprii, rezultatele fiind disponibile în scurt timp pentru o intervenție medicală promptă."
+        }
+      ],
+      "features": [
+        "Hemoleucogramă completă",
+        "Biochimie sanguină",
+        "Analize urină",
+        "Teste rapide infecțioase",
+        "Culturi bacteriene",
+        "Examinări microscopice",
+        "Teste parazitologice",
+        "Rezultate în timp scurt"
+      ]
+    },
+    "radiologie": {
+      "slug": "radiologie",
+      "title": "Radiologie și Radiografii",
+      "subtitle": "Investigații imagistice pentru un diagnostic precis",
+      "description": "Radiografiile veterinare reprezintă un instrument valoros în identificarea și diagnosticarea numeroaselor afecțiuni. Dispunem de echipamente performante care ne permit să identificăm rapid problemele de sănătate ale companionului tău și să inițiem tratamentul adecvat în cel mai scurt timp posibil.",
+      "items": [
+        "Radiografii digitale",
+        "Diagnostic precis",
+        "Echipamente performante"
+      ],
+      "details": [
+        {
+          "heading": "Radiografii digitale",
+          "text": "Sistem de radiografie digitală de ultimă generație care produce imagini de înaltă rezoluție pentru diagnosticarea precisă a oaselor, articulațiilor, plămânilor și abdomenului."
+        },
+        {
+          "heading": "Diagnosticul aparatului locomotor",
+          "text": "Identificarea fracturilor, luxațiilor, artritei și altor afecțiuni osoase sau articulare, cu o acuratețe superioară față de metodele convenționale."
+        },
+        {
+          "heading": "Afecțiuni toracice și abdominale",
+          "text": "Evaluarea stării plămânilor, inimii și organelor abdominale, cu identificarea pneumoniei, cardiopatiilor, obstrucțiilor sau maselor tumorale."
+        },
+        {
+          "heading": "Monitorizarea tratamentului",
+          "text": "Radiografii de control pentru urmărirea evoluției tratamentului sau a recuperării post-chirurgicale, asigurând o intervenție medicală promptă la orice schimbare."
+        }
+      ],
+      "features": [
+        "Radiografii digitale de înaltă rezoluție",
+        "Diagnostic fracturi și luxații",
+        "Afecțiuni pulmonare",
+        "Afecțiuni cardiace",
+        "Obstrucții digestive",
+        "Identificare tumori și mase",
+        "Urmărire post-chirurgicală",
+        "Interpretare rapidă"
+      ]
+    },
+    "internare": {
+      "slug": "internare",
+      "title": "Spațiu de Internare — 8 Locuri",
+      "subtitle": "Supraveghere continuă pentru recuperarea completă",
+      "description": "Știm cât de important este să avem animalul tău sub supraveghere în cazul anumitor afecțiuni, astfel încât tratamentul aplicat să aibă efectul scontat. Dispunem de un spațiu de internare cu 8 locuri, suficient de mare pentru a ne asigura că oferim cele mai bune condiții.",
+      "items": [
+        "8 locuri de internare",
+        "Supraveghere permanentă",
+        "Îngrijire post-operatorie"
+      ],
+      "details": [
+        {
+          "heading": "Spațiu de internare cu 8 locuri",
+          "text": "Clinica noastră dispune de 8 locuri de internare confortabile și igienice, asigurând condiții optime de recuperare pentru animalele aflate în tratament."
+        },
+        {
+          "heading": "Supraveghere permanentă",
+          "text": "Personalul nostru monitorizează în permanență starea animalelor internate, intervenind prompt la orice modificare a stării de sănătate."
+        },
+        {
+          "heading": "Îngrijire post-operatorie",
+          "text": "Animalele care au suferit intervenții chirurgicale beneficiază de îngrijire post-operatorie completă, inclusiv administrarea tratamentului și monitorizarea recuperării."
+        },
+        {
+          "heading": "Tratament în regim de spital",
+          "text": "Pentru afecțiunile care necesită tratamente repetate sau monitorizare intensă, oferim internare în regim de spital veterinar, asigurând continuitatea îngrijirii."
+        }
+      ],
+      "features": [
+        "8 locuri de internare",
+        "Supraveghere permanentă",
+        "Îngrijire post-operatorie completă",
+        "Administrarea tratamentului",
+        "Monitorizarea semnelor vitale",
+        "Condiții igienice optime",
+        "Internare în regim de spital",
+        "Comunicare permanentă cu proprietarii"
+      ]
+    },
+    "farmacie": {
+      "slug": "farmacie",
+      "title": "Punct Farmaceutic Veterinar",
+      "subtitle": "Produse farmaceutice de calitate pentru sănătatea animalului",
+      "description": "Clinica noastră dispune de un punct farmaceutic veterinar cu o gamă variată de medicamente, produse antiparazitare și suplimente nutritive, însoțite de sfaturi profesionale pentru alegerea și utilizarea corectă a produselor.",
+      "items": [
+        "Medicamente veterinare",
+        "Produse antiparazitare",
+        "Suplimente nutritive"
+      ],
+      "details": [
+        {
+          "heading": "Medicamente veterinare",
+          "text": "Stocăm o gamă completă de medicamente veterinare pentru tratamentul diverselor afecțiuni, eliberate pe baza prescripției medicale sau la recomandarea medicului veterinar."
+        },
+        {
+          "heading": "Produse antiparazitare",
+          "text": "Vă punem la dispoziție produse antiparazitare externe (antipurici, anticăpușe) și interne (antihelmintic) pentru câini și pisici, de la branduri de renume."
+        },
+        {
+          "heading": "Suplimente nutritive",
+          "text": "Vitamine, minerale, suplimente articulare, probiotice și alte produse pentru menținerea și îmbunătățirea stării de sănătate a animalului de companie."
+        },
+        {
+          "heading": "Sfaturi farmaceutice",
+          "text": "Echipa noastră vă oferă consultanță specializată privind alegerea și administrarea corectă a produselor farmaceutice, asigurând siguranța și eficiența tratamentului."
+        }
+      ],
+      "features": [
+        "Medicamente prescripție",
+        "Antiparazitare externe și interne",
+        "Vitamine și minerale",
+        "Suplimente articulare",
+        "Produse dermatologice",
+        "Produse stomatologice",
+        "Hrană medicală",
+        "Sfaturi personalizate"
+      ]
+    },
+    "hrana": {
+      "slug": "hrana",
+      "title": "Hrană pentru Animale",
+      "subtitle": "Produse nutritive de calitate pentru câini și pisici",
+      "description": "Oferim o gamă variată de hrană pentru animalele de companie, pentru a le asigura o viață sănătoasă și distractivă. Produsele noastre sunt adaptate nevoilor nutriționale specifice rasei, vârstei și stării de sănătate a animalului tău.",
+      "items": [
+        "Hrană pentru câini și pisici",
+        "Formule adaptate vârstei",
+        "Hrană medicală specială"
+      ],
+      "details": [
+        {
+          "heading": "Hrană uscată și umedă",
+          "text": "Gamă variată de hrană uscată și umedă pentru câini și pisici, de la mărci de renume internațional, cu formule echilibrate nutrițional pentru sănătate optimă."
+        },
+        {
+          "heading": "Hrană adaptată vârstei",
+          "text": "Formule speciale pentru pui, adulți și animale senioare, adaptate nevoilor nutriționale specifice fiecărei etape de viață pentru o dezvoltare armonioasă."
+        },
+        {
+          "heading": "Hrană medicală",
+          "text": "Diete veterinare pentru animale cu afecțiuni renale, cardiace, digestive, dermatologice sau pentru controlul greutății, recomandate de medicul veterinar."
+        },
+        {
+          "heading": "Produse premium",
+          "text": "Hrană din ingrediente naturale de înaltă calitate, fără aditivi artificiali, pentru animalele cu nevoi nutriționale speciale sau pentru proprietarii care aleg cel mai bun."
+        }
+      ],
+      "features": [
+        "Hrană uscată pentru câini",
+        "Hrană umedă pentru câini",
+        "Hrană uscată pentru pisici",
+        "Hrană umedă pentru pisici",
+        "Formule pentru pui",
+        "Formule pentru seniori",
+        "Hrană medicală veterinară",
+        "Produse premium"
+      ]
+    },
+    "cosmetica": {
+      "slug": "cosmetica",
+      "title": "Cosmetică Animale",
+      "subtitle": "Servicii profesionale de îngrijire pentru animalul tău",
+      "description": "Într-un mediu plăcut, cu un personal calificat și pasionat de animale, vă oferim soluții și servicii complete de frizerie și îngrijire cosmetică pentru animalul dvs. de companie.",
+      "items": [
+        "Tuns și frizerie profesională",
+        "Spălat și uscat",
+        "Îngrijire blană și unghii"
+      ],
+      "details": [
+        {
+          "heading": "Frizerie profesională",
+          "text": "Tuns adaptat rasei și preferințelor proprietarului, realizat de personal specializat cu experiență în îngrijirea tuturor raselor de câini și pisici."
+        },
+        {
+          "heading": "Spălat și uscat",
+          "text": "Spălare cu șampoane speciale adaptate tipului de blană, urmată de uscare și periere profesională pentru un aspect îngrijit și o blană sănătoasă."
+        },
+        {
+          "heading": "Îngrijire blană",
+          "text": "Periaj regulat, demelare, tratamente speciale pentru blana uscată sau cu probleme, asigurând sănătatea și strălucirea blănii animalului tău."
+        },
+        {
+          "heading": "Îngrijire unghii și urechi",
+          "text": "Tăierea unghiilor și curățarea urechilor, proceduri esențiale pentru confortul și sănătatea animalului, efectuate cu grijă și blândețe."
+        }
+      ],
+      "features": [
+        "Tuns profesional",
+        "Spălat cu șampoane speciale",
+        "Uscat profesional",
+        "Periaj și demelare",
+        "Tăiat unghii",
+        "Curățare urechi",
+        "Tratamente blană",
+        "Personal specializat și pasionat"
+      ]
+    },
+    "accesorii": {
+      "slug": "accesorii",
+      "title": "Accesorii și Jucării",
+      "subtitle": "Tot ce ai nevoie pentru un animal fericit și activ",
+      "description": "Oferim o gamă variată de accesorii și jucării pentru animalele de companie, pentru a le asigura o viață activă, sănătoasă și distractivă, alături de toate produsele necesare pentru confortul și siguranța lor zilnică.",
+      "items": [
+        "Gulere, zgărzi și ham",
+        "Jucării interactive",
+        "Produse de transport"
+      ],
+      "details": [
+        {
+          "heading": "Gulere, zgărzi și ham",
+          "text": "Accesorii de plimbare sigure și confortabile pentru câini de toate mărimile, inclusiv ham pectoral, zgărzi reglabile și lese retractabile de calitate."
+        },
+        {
+          "heading": "Jucării interactive",
+          "text": "Jucării care stimulează activitatea fizică și mentală a animalului, de la mingi și frisbee-uri până la puzzle-uri interactive pentru câini și pisici."
+        },
+        {
+          "heading": "Produse de transport",
+          "text": "Cuști, genți de transport și huse pentru mașină, pentru deplasările în siguranță și confort ale animalului tău la veterinar sau în vacanță."
+        },
+        {
+          "heading": "Produse de confort",
+          "text": "Pături, paturi, perne și alte accesorii care asigură un spațiu confortabil și un somn liniștit pentru animalul de companie."
+        }
+      ],
+      "features": [
+        "Gulere și zgărzi",
+        "Ham și ham-pectoral",
+        "Jucării pentru câini",
+        "Jucării pentru pisici",
+        "Cuști și genți transport",
+        "Pături și paturi",
+        "Produse de toaletare",
+        "Haine și accesorii"
+      ]
+    }
+  }
+}

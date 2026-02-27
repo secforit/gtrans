@@ -1,0 +1,489 @@
+{
+  "metadata": {
+    "title": "Canis Vet | Veterinary Clinic Arad - Dr. Raul Tatar",
+    "description": "Canis Vet Arad - Veterinary clinic with complete services for pets in Arad. Medical consultations, surgery, vaccination, emergencies and veterinary pharmacy at the highest standard."
+  },
+  "nav": {
+    "services": "Services",
+    "team": "Team",
+    "contact": "Contact",
+    "book": "Book Now",
+    "subtitle": "Veterinary Clinic Arad"
+  },
+  "hero": {
+    "badge": "24/7 emergencies: 0745 534 944",
+    "title": "Trusted veterinary care in Arad",
+    "description": "At Canis Vet, we are dedicated to the health and well-being of your animals. We offer complete veterinary medicine services with state-of-the-art equipment and a team with over 10 years of experience.",
+    "cta1": "Book now",
+    "cta2": "0745 534 944",
+    "feat1": "10+ years experience",
+    "feat2": "24/7 Emergencies",
+    "statYears": "Years experience",
+    "statDoctors": "Doctors",
+    "statEmergency": "Emergencies"
+  },
+  "stats": {
+    "years": "Years Experience",
+    "animals": "Animals Treated",
+    "doctors": "Veterinary Doctors",
+    "emergency": "24/7 Emergencies"
+  },
+  "services": {
+    "label": "What We Offer",
+    "title": "Complete Veterinary Services",
+    "description": "From routine check-ups to complex surgical procedures, our team provides exceptional care at every stage of your pet's life.",
+    "details": "Details"
+  },
+  "team": {
+    "label": "Dedicated Professionals",
+    "title": "Our Team",
+    "description": "Our team has solid experience of over 10 years in the field of pet care, providing services of the highest quality.",
+    "doctor1role": "Veterinary Doctor | Administrator",
+    "doctor2role": "Veterinary Doctor",
+    "doctor3role": "Veterinary Doctor"
+  },
+  "gallery": {
+    "label": "Our Clinic",
+    "title": "Photo Gallery",
+    "description": "Take a look inside our clinic and get to know the spaces where we care for your animals.",
+    "alt": "Canis Vet Gallery"
+  },
+  "about": {
+    "label": "About the Clinic",
+    "title": "Out of love for animals",
+    "p1": "At CanisVet, our vision is to create a world where pets live the happiest and healthiest lives, and their owners have the peace of mind of receiving the best possible care.",
+    "p2": "Whether it's preventive medical care, medical advice, grooming or sharing pet stories, CanisVet is here to be your partner in every situation.",
+    "item1": "Team with solid experience of over 10 years",
+    "item2": "State-of-the-art equipment for precise diagnosis",
+    "item3": "Hospitalization space with 8 places",
+    "item4": "Own laboratory for fast results",
+    "cta": "Meet the Team",
+    "box1": "Complete Consultations",
+    "box2": "10+ Years Experience",
+    "box3": "Passion for Animals",
+    "box4": "24/7 Emergencies"
+  },
+  "cta": {
+    "title": "Schedule your pet's visit today",
+    "description": "We accept new animals. Appointments available including on an emergency basis.",
+    "call": "Call now",
+    "email": "Send email"
+  },
+  "footer": {
+    "description": "SC VETRIGOLA FARM SRL\nVeterinary medicine with passion and dedication for each patient.",
+    "facebook": "Facebook",
+    "services": "Services",
+    "contact": "Contact",
+    "location": "Location",
+    "mapLink": "View on map",
+    "schedule": {
+      "label": "Mon–Fri: 09:00–19:00\nSaturday: 09:00–14:00\nSunday: Emergencies only"
+    },
+    "copyright": "All rights reserved."
+  },
+  "servicePage": {
+    "home": "Home",
+    "services": "Services",
+    "includes": "What the service includes",
+    "details": "Service details",
+    "otherServices": "Other services",
+    "back": "Back to homepage",
+    "book": "Book now",
+    "schedule": "Schedule",
+    "scheduleWeekdays": "Mon–Fri: 09:00–19:00",
+    "scheduleSaturday": "Saturday: 09:00–14:00",
+    "scheduleSunday": "Sunday: Emergencies only"
+  },
+  "servicesData": {
+    "consultatii": {
+      "slug": "consultatii",
+      "title": "Consultations & Veterinary Treatments",
+      "subtitle": "Complete clinical evaluations and personalized treatment plans",
+      "description": "Veterinary consultations and treatments are essential services we provide for you and your pets. Based on these diagnoses, we develop personalized treatment plans to ensure the recovery and improvement of your animals' health.",
+      "items": [
+        "Complete clinical examinations",
+        "Ultrasounds & electrocardiograms",
+        "Rapid tests and measurements"
+      ],
+      "details": [
+        {
+          "heading": "General medical consultations",
+          "text": "Complete clinical examination of the pet, assessment of general health status and recommendations for maintaining a healthy lifestyle."
+        },
+        {
+          "heading": "Advanced diagnostics",
+          "text": "Investigations for cardiac, pulmonary, dermatological, ocular, gastrointestinal, urinary and locomotor conditions, supplemented with otoscopic and microscopic examinations."
+        },
+        {
+          "heading": "Ultrasounds and electrocardiograms",
+          "text": "Abdominal, soft tissue, cardiac and vascular ultrasounds, electrocardiograms and blood pressure measurements for precise diagnosis."
+        },
+        {
+          "heading": "Rapid tests",
+          "text": "Rapid tests for quick identification of pathogens and prompt diagnosis, reducing waiting time for owner and animal."
+        }
+      ],
+      "features": [
+        "Complete clinical examinations",
+        "Abdominal and cardiac ultrasounds",
+        "Electrocardiograms",
+        "Blood pressure measurements",
+        "Otoscopic examinations",
+        "Rapid tests",
+        "Microscopic examinations",
+        "Personalized treatment plans"
+      ]
+    },
+    "chirurgie": {
+      "slug": "chirurgie",
+      "title": "Veterinary Surgery",
+      "subtitle": "Safe surgical procedures with modern equipment",
+      "description": "Veterinary surgery is an essential service we offer to ensure the health and well-being of your animals, combining medical expertise with cutting-edge technology to provide safe and effective treatments.",
+      "items": [
+        "Spaying and neutering",
+        "Soft tissue surgery",
+        "Urinary tract operations"
+      ],
+      "details": [
+        {
+          "heading": "Spaying and neutering",
+          "text": "Routine procedures performed under maximum safety conditions, with careful anesthesia monitoring and rapid postoperative recovery."
+        },
+        {
+          "heading": "Soft tissue surgery",
+          "text": "Procedures for internal organ, skin and soft tissue conditions, including tumor removal and resolution of digestive obstructions."
+        },
+        {
+          "heading": "Urinary tract surgery",
+          "text": "Specialized urinary tract procedures, including cystotomy and urethrotomy, to resolve urinary stones and obstructions."
+        },
+        {
+          "heading": "Ophthalmological and dental procedures",
+          "text": "Surgical procedures for eye appendages and complete dental treatments, ensuring the health of animals' eyes and teeth."
+        }
+      ],
+      "features": [
+        "Spaying and neutering",
+        "Cesarean sections",
+        "Tumor removal",
+        "Treatment of digestive obstructions",
+        "Soft tissue surgery",
+        "Cystotomy and urethrotomy",
+        "Ocular surgical procedures",
+        "Dental treatments"
+      ]
+    },
+    "laser": {
+      "slug": "laser",
+      "title": "Laser Treatment",
+      "subtitle": "Non-invasive therapy for pain reduction and healing",
+      "description": "Laser treatment in veterinary medicine is a non-invasive technique that uses laser light to help reduce pain, promote healing and manage inflammation in pets.",
+      "items": [
+        "Pain reduction",
+        "Accelerated healing",
+        "Painless procedure"
+      ],
+      "details": [
+        {
+          "heading": "Chronic pain reduction",
+          "text": "Laser therapy is effective in managing chronic pain caused by arthritis, hip dysplasia or other degenerative joint conditions."
+        },
+        {
+          "heading": "Accelerated healing",
+          "text": "Laser light stimulates cells and accelerates natural healing processes, reducing recovery time after surgical procedures or injuries."
+        },
+        {
+          "heading": "Inflammation reduction",
+          "text": "Laser therapy effectively reduces inflammation and tissue edema, providing rapid relief in acute or chronic inflammatory conditions."
+        },
+        {
+          "heading": "Painless and safe procedure",
+          "text": "Laser therapy sessions are completely painless, require no anesthesia and can be performed in a short time, without any special preparation."
+        }
+      ],
+      "features": [
+        "Acute and chronic pain reduction",
+        "Accelerated tissue healing",
+        "Inflammation and edema reduction",
+        "Post-operative treatment",
+        "Dermatological conditions",
+        "Arthritis and joint conditions",
+        "No anesthesia required",
+        "No side effects"
+      ]
+    },
+    "laborator": {
+      "slug": "laborator",
+      "title": "Veterinary Analysis Laboratory",
+      "subtitle": "Rapid and precise diagnosis directly in the clinic",
+      "description": "Our analysis laboratory is equipped with state-of-the-art equipment for rapid and precise diagnosis of your animals' health, with results available quickly to start treatment as soon as possible.",
+      "items": [
+        "Complete blood analyses",
+        "Urine and biological samples",
+        "Rapid results"
+      ],
+      "details": [
+        {
+          "heading": "Hematological analyses",
+          "text": "Complete blood count to evaluate red blood cells, white blood cells and platelets, essential for diagnosing infections, anemias and other conditions."
+        },
+        {
+          "heading": "Blood biochemistry",
+          "text": "Complete biochemical profile to evaluate hepatic, renal and pancreatic function, providing an overview of the internal organ status."
+        },
+        {
+          "heading": "Microbiological analyses",
+          "text": "Identification of pathogens (bacteria, parasites, fungi) through microscopic examination and rapid tests, for precise etiological diagnosis."
+        },
+        {
+          "heading": "Rapid results",
+          "text": "Analyses are performed directly in the clinic with our own equipment, results being available quickly for prompt medical intervention."
+        }
+      ],
+      "features": [
+        "Complete blood count",
+        "Blood biochemistry",
+        "Urine analyses",
+        "Rapid infectious tests",
+        "Bacterial cultures",
+        "Microscopic examinations",
+        "Parasitological tests",
+        "Results in short time"
+      ]
+    },
+    "radiologie": {
+      "slug": "radiologie",
+      "title": "Radiology & X-rays",
+      "subtitle": "Imaging investigations for precise diagnosis",
+      "description": "Veterinary X-rays are a valuable tool in identifying and diagnosing numerous conditions. We have high-performance equipment that allows us to quickly identify your pet's health problems and initiate appropriate treatment in the shortest possible time.",
+      "items": [
+        "Digital X-rays",
+        "Precise diagnosis",
+        "High-performance equipment"
+      ],
+      "details": [
+        {
+          "heading": "Digital X-rays",
+          "text": "State-of-the-art digital radiography system that produces high-resolution images for precise diagnosis of bones, joints, lungs and abdomen."
+        },
+        {
+          "heading": "Locomotor system diagnosis",
+          "text": "Identification of fractures, dislocations, arthritis and other bone or joint conditions, with superior accuracy compared to conventional methods."
+        },
+        {
+          "heading": "Thoracic and abdominal conditions",
+          "text": "Assessment of lungs, heart and abdominal organs, identifying pneumonia, heart disease, obstructions or tumor masses."
+        },
+        {
+          "heading": "Treatment monitoring",
+          "text": "Follow-up X-rays to monitor treatment progress or post-surgical recovery, ensuring prompt medical intervention at any change."
+        }
+      ],
+      "features": [
+        "High-resolution digital X-rays",
+        "Fracture and dislocation diagnosis",
+        "Pulmonary conditions",
+        "Cardiac conditions",
+        "Digestive obstructions",
+        "Tumor and mass identification",
+        "Post-surgical follow-up",
+        "Rapid interpretation"
+      ]
+    },
+    "internare": {
+      "slug": "internare",
+      "title": "Hospitalization Space — 8 Places",
+      "subtitle": "Continuous monitoring for complete recovery",
+      "description": "We know how important it is to have your animal under supervision for certain conditions, so that the treatment applied has the desired effect. We have a hospitalization space with 8 places, ensuring the best recovery conditions.",
+      "items": [
+        "8 hospitalization places",
+        "Permanent supervision",
+        "Post-operative care"
+      ],
+      "details": [
+        {
+          "heading": "Hospitalization space with 8 places",
+          "text": "Our clinic has 8 comfortable and hygienic hospitalization places, ensuring optimal recovery conditions for animals undergoing treatment."
+        },
+        {
+          "heading": "Permanent supervision",
+          "text": "Our staff permanently monitors the condition of hospitalized animals, promptly intervening at any change in health status."
+        },
+        {
+          "heading": "Post-operative care",
+          "text": "Animals that have undergone surgical procedures benefit from complete post-operative care, including treatment administration and recovery monitoring."
+        },
+        {
+          "heading": "Hospital regime treatment",
+          "text": "For conditions requiring repeated treatments or intensive monitoring, we offer hospitalization in veterinary hospital regime, ensuring continuity of care."
+        }
+      ],
+      "features": [
+        "8 hospitalization places",
+        "Permanent supervision",
+        "Complete post-operative care",
+        "Treatment administration",
+        "Vital signs monitoring",
+        "Optimal hygienic conditions",
+        "Hospital regime hospitalization",
+        "Constant communication with owners"
+      ]
+    },
+    "farmacie": {
+      "slug": "farmacie",
+      "title": "Veterinary Pharmaceutical Point",
+      "subtitle": "Quality pharmaceutical products for your animal's health",
+      "description": "Our clinic has a veterinary pharmaceutical point with a varied range of medicines, antiparasitic products and nutritional supplements, accompanied by professional advice for correct product selection and use.",
+      "items": [
+        "Veterinary medicines",
+        "Antiparasitic products",
+        "Nutritional supplements"
+      ],
+      "details": [
+        {
+          "heading": "Veterinary medicines",
+          "text": "We stock a complete range of veterinary medicines for the treatment of various conditions, dispensed on prescription or on the recommendation of the veterinarian."
+        },
+        {
+          "heading": "Antiparasitic products",
+          "text": "We provide external antiparasitic products (anti-flea, anti-tick) and internal ones (anthelmintic) for dogs and cats, from renowned brands."
+        },
+        {
+          "heading": "Nutritional supplements",
+          "text": "Vitamins, minerals, joint supplements, probiotics and other products for maintaining and improving your pet's health."
+        },
+        {
+          "heading": "Pharmaceutical advice",
+          "text": "Our team provides specialized advice on choosing and correctly administering pharmaceutical products, ensuring the safety and effectiveness of treatment."
+        }
+      ],
+      "features": [
+        "Prescription medicines",
+        "External and internal antiparasitic",
+        "Vitamins and minerals",
+        "Joint supplements",
+        "Dermatological products",
+        "Dental products",
+        "Medical food",
+        "Personalized advice"
+      ]
+    },
+    "hrana": {
+      "slug": "hrana",
+      "title": "Animal Food",
+      "subtitle": "Quality nutritional products for dogs and cats",
+      "description": "We offer a varied range of food for pets, to ensure them a healthy and enjoyable life. Our products are adapted to the specific nutritional needs of your animal's breed, age and health status.",
+      "items": [
+        "Food for dogs and cats",
+        "Age-adapted formulas",
+        "Special medical food"
+      ],
+      "details": [
+        {
+          "heading": "Dry and wet food",
+          "text": "Varied range of dry and wet food for dogs and cats, from internationally renowned brands, with nutritionally balanced formulas for optimal health."
+        },
+        {
+          "heading": "Age-adapted food",
+          "text": "Special formulas for puppies/kittens, adults and senior animals, adapted to the specific nutritional needs of each life stage."
+        },
+        {
+          "heading": "Medical food",
+          "text": "Veterinary diets for animals with renal, cardiac, digestive or dermatological conditions, or for weight management, recommended by the veterinarian."
+        },
+        {
+          "heading": "Premium products",
+          "text": "Food made from high-quality natural ingredients, without artificial additives, for animals with special nutritional needs or for owners who choose the best."
+        }
+      ],
+      "features": [
+        "Dry food for dogs",
+        "Wet food for dogs",
+        "Dry food for cats",
+        "Wet food for cats",
+        "Puppy/kitten formulas",
+        "Senior formulas",
+        "Veterinary medical food",
+        "Premium products"
+      ]
+    },
+    "cosmetica": {
+      "slug": "cosmetica",
+      "title": "Animal Grooming",
+      "subtitle": "Professional care services for your pet",
+      "description": "In a pleasant environment, with qualified staff passionate about animals, we offer complete grooming and cosmetic care solutions for your pet.",
+      "items": [
+        "Professional trimming and grooming",
+        "Washing and drying",
+        "Coat and nail care"
+      ],
+      "details": [
+        {
+          "heading": "Professional grooming",
+          "text": "Trimming adapted to the breed and owner's preferences, performed by specialized staff experienced in caring for all breeds of dogs and cats."
+        },
+        {
+          "heading": "Washing and drying",
+          "text": "Washing with special shampoos adapted to the coat type, followed by professional drying and brushing for a well-groomed appearance and healthy coat."
+        },
+        {
+          "heading": "Coat care",
+          "text": "Regular brushing, dematting, special treatments for dry or problem coats, ensuring the health and shine of your animal's coat."
+        },
+        {
+          "heading": "Nail and ear care",
+          "text": "Nail trimming and ear cleaning, essential procedures for the comfort and health of the animal, performed with care and gentleness."
+        }
+      ],
+      "features": [
+        "Professional trimming",
+        "Washing with special shampoos",
+        "Professional drying",
+        "Brushing and dematting",
+        "Nail trimming",
+        "Ear cleaning",
+        "Coat treatments",
+        "Specialized and passionate staff"
+      ]
+    },
+    "accesorii": {
+      "slug": "accesorii",
+      "title": "Accessories & Toys",
+      "subtitle": "Everything you need for a happy and active pet",
+      "description": "We offer a varied range of accessories and toys for pets, to ensure them an active, healthy and fun life, along with all the products needed for their daily comfort and safety.",
+      "items": [
+        "Collars, leashes and harnesses",
+        "Interactive toys",
+        "Transport products"
+      ],
+      "details": [
+        {
+          "heading": "Collars, leashes and harnesses",
+          "text": "Safe and comfortable walking accessories for dogs of all sizes, including chest harnesses, adjustable collars and retractable leashes of quality."
+        },
+        {
+          "heading": "Interactive toys",
+          "text": "Toys that stimulate the animal's physical and mental activity, from balls and frisbees to interactive puzzles for dogs and cats."
+        },
+        {
+          "heading": "Transport products",
+          "text": "Crates, transport bags and car covers, for safe and comfortable travel of your animal to the vet or on vacation."
+        },
+        {
+          "heading": "Comfort products",
+          "text": "Blankets, beds, cushions and other accessories that provide a comfortable space and restful sleep for the pet."
+        }
+      ],
+      "features": [
+        "Collars and leashes",
+        "Harnesses and chest harnesses",
+        "Toys for dogs",
+        "Toys for cats",
+        "Crates and transport bags",
+        "Blankets and beds",
+        "Grooming products",
+        "Clothes and accessories"
+      ]
+    }
+  }
+}
