@@ -1,16 +1,14 @@
-import React from "react"
 import type { Metadata } from 'next'
-import { Geist, Geist_Mono } from 'next/font/google'
+import { Inter, DM_Sans } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/next'
-import { CookieBanner } from '@/components/cookie-banner'
 import './globals.css'
 
-const _geist = Geist({ subsets: ["latin"] });
-const _geistMono = Geist_Mono({ subsets: ["latin"] });
+const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
+const dmSans = DM_Sans({ subsets: ["latin"], variable: "--font-dm-sans" });
 
 export const metadata: Metadata = {
   title: 'G-TRANS ESPERTO | Transport și Logistică',
-  description: 'G-TRANS ESPERTO - Firmă de transport și logistică din România. Transport rutier de mărfuri, grupaj, transport exclusiv și transport textile pe umerașe.',
+  description: 'Din 2008, oferim servicii profesionale de transport rutier de mărfuri în România și Europa. Siguranță, punctualitate și încredere.',
   generator: 'v0.app',
   icons: {
     icon: [
@@ -38,9 +36,8 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ro">
-      <body className={`font-sans antialiased`}>
+      <body className={`${inter.variable} ${dmSans.variable} font-sans antialiased`}>
         {children}
-        <CookieBanner />
         <Analytics />
       </body>
     </html>
