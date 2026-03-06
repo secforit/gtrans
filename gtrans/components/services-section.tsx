@@ -7,7 +7,7 @@ const services = [
   {
     icon: Package,
     title: "Transport in regim de grupaj",
-    description: "Dube de 3,5 T, folosite in special pentru transporturi rapide de marfa usoara cu volum mic. Acestea pot avea diferite dimensiuni, fiind potrivite pentru numeroase tipuri de marfa.",
+    description: "Oferim transport in grupaj cu camionete de 3,5 tone (carosate sau cu prelata), camioane si tiruri. Solutia ideala pentru marfa usoara sau volum mic, cu Monitorizare GPS si asigurare CMR.",
     image: "/images/groupage-van.jpg",
     features: ["Asigurare CMR completa", "Monitorizare GPS in timp real", "Livrare rapida si sigura"],
   },

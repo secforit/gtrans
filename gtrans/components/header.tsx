@@ -24,9 +24,9 @@ export function Header() {
             <Image
               src="/images/logo.svg"
               alt="G-Trans Esperto"
-              width={140}
-              height={40}
-              className="h-10 w-auto"
+              width={200}
+              height={60}
+              className="h-14 w-auto brightness-0 invert"
               priority
             />
           </Link>
