@@ -1,3 +1,4 @@
+import Image from "next/image"
 import { Check } from "lucide-react"
 
 const features = [
@@ -14,14 +15,14 @@ export function Logistics() {
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="grid gap-16 lg:grid-cols-2 lg:gap-24 items-center">
           <div className="relative">
-            <div className="aspect-[4/3] rounded-3xl bg-neutral-100 overflow-hidden">
-              <div className="absolute inset-0 bg-[linear-gradient(to_right,#00000008_1px,transparent_1px),linear-gradient(to_bottom,#00000008_1px,transparent_1px)] bg-[size:32px_32px]" />
-              <div className="absolute inset-0 flex items-center justify-center">
-                <div className="text-center">
-                  <div className="text-8xl font-light text-neutral-300">G-T</div>
-                  <div className="text-sm text-neutral-400 tracking-widest uppercase mt-2">Esperto</div>
-                </div>
-              </div>
+            <div className="aspect-[4/3] rounded-3xl overflow-hidden">
+              <Image
+                src="/images/logistics-warehouse.jpg"
+                alt="Logistica G-Trans Esperto"
+                fill
+                className="object-cover"
+              />
+              <div className="absolute inset-0 bg-neutral-900/10" />
             </div>
             <div className="absolute -bottom-6 -right-6 bg-neutral-900 rounded-2xl p-6 text-white">
               <div className="text-3xl font-light">100%</div>

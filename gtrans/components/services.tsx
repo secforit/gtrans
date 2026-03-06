@@ -1,21 +1,22 @@
-import { Package, Truck, Shirt, ArrowUpRight } from "lucide-react"
+import Image from "next/image"
+import { ArrowUpRight } from "lucide-react"
 import Link from "next/link"
 
 const services = [
   {
-    icon: Package,
+    image: "/images/groupage-van.jpg",
     number: "01",
     title: "Transport grupaj",
     description: "Dube de 3,5 T pentru transporturi rapide de marfa usoara cu volum mic. Monitorizare GPS si asigurare CMR completa.",
   },
   {
-    icon: Truck,
+    image: "/images/exclusive-truck.jpg",
     number: "02",
     title: "Transport exclusivitate",
     description: "Servicii de transport in regim de exclusivitate pentru marfuri generale, frigorifice, agabaritice sau periculoase (ADR).",
   },
   {
-    icon: Shirt,
+    image: "/images/textile-transport.jpg",
     number: "03",
     title: "Transport textile",
     description: "Camionetele noastre sunt echipate cu faguri pe pereti, astfel incat hainele pot fi incarcate in siguranta pe umerase.",
@@ -41,21 +42,27 @@ export function Services() {
 
         <div className="grid gap-px bg-neutral-200 md:grid-cols-3">
           {services.map((service) => (
-            <div key={service.title} className="group relative bg-white p-8 md:p-10 hover:bg-neutral-50 transition-colors">
-              <div className="flex items-start justify-between mb-12">
-                <span className="text-sm text-neutral-300 font-medium">{service.number}</span>
-                <div className="flex h-12 w-12 items-center justify-center rounded-full bg-neutral-100 group-hover:bg-neutral-900 transition-colors">
-                  <service.icon className="h-5 w-5 text-neutral-600 group-hover:text-white transition-colors" />
-                </div>
+            <div key={service.title} className="group relative bg-white hover:bg-neutral-50 transition-colors">
+              <div className="relative h-52 overflow-hidden">
+                <Image
+                  src={service.image}
+                  alt={service.title}
+                  fill
+                  className="object-cover group-hover:scale-105 transition-transform duration-500"
+                />
+                <div className="absolute inset-0 bg-neutral-900/20 group-hover:bg-neutral-900/10 transition-colors" />
+                <span className="absolute top-4 left-4 text-sm text-white/70 font-medium">{service.number}</span>
               </div>
 
-              <h3 className="text-xl font-medium text-neutral-900 mb-3">{service.title}</h3>
-              <p className="text-neutral-500 text-sm leading-relaxed mb-8">{service.description}</p>
+              <div className="p-8 md:p-10">
+                <h3 className="text-xl font-medium text-neutral-900 mb-3">{service.title}</h3>
+                <p className="text-neutral-500 text-sm leading-relaxed mb-8">{service.description}</p>
 
-              <Link href="#contact" className="inline-flex items-center gap-2 text-sm font-medium text-neutral-900 hover:text-neutral-600 transition-colors">
-                Solicita oferta
-                <ArrowUpRight className="h-4 w-4" />
-              </Link>
+                <Link href="#contact" className="inline-flex items-center gap-2 text-sm font-medium text-neutral-900 hover:text-neutral-600 transition-colors">
+                  Solicita oferta
+                  <ArrowUpRight className="h-4 w-4" />
+                </Link>
+              </div>
             </div>
           ))}
         </div>

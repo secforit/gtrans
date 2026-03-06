@@ -1,3 +1,4 @@
+import Image from "next/image"
 import Link from "next/link"
 
 const links = [
@@ -13,12 +14,13 @@ export function Footer() {
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="py-12 md:py-16 flex flex-col md:flex-row md:items-center md:justify-between gap-8">
           <div>
-            <div className="flex items-center gap-3">
-              <div className="flex flex-col">
-                <span className="text-lg font-semibold text-white tracking-tight">G-TRANS</span>
-                <span className="text-[9px] font-medium text-white/40 tracking-[0.3em] uppercase -mt-1">Esperto</span>
-              </div>
-            </div>
+            <Image
+              src="/images/logo.svg"
+              alt="G-Trans Esperto"
+              width={140}
+              height={40}
+              className="h-10 w-auto"
+            />
             <p className="mt-4 text-white/40 max-w-sm text-sm">
               Din 2008, oferim servicii profesionale de transport rutier de marfuri in Romania si Europa.
             </p>
