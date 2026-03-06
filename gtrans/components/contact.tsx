@@ -12,8 +12,8 @@ const contactItems = [
   {
     icon: Mail,
     label: "Email",
-    value: "logistica@g-trans.ro",
-    href: "mailto:logistica@g-trans.ro",
+    value: "logistica@gtrans.ro",
+    href: "mailto:logistica@gtrans.ro",
   },
   {
     icon: MapPin,

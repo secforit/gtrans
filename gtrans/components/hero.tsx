@@ -11,7 +11,7 @@ export function Hero() {
         src="/images/hero-truck.png"
         alt="G-Trans Esperto truck"
         fill
-        className="object-cover opacity-20"
+        className="object-cover opacity-60"
         priority
       />
       <div className="absolute inset-0 bg-gradient-to-r from-[#0a0a0a] via-[#0a0a0a]/80 to-transparent" />

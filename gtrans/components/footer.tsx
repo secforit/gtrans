@@ -12,7 +12,7 @@ export function Footer() {
   return (
     <footer className="bg-[#0a0a0a] border-t border-white/5">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-        <div className="py-12 md:py-16 flex flex-col md:flex-row md:items-center md:justify-between gap-8">
+        <div className="py-8 flex flex-col md:flex-row md:items-center md:justify-between gap-6">
           <div>
             <Image
               src="/images/logo.svg"
